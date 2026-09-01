@@ -1,0 +1,15 @@
+Arquivo de teste
+para o exercício
+5.10.3
+Ler o arquivo até
+um certo limite de linhas
+melhor para ver que o Dracula
+de Bram Stoker
+aa
+bb
+lorem
+ipsum
+dolor
+lorem ipsum dolor sit amet
+q
+isso
