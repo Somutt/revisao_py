@@ -1,0 +1,11 @@
+services:
+  app:
+    build: .
+    container_name: revisao_py_container
+    ports:
+      - "8888:8888"
+    volumes:
+      # Mapeia o diretório local para a pasta /app do container
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1
