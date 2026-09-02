@@ -20,7 +20,7 @@ O projeto utiliza o **`uv`** para criação e gerenciamento de ambientes virtuai
 
 ### 1. Clonar o Repositório
 ```bash
-git clone [https://github.com/seu-usuario/revisao_py.git](https://github.com/seu-usuario/revisao_py.git)
+git clone [git@github.com:Somutt/revisao_py.git](git@github.com:Somutt/revisao_py.git)
 cd revisao_py
 ```
 
