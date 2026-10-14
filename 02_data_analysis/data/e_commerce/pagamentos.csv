@@ -1,0 +1,5001 @@
+,pedido_id,forma_pagamento,status_pagamento
+0,101269,Debito,Cancelado
+1,104267,PIX,Pago
+2,105746,Crédito,Pago
+3,104817, pix ,Pendente
+4,103043,Debito,Pago
+5,104911,Crédito,Pago
+6,101059,Crédito,Pago
+7,104301,Debito,Pago
+8,100890,PIX,Pago
+9,105504,Debito,Pago
+10,102953,PIX,Pendente
+11,103338,PIX,Pago
+12,105697,PIX,Pago
+13,103682,Debito,Pendente
+14,102745,PIX,Pago
+15,104846,Crédito,Pago
+16,101509,Debito,Pago
+17,103338,Crédito,Pago
+18,103034,Crédito,Pendente
+19,101768,PIX,Pendente
+20,101133,PIX,Cancelado
+21,101202,Crédito,Pendente
+22,100249,Crédito,Pago
+23,101896,,Pago
+24,105125,Debito,Pago
+25,105277,Crédito,Pago
+26,100230,Crédito,Pago
+27,102676,PIX,Pago
+28,101285,Debito,Pago
+29,102876,Crédito,Pago
+30,100321,PIX,Pago
+31,100028,PIX,Pago
+32,102899,PIX,Pago
+33,100510,,Pago
+34,100641,Crédito,Pago
+35,104637,,Pago
+36,103251, pix ,Pago
+37,103748,Debito,Pago
+38,102720, pix ,Pago
+39,103904,PIX,Cancelado
+40,105006, pix ,Pago
+41,101312,PIX,Cancelado
+42,105614,Crédito,Pago
+43,103337,PIX,Pago
+44,101491,Crédito,Pendente
+45,101419,Crédito,Pago
+46,101459,PIX,Pago
+47,103460,,Pago
+48,104905,PIX,Pendente
+49,105657,PIX,Pago
+50,102568,Crédito,Pago
+51,101338,PIX,Cancelado
+52,103693,PIX,Pago
+53,105249,Crédito,Pago
+54,104610,Crédito,Pago
+55,103082,PIX,Pago
+56,100347,Debito,Pago
+57,100117,Debito,Pago
+58,102459,,Pago
+59,101421,,Pago
+60,101855,PIX,Pago
+61,103083,PIX,Cancelado
+62,105518,Crédito,Pago
+63,101632,Crédito,Pago
+64,102000,,Pago
+65,102146,PIX,Pago
+66,104378,PIX,Cancelado
+67,100807,Crédito,Pago
+68,101692, pix ,Pago
+69,102705,Crédito,Pago
+70,105541,Crédito,Pago
+71,103436,Crédito,Pendente
+72,100211,PIX,Pago
+73,101691,PIX,Pago
+74,101778,PIX,Pago
+75,103148,Crédito,Pago
+76,105443, pix ,Pago
+77,102500,,Cancelado
+78,100687,Crédito,Pago
+79,102671, pix ,Pendente
+80,105067,,Pago
+81,100930,Debito,Pago
+82,104114,Crédito,Pago
+83,101315,,Cancelado
+84,102834,Crédito,Pago
+85,101774,Crédito,Pago
+86,102246,PIX,Pago
+87,101186,PIX,Pendente
+88,102465,PIX,Cancelado
+89,100384,PIX,Pago
+90,105866,PIX,Pendente
+91,104991,Debito,Pago
+92,103924,Debito,Pago
+93,101522,Debito,Pago
+94,100980,PIX,Pago
+95,104178,,Cancelado
+96,103611,Debito,Pago
+97,105701,Crédito,Pago
+98,103271,,Pendente
+99,101954,Crédito,Pago
+100,105547,Crédito,Pago
+101,101485, pix ,Pago
+102,100884,PIX,Pago
+103,102528,Debito,Pago
+104,104824,, cancelado 
+105,100124,,Pago
+106,105758,Debito,Cancelado
+107,100526, pix ,Pago
+108,102087,PIX,Pago
+109,102156,Crédito,Pago
+110,101377,,Pago
+111,104407,Crédito,Pendente
+112,103462,Debito,Pago
+113,104136,Debito,Pago
+114,104877,PIX,Pago
+115,100581,Crédito,Pendente
+116,101994, pix , cancelado 
+117,104526,PIX,Pago
+118,103936,Crédito,Pago
+119,100457,PIX,Pago
+120,102801,PIX,Pendente
+121,105347,Debito,Cancelado
+122,101452,Crédito,Pago
+123,100204,PIX,Pendente
+124,102827,Crédito,Pago
+125,104214,PIX,Pendente
+126,101853,Crédito,Cancelado
+127,105924,Debito,Cancelado
+128,103466,Debito,Pago
+129,104046,PIX,Pago
+130,104993,Crédito,Cancelado
+131,102444,Crédito,Pago
+132,102053,Crédito,Pago
+133,104604,PIX,Cancelado
+134,102193,Crédito,Pago
+135,105050,Crédito,Pago
+136,102710,Crédito,Pago
+137,101183, pix ,Pago
+138,102829,,Pago
+139,100959,PIX,Pago
+140,104075,Debito,Pago
+141,105951,Crédito,Pago
+142,102059,Debito,Pago
+143,100069,Debito,Pendente
+144,105824,Debito,Pago
+145,101638,Debito,Cancelado
+146,105060,Debito,Pago
+147,105664,Crédito,Cancelado
+148,100202,Crédito,Pago
+149,100266,Crédito,Pago
+150,103126,Crédito,Pago
+151,100239,Crédito,Pendente
+152,105047,Crédito, cancelado 
+153,100291,Crédito, cancelado 
+154,103395,Crédito,Pago
+155,101809,Crédito,Pago
+156,102090,Crédito,Pago
+157,100955,Debito,Pago
+158,105318,PIX,Pago
+159,104729,,Pago
+160,101931,,Pago
+161,104081,Debito,Pendente
+162,100284,Debito,Pago
+163,100807,Crédito,Pago
+164,105131,,Pago
+165,101907,PIX,Cancelado
+166,102677, pix ,Cancelado
+167,103572,Crédito,Pago
+168,104672,Debito,Pago
+169,103760,Crédito,Pago
+170,104070,,Pago
+171,101619,Crédito,Pago
+172,105023,PIX,Pago
+173,105122,Crédito,Pago
+174,104907,PIX,Pendente
+175,105362,Crédito,Pago
+176,100809,PIX,Pago
+177,103787,Debito,Pago
+178,100942,PIX,Pendente
+179,100040,Crédito,Pago
+180,101339, pix ,Pago
+181,104653,PIX,Cancelado
+182,101322,Debito,Pago
+183,101655,PIX,Pago
+184,105013,Crédito,Pago
+185,103069,Crédito,Pendente
+186,104739,PIX,Pago
+187,100395,PIX,Pago
+188,100792,PIX,Pago
+189,103634,PIX,Pago
+190,101945,PIX,Pago
+191,100744,,Pago
+192,105675,Debito,Pago
+193,105336,PIX,Pago
+194,104373, pix ,Pago
+195,100194,Debito,Pago
+196,104275,Debito,Pago
+197,105263,PIX,Pendente
+198,103898, pix ,Pendente
+199,105658,PIX,Pago
+200,100218,Crédito,Pago
+201,103583,Debito,Pago
+202,105084,Crédito,Pendente
+203,104653,Debito,Pendente
+204,103491,Debito,Pago
+205,105344,Crédito,Pendente
+206,102816,Debito, cancelado 
+207,103904,PIX, cancelado 
+208,103924, pix , cancelado 
+209,101786,Crédito,Pendente
+210,104173,Debito,Pago
+211,104695,Debito,Pago
+212,103834,Crédito,Pendente
+213,105328,Debito,Pago
+214,101183, pix ,Pago
+215,100524,Crédito,Pago
+216,103297,Debito,Pendente
+217,105478,Debito,Pago
+218,104480,Crédito,Pago
+219,105686,Crédito,Pago
+220,105570,PIX, cancelado 
+221,100369, pix ,Pago
+222,105591,PIX,Pago
+223,104384,PIX,Pago
+224,100399,PIX,Pago
+225,102152,Crédito,Pago
+226,105431,PIX,Pendente
+227,103881,Debito,Cancelado
+228,100127,PIX,Pago
+229,102088,Crédito,Pago
+230,103144, pix ,Pendente
+231,101771,PIX,Pago
+232,104054,Crédito,Pago
+233,100247,Debito,Pendente
+234,105926,Debito,Pendente
+235,103319,Crédito,Cancelado
+236,102082,Debito,Pago
+237,102058,Debito,Cancelado
+238,105288,Crédito,Pago
+239,105904,Debito,Pago
+240,105336,Crédito,Pendente
+241,102990,Crédito,Pago
+242,105872,Crédito,Pago
+243,103598,Crédito,Pendente
+244,105722,,Pendente
+245,100340,,Pago
+246,102729, pix ,Pago
+247,101592,Crédito,Pendente
+248,105784,PIX,Pendente
+249,103162,PIX,Cancelado
+250,101309,Crédito,Pago
+251,104630, pix ,Pago
+252,103339,,Pago
+253,104905,PIX,Pago
+254,102699,Crédito,Pago
+255,103124,PIX,Pago
+256,102298,Crédito,Pago
+257,105451,Crédito,Pago
+258,105322,PIX,Pago
+259,102054,Debito,Pago
+260,104945,Crédito,Pago
+261,101510,Crédito,Pago
+262,105319,PIX,Pago
+263,103808,,Pago
+264,100013,Debito,Pago
+265,104035,Crédito,Pendente
+266,105531,Debito,Cancelado
+267,101581,PIX,Pago
+268,103434,PIX,Pendente
+269,104634,Debito,Pago
+270,102052,Crédito,Pago
+271,103877,Crédito,Cancelado
+272,105909, pix ,Pago
+273,104818,Crédito,Pago
+274,101824,PIX,Pendente
+275,103431,Crédito,Cancelado
+276,102741,PIX,Cancelado
+277,101789,Crédito, cancelado 
+278,101953,Crédito,Pago
+279,102705,Debito,Pago
+280,100952,Debito,Pago
+281,104724,Debito,Pago
+282,103421,PIX,Pago
+283,103028,Debito,Pendente
+284,103102,PIX,Pago
+285,103961,Debito,Pago
+286,105874,PIX,Pago
+287,103589,Debito,Pago
+288,103846, pix ,Pendente
+289,105738,Debito,Pago
+290,101148,Debito,Pago
+291,103518,PIX,Pago
+292,103059,Debito,Pago
+293,101418,Debito,Pago
+294,103910,PIX,Pago
+295,104746,PIX,Pago
+296,103690, pix ,Pago
+297,102773,PIX, cancelado 
+298,104908,Crédito,Pago
+299,105176, pix ,Pago
+300,102829, pix ,Pago
+301,102170,Crédito,Pago
+302,102250,Crédito,Pago
+303,103859,PIX,Cancelado
+304,101626,Crédito,Pago
+305,102750,Debito,Pago
+306,102606,,Pago
+307,101848,Crédito,Pendente
+308,105962,Crédito,Pago
+309,100579,PIX,Pago
+310,101137,Crédito,Pago
+311,103411, pix , cancelado 
+312,103134,Crédito,Pago
+313,102275,PIX,Pago
+314,102222,Crédito,Pago
+315,105116,PIX, cancelado 
+316,101158,PIX,Pago
+317,103859,,Pago
+318,101650,Debito,Pago
+319,104665, pix ,Cancelado
+320,105414,PIX,Pago
+321,104373,,Pago
+322,105612,Crédito,Pago
+323,101587,PIX,Cancelado
+324,101959,Debito,Pendente
+325,105591,Crédito,Pago
+326,102324,PIX,Pago
+327,100234,PIX,Pago
+328,101266,PIX,Pendente
+329,100032,Crédito,Pago
+330,103439,Crédito,Pago
+331,101372,Crédito,Pago
+332,100760,,Pago
+333,103204,Debito,Pago
+334,105895,Debito,Pago
+335,101795,Debito,Pago
+336,104889,Crédito,Pendente
+337,105488,Crédito,Pendente
+338,100762,Debito,Pago
+339,104361,PIX,Pago
+340,104081, pix ,Pendente
+341,100282, pix ,Pago
+342,104072,,Pago
+343,103904,Crédito,Pago
+344,104626,Crédito,Pago
+345,104056,Crédito,Pago
+346,105979,PIX,Pago
+347,100816,PIX,Pago
+348,104560,PIX,Pago
+349,101471,Debito,Pago
+350,105483,Debito,Pago
+351,103288,PIX,Pendente
+352,104260,Crédito,Pendente
+353,105823,PIX,Pago
+354,105707,,Pago
+355,102586,Debito,Pendente
+356,100511,PIX,Cancelado
+357,105894,PIX, cancelado 
+358,105341,Crédito,Pago
+359,100555,Crédito,Pago
+360,103706,Crédito,Cancelado
+361,101307,PIX,Pago
+362,103143,Crédito,Pago
+363,105494, pix ,Pago
+364,100259,,Pago
+365,101225,Crédito,Pago
+366,101666,Crédito,Pago
+367,101404,PIX, cancelado 
+368,101866,PIX,Pago
+369,100766,Debito,Pago
+370,100065,Debito,Pago
+371,103450, pix ,Pago
+372,102706,Debito,Cancelado
+373,105766,Crédito,Pago
+374,104975,,Pago
+375,100196,Crédito,Pago
+376,101384,Crédito,Pago
+377,105892,Debito,Pago
+378,102436,Crédito,Pago
+379,104161,,Pago
+380,105417,Debito,Pendente
+381,101451, pix ,Pago
+382,100223,Crédito,Pago
+383,105629,Crédito,Pago
+384,100442,PIX,Pago
+385,101438,,Pago
+386,103188,Crédito,Cancelado
+387,104999,PIX,Pago
+388,102368,Crédito,Pago
+389,104866,PIX,Pago
+390,100883,,Pago
+391,100451,PIX,Pago
+392,105199,PIX,Pago
+393,100743,Crédito,Pago
+394,105706,Crédito,Pendente
+395,101545,Crédito,Pago
+396,103351,Crédito,Pago
+397,102830,PIX,Pago
+398,102614,Debito,Pendente
+399,101916,Crédito,Pago
+400,101249, pix ,Pago
+401,100528,,Pago
+402,104820,Debito,Pago
+403,100241,Debito,Pendente
+404,102143,Crédito,Pendente
+405,100365,Debito, cancelado 
+406,101209,Debito,Pago
+407,105256,,Pago
+408,104121,PIX,Pago
+409,102366,PIX,Pago
+410,102962,Crédito,Pendente
+411,104658,Debito, cancelado 
+412,104777,Crédito,Pago
+413,102148, pix ,Pago
+414,102418,Crédito,Pago
+415,101617,Debito,Pendente
+416,101036,Crédito,Pago
+417,100720,PIX, cancelado 
+418,104683,Debito,Pago
+419,100974,Debito,Pendente
+420,101847,Crédito,Pago
+421,101372,Debito,Cancelado
+422,101467,PIX,Pago
+423,100691,,Pago
+424,100088,Crédito,Pago
+425,102513,,Pago
+426,103849,Debito,Pago
+427,100494,Crédito,Pago
+428,101246,PIX, cancelado 
+429,101142,Debito,Pendente
+430,104232,Crédito,Pendente
+431,100978,PIX,Pendente
+432,102235,Debito,Pago
+433,100542,PIX,Pago
+434,105026,PIX,Pago
+435,101403,Debito,Cancelado
+436,100811,Debito,Pago
+437,104508,Crédito,Pago
+438,103493,Debito,Pago
+439,104313,Crédito,Pago
+440,104926,Crédito, cancelado 
+441,101134,Debito,Pago
+442,104381,Crédito,Pendente
+443,104866,PIX,Pago
+444,105993,Debito, cancelado 
+445,100569,PIX,Cancelado
+446,103001,Crédito,Pago
+447,101322,Debito,Pago
+448,102745,PIX,Pendente
+449,104626,,Pago
+450,103579,,Pago
+451,101768,PIX,Pago
+452,102075,PIX,Pago
+453,102044,PIX,Pago
+454,101142,Debito,Pendente
+455,101078,PIX,Pendente
+456,104600,Debito,Pendente
+457,100152,Crédito, cancelado 
+458,104833,PIX,Pago
+459,100479, pix ,Pago
+460,103234,Crédito,Pago
+461,101686,PIX,Cancelado
+462,105336,Debito,Pago
+463,103492,Debito,Pago
+464,101372,PIX,Pago
+465,105460,,Cancelado
+466,103901,Debito,Cancelado
+467,104946,PIX,Pendente
+468,102602,Debito,Pago
+469,103424,PIX,Pago
+470,101697,PIX,Pago
+471,103658,PIX,Pago
+472,103977,,Pago
+473,101399,Crédito,Pago
+474,105657,Debito,Pago
+475,103981,PIX,Pendente
+476,105423,PIX,Pendente
+477,105362,PIX,Pago
+478,101402,Crédito,Cancelado
+479,101709,PIX,Pago
+480,101413,PIX,Pago
+481,103231,Crédito,Pago
+482,105850,PIX, cancelado 
+483,102503,Crédito,Pago
+484,104723,PIX,Cancelado
+485,101265,Crédito,Pago
+486,102260,Crédito,Pendente
+487,100363,Crédito,Pago
+488,102646,Crédito,Pendente
+489,101533,PIX, cancelado 
+490,105385, pix ,Cancelado
+491,104753,Debito,Pendente
+492,101384,Crédito,Pago
+493,100667,Debito,Pago
+494,102813,Debito,Pendente
+495,102476,Debito,Pago
+496,103101,Debito,Pendente
+497,103402,PIX,Pago
+498,105016,Debito,Pago
+499,103106,PIX,Pago
+500,102552,PIX,Pago
+501,103900,Crédito,Pago
+502,102152,,Pago
+503,100388,Crédito,Pago
+504,105865,Debito,Pendente
+505,105001,,Pago
+506,103162,Crédito,Cancelado
+507,102381,Crédito,Pago
+508,100377,Debito,Pendente
+509,104336,Crédito,Pago
+510,104278,PIX,Pago
+511,101281,PIX,Pago
+512,100744,Debito,Pago
+513,104937,PIX,Pendente
+514,103487,PIX,Pendente
+515,105375, pix ,Pago
+516,101069,PIX,Pendente
+517,101009,,Pago
+518,104694,Debito,Pendente
+519,105113,Crédito,Pago
+520,104297,Debito,Pago
+521,100343, pix ,Pago
+522,103284,Crédito,Cancelado
+523,100631,PIX,Pago
+524,100298,PIX,Pago
+525,100698,,Pago
+526,105317,PIX,Pago
+527,105969,PIX,Pago
+528,101506, pix ,Pago
+529,102761,,Cancelado
+530,105026,Debito,Pendente
+531,102826,,Cancelado
+532,100379,Crédito,Pago
+533,102796,PIX,Pago
+534,100706,Debito,Pago
+535,102415,Debito,Pago
+536,105657, pix ,Cancelado
+537,100771,PIX,Cancelado
+538,104002,Debito,Pago
+539,101095,Crédito,Pendente
+540,105148,,Cancelado
+541,103465,Debito,Pendente
+542,103595,Crédito,Pago
+543,104445,PIX,Pago
+544,105238,Debito,Pago
+545,101232,PIX,Pendente
+546,101447,Crédito,Pendente
+547,104189,Debito,Pago
+548,102403,,Pago
+549,105643,,Pendente
+550,101827, pix ,Pago
+551,103848,PIX,Pago
+552,101093,Crédito,Pago
+553,104678,Debito,Pago
+554,101721,PIX,Pago
+555,100883,Crédito,Pago
+556,100124,Crédito, cancelado 
+557,103491,Debito,Pago
+558,105854,Debito,Pendente
+559,103595,Crédito,Pago
+560,105798,Debito,Pendente
+561,100603,,Pago
+562,103832,Crédito,Pago
+563,105461,PIX,Pago
+564,100305,Debito,Pago
+565,103229, pix ,Pago
+566,103160,PIX,Pago
+567,101252,Crédito,Pago
+568,100937,Crédito,Pago
+569,103718,PIX,Pendente
+570,102314,Crédito,Pago
+571,102132,Debito,Pago
+572,103284,Debito,Pago
+573,103290,Crédito,Cancelado
+574,104845,Debito,Cancelado
+575,102199,Debito,Pago
+576,100686,Crédito,Pago
+577,104236,PIX, cancelado 
+578,100055,, cancelado 
+579,103213,Crédito,Pago
+580,104170,Crédito,Pago
+581,103207,,Pendente
+582,105093,PIX,Pago
+583,102956, pix ,Pendente
+584,101945,Debito,Pago
+585,100642,Debito,Pago
+586,104840,,Pago
+587,105701,Debito,Pago
+588,100062,PIX,Pago
+589,101224,PIX,Cancelado
+590,102538, pix ,Pago
+591,100493,,Pago
+592,101140,Debito,Pago
+593,105491,Crédito,Pago
+594,101256,Crédito,Pago
+595,102496, pix ,Pendente
+596,103286,Crédito,Cancelado
+597,102256,Crédito,Pago
+598,101002, pix ,Pago
+599,101126,Debito,Pago
+600,103882, pix ,Pago
+601,104106,PIX,Pago
+602,103545,Debito,Pago
+603,101147,Crédito,Pago
+604,100787,Debito,Pago
+605,102052,Crédito,Pago
+606,100259,PIX,Pago
+607,103850,Debito,Pago
+608,105808,Crédito,Pago
+609,104617,PIX,Pago
+610,100716,PIX,Pago
+611,101644,,Pago
+612,100124,PIX,Pago
+613,101774,Crédito,Pago
+614,100922,PIX, cancelado 
+615,102178,PIX,Pendente
+616,101504,,Pendente
+617,105852,PIX,Pago
+618,105662,Debito, cancelado 
+619,101853,,Pendente
+620,102125,PIX,Pago
+621,103255,Crédito,Pago
+622,102414,Debito,Pago
+623,104388,Crédito,Pago
+624,105834,PIX,Pendente
+625,100157,PIX,Pago
+626,101124,Crédito,Pendente
+627,105004,PIX,Pago
+628,105754,PIX,Cancelado
+629,100918,Crédito,Pago
+630,105947,Crédito, cancelado 
+631,101703, pix ,Pago
+632,101666,Debito,Pago
+633,105390, pix ,Pago
+634,104234,Crédito,Pago
+635,105808,Crédito,Pendente
+636,102112,PIX,Pago
+637,103715,PIX,Pago
+638,102555,Debito,Pago
+639,105111,,Pago
+640,105820,Crédito,Pago
+641,103025, pix ,Pago
+642,104036,PIX, cancelado 
+643,102837,Crédito,Cancelado
+644,102398,PIX,Cancelado
+645,102195,,Pago
+646,105455,PIX,Pago
+647,101556,PIX,Pago
+648,103626,Debito,Pago
+649,102910,PIX,Pago
+650,104503,,Pago
+651,100344,PIX,Cancelado
+652,104748,PIX,Pendente
+653,101545,Crédito, cancelado 
+654,103997, pix ,Pago
+655,105970,Crédito,Pago
+656,102819,PIX,Pendente
+657,105256,Crédito,Pago
+658,100039,Debito,Pago
+659,105440,PIX,Pendente
+660,104383,PIX,Pago
+661,105064, pix ,Cancelado
+662,105583,Crédito,Pago
+663,104987,Crédito,Cancelado
+664,104758,,Pago
+665,103424,Crédito,Pago
+666,101029,PIX,Pago
+667,100236,,Pago
+668,100969, pix ,Pago
+669,105225,Debito,Cancelado
+670,101231,PIX,Pendente
+671,100239,PIX,Pago
+672,101855,Debito,Pago
+673,104925,Crédito,Pago
+674,100052,PIX,Pago
+675,102156,Crédito,Pendente
+676,101381,PIX,Pago
+677,101057,PIX,Cancelado
+678,100022,Debito,Pago
+679,100307,Crédito,Pago
+680,104107,PIX,Pendente
+681,105759,Debito,Pago
+682,102610,PIX,Pago
+683,104294,Crédito,Pago
+684,103601,Crédito,Pago
+685,101966,Crédito,Pago
+686,105164,Crédito,Pago
+687,105305,Crédito,Pago
+688,104647,PIX,Pago
+689,103579,Crédito,Pago
+690,105562,Crédito,Cancelado
+691,102544,Crédito,Pago
+692,100505,PIX,Pago
+693,100137,PIX,Pago
+694,105085,Debito,Pago
+695,101303,PIX,Pago
+696,104015,PIX,Pendente
+697,103615,Crédito,Pago
+698,104948, pix ,Pago
+699,105143,Debito,Pago
+700,104807,Debito,Pago
+701,100507,PIX,Pago
+702,104782,Crédito,Pago
+703,101534,Crédito,Cancelado
+704,103642,,Pago
+705,104004,Debito,Pago
+706,100708,Debito,Pendente
+707,101624,PIX, cancelado 
+708,104238,Crédito,Pago
+709,102329,Crédito,Cancelado
+710,103015,Crédito,Pendente
+711,101708,PIX,Pago
+712,100302,Debito,Pago
+713,102445,PIX,Pago
+714,100318,Crédito,Pago
+715,105907,PIX,Pago
+716,102956,Debito,Cancelado
+717,102928,Crédito,Pago
+718,100858,PIX,Cancelado
+719,102721,Debito,Pendente
+720,103023,PIX,Pago
+721,100677,Crédito,Cancelado
+722,100379,PIX,Pendente
+723,100217,Crédito,Pago
+724,103701,PIX,Pendente
+725,102897,PIX,Pago
+726,104964,Crédito,Pago
+727,104530,Crédito,Pago
+728,104852,PIX,Cancelado
+729,102990,Crédito,Pendente
+730,103831, pix ,Pago
+731,103657,Debito,Pago
+732,105404,Debito,Pago
+733,101507,Crédito,Pago
+734,101291,Crédito,Pago
+735,101940,Crédito, cancelado 
+736,104695,Crédito,Cancelado
+737,100236,Crédito,Pago
+738,101784,Debito,Pago
+739,104196,Debito,Cancelado
+740,102787,Crédito,Pendente
+741,101378,Crédito,Pago
+742,102756,Debito,Pago
+743,102084,PIX, cancelado 
+744,104410,Debito,Pago
+745,104096,,Cancelado
+746,104647,Crédito, cancelado 
+747,104613,Crédito,Pago
+748,102701,Crédito, cancelado 
+749,104105,Crédito,Pago
+750,103550,,Pago
+751,104153,Debito,Pago
+752,102331,Debito,Pago
+753,104557,Crédito,Pago
+754,105479, pix ,Pago
+755,103762,PIX,Pago
+756,102012,Debito,Pago
+757,102642, pix ,Pendente
+758,105026,,Pago
+759,102113,Crédito,Pendente
+760,103501,Crédito,Pago
+761,104951,Crédito,Pago
+762,105988,PIX,Pago
+763,104232,Crédito,Pago
+764,104858, pix ,Pago
+765,101010,Debito,Pago
+766,101630, pix ,Pago
+767,103120,PIX,Pago
+768,100850,PIX,Pago
+769,102868,Debito,Pendente
+770,102040,,Pago
+771,103236,PIX,Pago
+772,100479,PIX,Pago
+773,101311,Debito,Cancelado
+774,104632,,Pago
+775,102144,Debito,Pago
+776,105617, pix ,Pendente
+777,100414,Debito,Pago
+778,101657,PIX,Cancelado
+779,102632,,Pago
+780,103937,Debito,Pago
+781,101395,PIX,Pendente
+782,102624,Debito,Pago
+783,102291,Crédito,Pendente
+784,100639,PIX,Pago
+785,103445,Crédito,Pendente
+786,100353,Debito,Pago
+787,104522,Debito,Pago
+788,103149,Crédito,Pago
+789,104606,PIX,Pago
+790,103589,Crédito,Pago
+791,100140,PIX,Pago
+792,100252,Crédito,Pago
+793,100669,Crédito,Pago
+794,103843,Debito,Pago
+795,100317,Crédito,Pago
+796,104019,Debito,Cancelado
+797,102927,Crédito,Pago
+798,102010,Debito,Pago
+799,102946,Debito,Pago
+800,101053,Debito,Pago
+801,104637,PIX,Pendente
+802,103564,PIX,Pago
+803,101124,Debito,Pago
+804,101344,Crédito, cancelado 
+805,100570,Debito,Pago
+806,104819,PIX,Pago
+807,103722,PIX,Pago
+808,103917,Crédito,Pago
+809,101001,Debito,Pendente
+810,102924,,Cancelado
+811,102237,Debito,Pendente
+812,104546,Debito,Pendente
+813,103926,Crédito, cancelado 
+814,103253,Debito,Pendente
+815,103393,Crédito,Pago
+816,102331,Crédito,Pago
+817,103393,PIX,Pago
+818,102618,Crédito,Pago
+819,104121,,Pago
+820,105936,Debito,Pendente
+821,104356,PIX,Pago
+822,102014,Debito,Pago
+823,101928,Debito,Pago
+824,102545,,Pago
+825,105333,Crédito,Pago
+826,104548, pix ,Pago
+827,104796,PIX,Pendente
+828,103720,PIX,Cancelado
+829,103674,Crédito,Pago
+830,101552,PIX,Pago
+831,101683,Crédito,Cancelado
+832,100385,,Pago
+833,104709,PIX,Pago
+834,105538,Debito,Pago
+835,103037,,Pago
+836,102267,Crédito, cancelado 
+837,104653,,Pago
+838,104446,PIX,Pago
+839,100390,Crédito,Pago
+840,102919,PIX,Cancelado
+841,102114,PIX,Pago
+842,101143,PIX,Pago
+843,100746,Debito,Pago
+844,101731,Crédito,Pendente
+845,105859,Crédito,Pendente
+846,104123,,Cancelado
+847,104386,Crédito,Pago
+848,104124,,Pago
+849,103231,Crédito,Cancelado
+850,103217,Debito,Cancelado
+851,102515,Crédito,Pago
+852,101770,,Pago
+853,100108,Crédito,Pago
+854,104987,Debito,Pago
+855,102487, pix ,Pendente
+856,104299,PIX,Pago
+857,100777, pix ,Pendente
+858,105086,,Pago
+859,101934,,Pago
+860,100438,PIX,Pago
+861,101035,PIX,Pago
+862,100837,PIX,Cancelado
+863,104703,Crédito,Pago
+864,100642,PIX,Pago
+865,103175,Crédito,Pago
+866,101809, pix ,Pago
+867,103876,PIX,Pago
+868,100643,,Pago
+869,100703,Crédito,Pago
+870,102849,PIX,Pago
+871,102918,PIX,Pago
+872,103613,,Pago
+873,101723,Crédito,Pago
+874,100849,Crédito, cancelado 
+875,102555,PIX,Pago
+876,101463,PIX,Pago
+877,105963,Debito,Pago
+878,103830,,Pago
+879,103783,Crédito,Pendente
+880,100511,PIX,Cancelado
+881,102157,Crédito,Pago
+882,102920,Crédito,Pago
+883,105192,,Pago
+884,100733,Debito,Pago
+885,102951, pix ,Pendente
+886,103961, pix ,Pago
+887,101238,PIX,Pago
+888,101481,Debito,Pago
+889,102466, pix , cancelado 
+890,102011,Debito,Pendente
+891,105630,Debito,Pendente
+892,104758,Crédito,Pago
+893,105298,Debito,Pendente
+894,102736,,Pago
+895,104200,PIX,Pago
+896,102760, pix ,Pago
+897,100578,Crédito,Cancelado
+898,105178,,Pago
+899,103497,Crédito,Pendente
+900,100819,,Pago
+901,104175, pix ,Pendente
+902,105944,Crédito,Pago
+903,101890,PIX, cancelado 
+904,100559,PIX,Pago
+905,102934,Debito,Pago
+906,105803,Crédito,Pago
+907,101620, pix ,Pago
+908,105950,Debito,Pago
+909,100070,Crédito,Pago
+910,101190,Crédito,Pago
+911,102903,PIX,Pendente
+912,105178,Crédito,Pago
+913,105571,PIX,Pago
+914,104341,PIX,Pago
+915,103117,Debito,Cancelado
+916,100684,Debito,Pendente
+917,105896,PIX,Pago
+918,105698,,Pendente
+919,103911,PIX,Pago
+920,103773,,Pago
+921,100071,Debito,Pago
+922,105985,PIX,Pendente
+923,101263,Crédito,Cancelado
+924,102156,PIX, cancelado 
+925,105328,PIX,Pago
+926,104818, pix ,Pago
+927,104398,,Pago
+928,105550,,Pago
+929,101372,Crédito,Pago
+930,101916,Debito,Pendente
+931,105526,Crédito,Pago
+932,103806,Crédito,Pago
+933,105048,Crédito,Pago
+934,104352,Debito,Cancelado
+935,105050, pix ,Pago
+936,105265,PIX,Pago
+937,105796, pix ,Pago
+938,101548,,Pago
+939,103899,Debito,Pago
+940,104456, pix ,Pago
+941,103556,Crédito,Pago
+942,101214,Debito,Pago
+943,102141,Debito,Cancelado
+944,105250,Crédito,Pendente
+945,100861,Debito,Pago
+946,100990,Debito,Cancelado
+947,104580,PIX,Cancelado
+948,102924, pix ,Pago
+949,101433,PIX,Pago
+950,100341,PIX,Pago
+951,102378,Crédito,Pendente
+952,101199,PIX,Pago
+953,101468,Crédito,Pago
+954,104297,Crédito,Pago
+955,104839,Crédito,Pago
+956,104194,PIX,Cancelado
+957,105673,PIX,Cancelado
+958,101292,Crédito,Pago
+959,104935,Crédito,Pago
+960,100352,PIX,Pago
+961,101302,PIX,Pago
+962,103640,Debito,Pago
+963,103088,Crédito,Pendente
+964,100456,Crédito,Pago
+965,105854,Crédito,Pago
+966,103251,PIX,Pago
+967,101158,PIX,Pago
+968,100258,PIX,Pago
+969,102110,Debito,Pago
+970,100482,PIX,Pago
+971,105597,Debito,Cancelado
+972,105096,Crédito,Pago
+973,104731,Crédito,Pago
+974,103114, pix , cancelado 
+975,101397,PIX,Pago
+976,105419,Crédito,Pago
+977,105172,PIX,Pago
+978,105499,Crédito,Pendente
+979,102627,PIX,Pago
+980,100648,,Pago
+981,105107,Crédito,Pago
+982,101612,Crédito,Pago
+983,103826,Debito,Pago
+984,104589,PIX,Pendente
+985,104587,Crédito,Pago
+986,102269,Debito,Pago
+987,103885,Crédito,Pago
+988,105717,Crédito,Pago
+989,102755,PIX,Pago
+990,105222,PIX,Pago
+991,105915,PIX,Cancelado
+992,104983,Crédito,Pendente
+993,103587,PIX,Pago
+994,103385,Debito,Pago
+995,104590,Debito,Pago
+996,100759,Debito, cancelado 
+997,105780, pix ,Pendente
+998,100633,PIX,Pago
+999,103585,Debito,Pago
+1000,100330, pix ,Pendente
+1001,103020,PIX,Pago
+1002,105447,Crédito,Cancelado
+1003,100010,Debito, cancelado 
+1004,104054,Crédito,Pendente
+1005,102175,Debito,Pago
+1006,100985,PIX,Pago
+1007,100669,,Pago
+1008,102279,Crédito,Pendente
+1009,105135,Crédito,Pago
+1010,100442,Debito,Pago
+1011,102926,Debito,Pago
+1012,104021,PIX,Pago
+1013,105678,Debito, cancelado 
+1014,100274,Debito,Cancelado
+1015,104714,Crédito,Pendente
+1016,101027, pix ,Cancelado
+1017,102374,Crédito,Pago
+1018,104349,Crédito,Pago
+1019,101558,PIX,Pago
+1020,103127,Debito,Pago
+1021,102934,PIX,Pago
+1022,100448,Crédito,Cancelado
+1023,103369,,Pago
+1024,103694,Crédito,Pendente
+1025,103807,Debito,Pendente
+1026,104565,Debito,Pago
+1027,105256, pix ,Pago
+1028,103997,PIX,Pendente
+1029,103318,Crédito,Pago
+1030,100070,Debito,Pendente
+1031,104577,PIX,Pago
+1032,102578,PIX,Cancelado
+1033,104586,PIX,Pendente
+1034,104599,Debito,Pago
+1035,103057,PIX,Pago
+1036,105818,Debito,Pago
+1037,100117,,Pago
+1038,101814,,Pago
+1039,105015,PIX,Pago
+1040,100904, pix ,Cancelado
+1041,104524,Debito,Cancelado
+1042,100494,PIX,Pendente
+1043,103859,Crédito,Pago
+1044,105947, pix ,Pago
+1045,102684,Debito,Pendente
+1046,104176,PIX,Cancelado
+1047,103731, pix ,Pago
+1048,105142,PIX,Pago
+1049,104691,Debito,Pago
+1050,105444,Crédito,Pendente
+1051,101541,Crédito,Pendente
+1052,100626,Debito,Pago
+1053,104380,Debito,Pago
+1054,105973,Crédito,Pago
+1055,105308,Debito,Pendente
+1056,104859,Crédito,Pendente
+1057,100838,Crédito,Pendente
+1058,102016,PIX,Pago
+1059,102016,Debito,Pago
+1060,103080,Debito,Pendente
+1061,105157,Crédito,Cancelado
+1062,105718, pix ,Pago
+1063,100072,,Pago
+1064,103453,Debito,Pago
+1065,104749,,Pago
+1066,103879,Debito,Pago
+1067,100064,Crédito,Pago
+1068,100030,Crédito,Pago
+1069,103972,Crédito,Cancelado
+1070,104653,PIX,Pago
+1071,102326,Debito,Pago
+1072,105851,PIX,Pago
+1073,104373,Debito, cancelado 
+1074,105313,Debito,Pago
+1075,104766,Crédito, cancelado 
+1076,102880,Crédito,Pendente
+1077,102189,PIX,Pago
+1078,102782,PIX,Pendente
+1079,104122,PIX,Pago
+1080,102146,Crédito,Pago
+1081,100276,Crédito,Pendente
+1082,101267,,Pendente
+1083,103974,Crédito,Pendente
+1084,104105,Crédito,Pendente
+1085,102944,PIX,Pago
+1086,102981,Crédito,Pago
+1087,102320,,Pendente
+1088,105892,PIX,Pago
+1089,100032,,Pago
+1090,100852,PIX,Pago
+1091,100605,PIX,Pago
+1092,103200, pix ,Pago
+1093,105869,PIX,Pago
+1094,102065,Crédito,Pago
+1095,103545,Debito,Pago
+1096,102349,Crédito,Pago
+1097,101808,Debito,Pago
+1098,103860,Debito,Pago
+1099,104138,Crédito,Pago
+1100,105898,Crédito,Pendente
+1101,102199,Crédito,Cancelado
+1102,103873, pix ,Pago
+1103,103563,PIX,Cancelado
+1104,103199,PIX,Pago
+1105,104505,Crédito,Pago
+1106,101893,Crédito,Pendente
+1107,104440,Crédito,Cancelado
+1108,105815,Debito,Pago
+1109,103170,Debito,Pago
+1110,102948, pix ,Pago
+1111,104124,PIX,Pago
+1112,103101,Crédito,Pago
+1113,103922,,Pago
+1114,104730,PIX,Pago
+1115,104308,PIX,Pago
+1116,104784,Crédito,Pago
+1117,103689,,Pago
+1118,105600,Debito,Pago
+1119,100072,Crédito,Pago
+1120,102158,PIX, cancelado 
+1121,101137,Crédito,Pago
+1122,105517,,Pago
+1123,104328, pix ,Pago
+1124,104078,Debito,Pago
+1125,100043,Crédito,Pago
+1126,104361,Debito,Pago
+1127,101832,Crédito,Pago
+1128,100046,Crédito,Pago
+1129,103642,Debito,Pago
+1130,101676,Crédito,Pago
+1131,103353,PIX,Cancelado
+1132,101270,Crédito,Pago
+1133,103984, pix , cancelado 
+1134,103964,Crédito,Pago
+1135,103024,PIX,Pago
+1136,102791,PIX,Pago
+1137,103171,Crédito,Pago
+1138,104823,PIX,Pago
+1139,101013,PIX,Pago
+1140,104590,PIX,Pago
+1141,103508,Debito,Pago
+1142,104803,PIX,Pago
+1143,102072,PIX,Pago
+1144,102006,PIX,Cancelado
+1145,102318,PIX,Cancelado
+1146,104834,Crédito,Pendente
+1147,105348,Crédito,Pago
+1148,102176,Debito,Pago
+1149,104639,Crédito,Pago
+1150,101787,Debito,Cancelado
+1151,103130,Debito,Pendente
+1152,102373,Debito,Pago
+1153,105226,Crédito,Pendente
+1154,101461,,Pendente
+1155,105122,Crédito,Pago
+1156,105557, pix ,Pendente
+1157,101465,Debito,Pago
+1158,105342,PIX,Pago
+1159,103042,Crédito,Pago
+1160,105145,PIX,Pago
+1161,101059,, cancelado 
+1162,100972,PIX,Pendente
+1163,102391, pix ,Pago
+1164,105084,Crédito,Pago
+1165,105486,PIX,Pago
+1166,105456,Debito,Pago
+1167,103000,Debito,Pago
+1168,102505,Crédito,Pago
+1169,100899,Debito,Pago
+1170,101814,Debito,Pendente
+1171,101503,PIX,Pago
+1172,105926, pix ,Pago
+1173,100343,Debito,Pago
+1174,103861,,Pago
+1175,103352, pix ,Pendente
+1176,102861,Debito,Pago
+1177,101249,Crédito,Pago
+1178,101209,Crédito,Pago
+1179,105011,Crédito,Pendente
+1180,105763, pix ,Pago
+1181,104391,Crédito,Pago
+1182,102140,Crédito,Pago
+1183,101611,Crédito,Pendente
+1184,101980,Crédito,Pago
+1185,105378,Crédito,Pago
+1186,102798,Crédito,Pago
+1187,100557,,Pago
+1188,103995,Crédito,Pago
+1189,104405,Crédito,Pago
+1190,105769,,Pago
+1191,103687,PIX,Cancelado
+1192,101153,Crédito,Pendente
+1193,103745,Crédito,Pago
+1194,103622,Crédito,Pago
+1195,105281,PIX,Pendente
+1196,105891,Crédito,Pago
+1197,103360,PIX, cancelado 
+1198,100973,PIX,Cancelado
+1199,103908,Crédito,Pago
+1200,103729,Debito,Pago
+1201,105034,,Pago
+1202,103412, pix ,Pendente
+1203,103067,PIX,Pago
+1204,101292,Debito,Pago
+1205,104314,Debito,Pago
+1206,102861,Debito,Pago
+1207,100164,PIX,Pago
+1208,103920,PIX,Pago
+1209,101715,PIX,Pago
+1210,103463,,Pago
+1211,101441,PIX,Pago
+1212,102096,PIX,Pago
+1213,105314,Debito,Pago
+1214,100801,Crédito,Cancelado
+1215,102766,Debito,Pago
+1216,102661,PIX,Pago
+1217,101691,Crédito,Pago
+1218,100234,Debito,Pago
+1219,101877, pix , cancelado 
+1220,100962,,Pago
+1221,103371, pix ,Pago
+1222,105002,Crédito,Pago
+1223,105110,Crédito,Pendente
+1224,101046,Debito,Pago
+1225,104482,Crédito,Pago
+1226,104460,PIX,Pago
+1227,101408,Crédito,Pago
+1228,100208,Debito,Pago
+1229,104371,Crédito,Pago
+1230,101753,PIX,Pago
+1231,100496,PIX,Pago
+1232,100902,,Pago
+1233,103599,,Pago
+1234,102207,Debito,Pago
+1235,101750, pix ,Pago
+1236,100460,PIX,Pago
+1237,104490,PIX,Pendente
+1238,100917, pix ,Cancelado
+1239,104260,Crédito, cancelado 
+1240,104735,,Pago
+1241,103402,PIX,Pago
+1242,104666,Debito,Pago
+1243,102195,Debito,Pendente
+1244,100960,PIX,Pendente
+1245,104864,PIX,Pago
+1246,102158,PIX,Pago
+1247,100394,Crédito,Pago
+1248,103633,Crédito,Pago
+1249,105302,PIX,Pendente
+1250,105693,Crédito,Pendente
+1251,104539,Crédito,Pendente
+1252,104059,Crédito,Pago
+1253,104843,Crédito,Cancelado
+1254,102178,Debito, cancelado 
+1255,101867,Crédito, cancelado 
+1256,101800, pix ,Pago
+1257,100505,PIX,Pago
+1258,100720,PIX,Pago
+1259,101988,Debito,Pago
+1260,105774,PIX,Pago
+1261,100875,Debito,Pago
+1262,102879,Crédito,Cancelado
+1263,100634,Crédito,Pago
+1264,104378,PIX,Cancelado
+1265,105540,Crédito,Pago
+1266,102421,Crédito,Pago
+1267,101325,Debito,Pago
+1268,101009,PIX,Pago
+1269,102334,PIX,Cancelado
+1270,101140, pix ,Pago
+1271,103221,Crédito,Pago
+1272,100404,,Pago
+1273,103754,PIX,Cancelado
+1274,103191,Crédito,Pago
+1275,100696, pix , cancelado 
+1276,100908,Debito,Pago
+1277,103848,Crédito,Pendente
+1278,103165,Crédito,Pago
+1279,101927,Debito,Pago
+1280,100121,PIX,Pago
+1281,105863,,Pago
+1282,102866,Crédito,Pendente
+1283,103732,Debito,Pago
+1284,105774,Crédito,Pago
+1285,103916,PIX,Pago
+1286,103592,,Cancelado
+1287,103577,PIX,Pendente
+1288,104487,Debito,Pendente
+1289,102415,PIX,Pago
+1290,100841,Crédito,Cancelado
+1291,102806,,Pago
+1292,105586,PIX,Pago
+1293,103307,PIX,Pago
+1294,103434,PIX,Cancelado
+1295,105362,PIX,Pago
+1296,101466,PIX,Pago
+1297,101857,PIX,Pago
+1298,102236,Crédito,Pendente
+1299,100404,Debito,Pago
+1300,105946,,Pendente
+1301,100413,Crédito,Pago
+1302,101538,PIX,Pago
+1303,104250,Crédito,Pendente
+1304,100217,Debito,Pago
+1305,101025,PIX,Cancelado
+1306,102814,PIX,Pago
+1307,104895,Debito,Pendente
+1308,100806,, cancelado 
+1309,103350,PIX,Pago
+1310,105039,Crédito,Pago
+1311,102817,Debito,Pendente
+1312,102810, pix ,Pago
+1313,101272,Crédito,Pago
+1314,100434,PIX,Pago
+1315,100429,Crédito,Pago
+1316,101188,Crédito,Pago
+1317,105615,, cancelado 
+1318,104258,PIX,Pago
+1319,102555,Crédito,Pendente
+1320,102313, pix ,Cancelado
+1321,101996,Crédito,Pago
+1322,102158,Debito,Cancelado
+1323,105972,PIX,Cancelado
+1324,104996,PIX,Pago
+1325,101743, pix , cancelado 
+1326,101343,PIX,Pago
+1327,101156,Debito, cancelado 
+1328,103205,,Pendente
+1329,100394,Crédito,Pago
+1330,103643,Debito,Pago
+1331,105825,PIX,Pago
+1332,104818, pix ,Pago
+1333,105492,PIX,Pago
+1334,102041, pix ,Cancelado
+1335,102079,Debito,Pendente
+1336,105294,Debito,Pendente
+1337,102865,,Pago
+1338,103462,PIX,Pago
+1339,105830,Debito,Pago
+1340,105216, pix ,Pago
+1341,105113,PIX,Pago
+1342,105150,PIX,Pago
+1343,104257,PIX,Pendente
+1344,101330,PIX,Pendente
+1345,101647,Debito,Pago
+1346,102656,Debito,Pendente
+1347,102386,,Pago
+1348,105258,Debito,Pago
+1349,102838,Crédito, cancelado 
+1350,105430,PIX,Pago
+1351,105299,Crédito,Pago
+1352,104433,PIX,Pago
+1353,103306,Crédito,Pago
+1354,103321,Crédito,Pago
+1355,103877,,Pago
+1356,103527,PIX,Pendente
+1357,104159,Debito,Pago
+1358,104915,Crédito,Pago
+1359,105512, pix ,Cancelado
+1360,102305,,Cancelado
+1361,101272,Debito,Pago
+1362,101288,PIX,Pago
+1363,104945,Crédito,Pago
+1364,100361,PIX,Pago
+1365,101975,Debito, cancelado 
+1366,102928, pix , cancelado 
+1367,103465,Debito,Pago
+1368,102227,PIX,Pago
+1369,105045,Crédito,Pago
+1370,105626,Crédito,Pago
+1371,101851,Crédito,Pago
+1372,105933,Debito, cancelado 
+1373,102547,Crédito,Pago
+1374,102725,,Pago
+1375,103675,PIX,Pago
+1376,103906,PIX,Cancelado
+1377,103776,PIX, cancelado 
+1378,104388,Crédito,Cancelado
+1379,104684, pix ,Pago
+1380,100818,,Pago
+1381,102147,Crédito,Pago
+1382,100181,,Pendente
+1383,104470,Debito,Pago
+1384,105956,Crédito, cancelado 
+1385,104720,Debito,Cancelado
+1386,104959,,Pago
+1387,100442,PIX,Pago
+1388,102293,PIX,Pago
+1389,101663,Crédito,Pago
+1390,100871,Crédito,Pago
+1391,102875, pix ,Pago
+1392,102500,Debito,Cancelado
+1393,105868,Crédito,Cancelado
+1394,103213,Crédito,Pago
+1395,101657,Crédito,Cancelado
+1396,101897,PIX,Pago
+1397,101090,PIX,Pago
+1398,100483,Debito,Pago
+1399,100309,Crédito, cancelado 
+1400,105580,Crédito,Pago
+1401,100593,Debito,Pago
+1402,103844,PIX,Pago
+1403,101019,Debito,Pago
+1404,104494,Crédito,Pendente
+1405,104565,Crédito,Pago
+1406,104713,Debito,Pendente
+1407,104193,PIX,Pago
+1408,103262,Crédito,Pendente
+1409,104291,PIX,Pago
+1410,101358,Debito,Pago
+1411,100083,PIX,Cancelado
+1412,100251, pix ,Pendente
+1413,101094,Debito,Pago
+1414,105412,,Pago
+1415,102388,PIX,Pago
+1416,101409,Crédito, cancelado 
+1417,101482,PIX,Cancelado
+1418,103212,Debito,Pago
+1419,101099,,Pago
+1420,104196,Debito,Pago
+1421,103729,PIX,Pendente
+1422,105295,,Pago
+1423,103893,Crédito,Pago
+1424,100733,Debito,Pago
+1425,100323,PIX,Cancelado
+1426,102058,PIX,Pago
+1427,103061, pix ,Cancelado
+1428,103701,Debito,Cancelado
+1429,105636,Debito,Pendente
+1430,103385,PIX,Pago
+1431,101262,Debito,Pago
+1432,100806,Crédito,Pago
+1433,105004,PIX,Pago
+1434,101534,Crédito,Pendente
+1435,102042,Crédito,Pendente
+1436,104226,Crédito,Pago
+1437,103825,PIX,Pago
+1438,103457,Debito,Pago
+1439,103665,Debito,Pago
+1440,103097,Debito,Pago
+1441,105680,Crédito,Pago
+1442,104660,Debito,Pendente
+1443,101354,Crédito, cancelado 
+1444,100149,PIX,Pago
+1445,105529,Crédito,Pago
+1446,105731,Debito,Pago
+1447,101784,Debito,Pago
+1448,105554,Debito,Pendente
+1449,102276,Crédito,Pago
+1450,100615,PIX,Pago
+1451,101825,PIX,Pago
+1452,100240,PIX,Pago
+1453,100913,Crédito,Pago
+1454,103014,PIX,Pago
+1455,105410,Crédito,Pendente
+1456,105274,Crédito,Pago
+1457,103754,Crédito,Pago
+1458,100159,Crédito,Pago
+1459,104659,PIX,Pago
+1460,104572,Crédito,Pago
+1461,100548,PIX,Pago
+1462,105133,Crédito,Pago
+1463,102901,Debito,Pago
+1464,102266, pix , cancelado 
+1465,100755,Debito,Pendente
+1466,100735,PIX,Pendente
+1467,103792,Crédito,Pago
+1468,102829,Crédito,Pago
+1469,104318,Debito,Pago
+1470,102336, pix ,Pago
+1471,101925,Crédito,Cancelado
+1472,100524,PIX,Pago
+1473,101511, pix , cancelado 
+1474,102747,,Pago
+1475,104777,,Pago
+1476,105925,PIX,Pago
+1477,100618,Crédito,Cancelado
+1478,100861, pix ,Pago
+1479,105881, pix ,Pago
+1480,105387,PIX,Pago
+1481,104489,Crédito,Pago
+1482,105233,Debito,Pago
+1483,101308,Crédito,Pago
+1484,105910,Debito,Pago
+1485,102901,PIX,Pago
+1486,102822,PIX,Pago
+1487,103866,PIX,Pago
+1488,103315,Debito,Pago
+1489,100035,Debito,Pago
+1490,102101,,Pago
+1491,101380,PIX,Pago
+1492,104246,PIX,Pago
+1493,100437,PIX,Pendente
+1494,104546,PIX,Pago
+1495,102573,,Cancelado
+1496,104363,Debito,Pago
+1497,103980,Debito,Pago
+1498,105729,Debito,Pago
+1499,100309,PIX,Pendente
+1500,104361, pix ,Pendente
+1501,100492,Debito,Pago
+1502,105703,Crédito,Pago
+1503,105137,Debito,Cancelado
+1504,105309,,Pago
+1505,100522,Crédito,Pago
+1506,105286,Debito,Pago
+1507,101915,Crédito,Pago
+1508,105671,,Pago
+1509,102926,PIX,Pendente
+1510,101369,PIX,Pendente
+1511,103291,Crédito,Pago
+1512,102142,PIX,Pendente
+1513,103230,Debito,Pago
+1514,105995,Debito, cancelado 
+1515,104130,PIX,Pago
+1516,102849,PIX,Pendente
+1517,103578, pix ,Pago
+1518,105610,Crédito,Cancelado
+1519,102572,Crédito, cancelado 
+1520,100233,PIX,Pago
+1521,101623,PIX,Pago
+1522,102653,Crédito,Pago
+1523,101217,Crédito,Pago
+1524,103540,PIX,Cancelado
+1525,100522,Crédito,Pago
+1526,104733,,Pago
+1527,102835,PIX,Pago
+1528,103067, pix ,Pago
+1529,103200,PIX,Cancelado
+1530,100341,PIX,Pago
+1531,102745,Debito,Pago
+1532,103947,Debito,Pago
+1533,103939,PIX, cancelado 
+1534,100059,PIX,Pago
+1535,103254,Crédito, cancelado 
+1536,104682,PIX,Cancelado
+1537,105634,Debito,Pago
+1538,100243,Crédito,Cancelado
+1539,100228,Debito,Pago
+1540,104614,Crédito,Cancelado
+1541,102603, pix ,Pago
+1542,105265,Crédito,Pago
+1543,100127,Debito,Pago
+1544,104431,PIX,Pago
+1545,104854, pix ,Pago
+1546,101432,Debito,Pendente
+1547,102169,PIX,Pendente
+1548,105864,Debito,Cancelado
+1549,103960,Crédito,Pago
+1550,102749,Debito,Pago
+1551,101309,PIX,Cancelado
+1552,102126,PIX,Cancelado
+1553,101594,Debito,Pago
+1554,104080,Crédito,Pendente
+1555,101494,Crédito,Pago
+1556,102031,PIX,Pago
+1557,103253,PIX,Cancelado
+1558,104361,PIX,Pendente
+1559,104778,Debito,Pago
+1560,100247,Debito,Pago
+1561,104520,Crédito,Pago
+1562,101083,Crédito,Pendente
+1563,105932,Crédito,Pago
+1564,104929,,Pendente
+1565,101482, pix ,Pago
+1566,100011,PIX,Pago
+1567,102007,Crédito,Pago
+1568,105125,Debito,Cancelado
+1569,105837,Debito,Pago
+1570,103442,Debito,Pago
+1571,103530,Debito,Pago
+1572,102293,,Pago
+1573,100945,PIX,Pago
+1574,100435,Crédito,Pago
+1575,103492,Debito,Pago
+1576,102290,Crédito,Pago
+1577,103344,Crédito,Pago
+1578,102567,,Pendente
+1579,101760,PIX,Pago
+1580,105164,Crédito,Cancelado
+1581,103876,Debito,Pago
+1582,102229,Debito,Cancelado
+1583,100268,PIX,Pago
+1584,102199,Debito,Pago
+1585,103688,Crédito,Pago
+1586,104478,Debito,Pago
+1587,105918,Crédito,Pago
+1588,100515,Debito,Pago
+1589,101744,Crédito,Cancelado
+1590,100930,Crédito,Pago
+1591,105734,Crédito,Pago
+1592,103932,Crédito, cancelado 
+1593,101449,Crédito,Pago
+1594,103888, pix ,Pago
+1595,100199,Debito, cancelado 
+1596,102056,Debito,Cancelado
+1597,101781,Debito,Pago
+1598,104901,Crédito,Pago
+1599,104423,Debito,Pago
+1600,101714, pix ,Pago
+1601,105714,Crédito,Pendente
+1602,105744,,Pendente
+1603,103093, pix ,Pago
+1604,105666, pix ,Pago
+1605,103505,Crédito,Pago
+1606,105147,Debito,Cancelado
+1607,102568,PIX,Cancelado
+1608,100930,Crédito,Pago
+1609,104626,PIX,Pago
+1610,105353, pix ,Pago
+1611,101420,,Pago
+1612,102006,Crédito,Pago
+1613,101331,Crédito,Pago
+1614,102558,Crédito,Pago
+1615,100424,Crédito,Pendente
+1616,100150,Debito,Cancelado
+1617,103464,PIX,Cancelado
+1618,101514,PIX,Pago
+1619,102716,,Pendente
+1620,102994,Debito,Pago
+1621,105167,PIX,Pago
+1622,100139,PIX,Pago
+1623,103726, pix ,Pago
+1624,101871, pix ,Pago
+1625,102062,Debito,Pago
+1626,101996,,Pago
+1627,102819,Debito,Cancelado
+1628,105868,,Cancelado
+1629,101914,PIX,Pago
+1630,105639,Crédito,Pago
+1631,105671,,Pago
+1632,104281,Crédito,Cancelado
+1633,105235,,Pago
+1634,105697,PIX,Pago
+1635,100743,PIX,Pago
+1636,104182,Crédito,Pago
+1637,104234,Crédito,Pendente
+1638,103538,,Pago
+1639,100077,Debito,Pendente
+1640,101992, pix ,Pago
+1641,105257,PIX,Pago
+1642,103706,PIX,Pendente
+1643,103023,PIX,Cancelado
+1644,104872,Crédito,Pendente
+1645,101017,Debito,Pago
+1646,100097,PIX,Pendente
+1647,100995, pix ,Pago
+1648,101555,PIX,Cancelado
+1649,101033,Crédito,Pago
+1650,100083,,Pago
+1651,101536,PIX,Pago
+1652,104526,Debito,Pago
+1653,105210,PIX,Pago
+1654,100513,PIX,Pago
+1655,101923,PIX,Cancelado
+1656,101698,PIX,Cancelado
+1657,105785,Crédito,Pago
+1658,103486,PIX,Pago
+1659,102561,Crédito,Pago
+1660,101915,PIX,Pendente
+1661,104754,Crédito,Pago
+1662,103977,Crédito,Pago
+1663,100647,PIX, cancelado 
+1664,100798,Debito,Pago
+1665,100077,PIX,Pago
+1666,105901,Debito,Pendente
+1667,102684,Debito,Pendente
+1668,100742,Debito,Pago
+1669,101226,PIX,Pago
+1670,105567,Crédito,Pago
+1671,104203,Debito,Pendente
+1672,100965,Crédito,Pago
+1673,105412,Debito,Pago
+1674,105923, pix ,Pago
+1675,104782,PIX,Pago
+1676,105037,Debito,Cancelado
+1677,100312,Crédito,Pendente
+1678,102647,Debito,Cancelado
+1679,102732,PIX,Pago
+1680,100633,Crédito,Pendente
+1681,104764,PIX,Pago
+1682,104695,PIX,Pago
+1683,105546,Crédito,Pago
+1684,103682,PIX,Pendente
+1685,100415,Crédito,Pago
+1686,103207,Crédito,Pago
+1687,101543,Debito,Pago
+1688,100772,Crédito,Pago
+1689,104480, pix ,Cancelado
+1690,102588,PIX,Pago
+1691,105892,,Pago
+1692,100487,PIX,Cancelado
+1693,101780,Crédito,Pago
+1694,100030,Debito,Pago
+1695,100130, pix ,Pago
+1696,105190,Debito,Pago
+1697,104215,Debito,Pago
+1698,102375,Debito,Pago
+1699,103984,Crédito,Pago
+1700,103142,Crédito,Pendente
+1701,100208,Crédito, cancelado 
+1702,104187,Debito,Cancelado
+1703,104216,Crédito,Pago
+1704,100982,PIX,Pago
+1705,104303,PIX,Pago
+1706,104502,PIX,Pago
+1707,102172,Crédito,Pago
+1708,100112,PIX,Pago
+1709,104710,Debito,Pago
+1710,105041, pix ,Pendente
+1711,101410,PIX,Pago
+1712,100706,Crédito,Pendente
+1713,105873,Crédito,Pago
+1714,102780,PIX,Pendente
+1715,104200,Debito,Pago
+1716,102601,Crédito,Pago
+1717,102616,Debito,Pago
+1718,104858,Crédito,Pendente
+1719,102975,Debito,Pago
+1720,105040,Debito,Pago
+1721,100848,PIX,Pago
+1722,102944,Crédito,Pago
+1723,103221,PIX,Pago
+1724,100169,Debito,Pago
+1725,100985,Crédito,Cancelado
+1726,101108,,Pago
+1727,102568,PIX,Cancelado
+1728,100107,Crédito,Pago
+1729,104981,PIX,Pago
+1730,102706, pix ,Pago
+1731,102079,,Pendente
+1732,103619,PIX,Pago
+1733,104343,PIX,Cancelado
+1734,102974,Crédito,Pago
+1735,101554,,Pago
+1736,102003,Crédito,Pago
+1737,100498,Crédito,Pendente
+1738,104950,,Pago
+1739,104400,Crédito,Pago
+1740,101422,PIX,Pago
+1741,103475,Debito,Pago
+1742,104412, pix ,Pendente
+1743,105981,Debito,Pago
+1744,104374,Debito,Pago
+1745,100542,Crédito,Pago
+1746,100789,Crédito,Pago
+1747,100356, pix ,Pago
+1748,105644,Debito,Pago
+1749,103975,Crédito,Pago
+1750,101227,Debito,Pago
+1751,100250,Crédito,Pago
+1752,104199,PIX,Pago
+1753,105588,Crédito,Pago
+1754,103396,Crédito,Pago
+1755,103970,Debito,Pendente
+1756,100532,,Pago
+1757,100559,PIX,Pendente
+1758,101620,Debito,Pago
+1759,101292,Crédito,Pago
+1760,103125,PIX,Pago
+1761,104881,,Pago
+1762,104114,PIX,Pago
+1763,101128,Crédito,Cancelado
+1764,104248,,Pago
+1765,103912,Debito,Pago
+1766,105797,Debito,Pago
+1767,104969,Debito, cancelado 
+1768,105534,Crédito,Pago
+1769,101108,Crédito,Pago
+1770,105428, pix ,Pago
+1771,105271,Debito,Pendente
+1772,104645,PIX,Pago
+1773,101688,,Pago
+1774,105988,PIX,Pendente
+1775,104472,PIX,Pago
+1776,104304,,Cancelado
+1777,105682,Debito,Pago
+1778,104556,Debito,Pago
+1779,103476,,Pago
+1780,102578,Crédito,Pendente
+1781,102533,Crédito,Pago
+1782,104218,Debito,Pago
+1783,102030,PIX,Cancelado
+1784,101144,,Pago
+1785,104347,Debito,Pendente
+1786,105959,Crédito,Pago
+1787,105419,Debito,Pago
+1788,104992,PIX,Pago
+1789,103744,Crédito,Pago
+1790,103591,PIX,Pendente
+1791,103799,PIX,Pago
+1792,101748,PIX,Pendente
+1793,104820,PIX,Pago
+1794,105920,Crédito,Pago
+1795,100218,PIX,Pago
+1796,102811,Crédito,Pago
+1797,103416,Debito,Pago
+1798,105953,Debito,Pago
+1799,105434,Crédito, cancelado 
+1800,101717,Crédito,Pago
+1801,104700,Crédito,Pago
+1802,100290,Debito,Pago
+1803,104698,Crédito,Pago
+1804,103269,Crédito,Pendente
+1805,102744,Crédito,Pago
+1806,105698,PIX,Pago
+1807,100610,PIX,Pago
+1808,102354,Debito,Pago
+1809,100536,PIX,Pago
+1810,103292,PIX,Pago
+1811,103758, pix ,Pago
+1812,100757,Crédito,Pago
+1813,103850,Debito,Pendente
+1814,100354,PIX,Pago
+1815,104831,Debito,Pago
+1816,103892,Debito,Pago
+1817,104331,,Pago
+1818,100306,,Pago
+1819,105230,PIX,Pendente
+1820,102996,Debito,Pago
+1821,105133,PIX,Pago
+1822,103709,Debito,Pago
+1823,102215,,Pago
+1824,104149,PIX,Pendente
+1825,101210,Crédito,Pago
+1826,100276,Debito,Pago
+1827,100147,PIX,Pendente
+1828,103549, pix ,Pendente
+1829,105965,PIX,Pendente
+1830,104726,,Pago
+1831,101954,Debito,Pago
+1832,100852,Crédito,Pago
+1833,104524,PIX,Pago
+1834,100488,Crédito,Pago
+1835,101554,,Pendente
+1836,105497,PIX,Pago
+1837,101762,,Pago
+1838,103184,Debito,Pago
+1839,100584,Crédito,Pago
+1840,104712,PIX,Pago
+1841,104311,Crédito,Pendente
+1842,104606,PIX,Cancelado
+1843,100511,Debito,Pago
+1844,104122,PIX,Pendente
+1845,103814,Crédito,Pago
+1846,102241, pix ,Pago
+1847,102151,PIX,Pago
+1848,105325,,Pago
+1849,105892,Crédito, cancelado 
+1850,103203,Crédito,Pago
+1851,100343, pix ,Pago
+1852,101424,Debito,Pendente
+1853,103868,Debito,Pago
+1854,104396,,Pago
+1855,100146,Debito,Pago
+1856,102818,Crédito,Pago
+1857,104558,Crédito,Pago
+1858,100916,Debito,Cancelado
+1859,104920,PIX,Pago
+1860,101912,Crédito,Pago
+1861,103702,PIX,Pago
+1862,101340,Debito,Pago
+1863,102247, pix ,Pendente
+1864,103918,Crédito,Pendente
+1865,102952,PIX,Pago
+1866,100498,,Pago
+1867,102949,PIX,Cancelado
+1868,100791,Debito,Pago
+1869,104201,Crédito,Pago
+1870,100010,Crédito,Pago
+1871,103099,PIX,Pago
+1872,102817,Crédito,Pago
+1873,100327, pix ,Pago
+1874,103567,,Pago
+1875,100883,Crédito,Pago
+1876,101672,Debito,Pago
+1877,105003,,Pago
+1878,100738,Debito,Pendente
+1879,102175,PIX,Cancelado
+1880,105236,PIX,Pago
+1881,100924,Crédito,Pago
+1882,104267,,Cancelado
+1883,105610,PIX,Pago
+1884,104483,Crédito,Pendente
+1885,102825,Crédito,Cancelado
+1886,105108,,Pago
+1887,105721,PIX,Pago
+1888,101154,Crédito,Cancelado
+1889,102071,Crédito,Pago
+1890,104601,Crédito,Pago
+1891,100921,,Pago
+1892,103483,Debito,Pago
+1893,105652,Debito,Cancelado
+1894,101444,,Pago
+1895,104508,Debito,Pago
+1896,102802,Debito,Pendente
+1897,101776,,Pendente
+1898,100029,Crédito,Cancelado
+1899,102293,,Pago
+1900,103704,Crédito, cancelado 
+1901,100826,Debito,Pago
+1902,103742,Debito,Pendente
+1903,105180,,Pago
+1904,100139,Debito,Cancelado
+1905,104453,Crédito,Pago
+1906,102260,Crédito,Pago
+1907,101163,Debito,Pago
+1908,103440,PIX,Cancelado
+1909,102534,PIX,Pendente
+1910,105613, pix ,Pago
+1911,101360, pix ,Pago
+1912,105731,PIX,Pendente
+1913,102226,PIX,Pago
+1914,102561,Crédito,Pago
+1915,103673,,Pendente
+1916,102161,Crédito,Pago
+1917,100283,Debito,Pago
+1918,101140,PIX,Pago
+1919,101798,,Pendente
+1920,104137,Debito,Pago
+1921,102980, pix ,Pago
+1922,101191,Crédito,Pago
+1923,101245,PIX,Pago
+1924,104409,Debito,Pago
+1925,101931,PIX,Pago
+1926,102519,Debito,Pago
+1927,105251,Debito,Pago
+1928,100048,Crédito,Pago
+1929,100134,Debito,Pago
+1930,105676,Crédito,Cancelado
+1931,103047,Crédito,Pago
+1932,102365,Crédito,Pendente
+1933,103510,Debito, cancelado 
+1934,103507,Crédito,Pago
+1935,102134,Crédito,Pago
+1936,105168,Crédito,Pago
+1937,104095,Debito,Pago
+1938,102538,Debito,Pago
+1939,105985, pix ,Pago
+1940,102472,PIX,Pendente
+1941,102435,Crédito,Pendente
+1942,105022,PIX,Pago
+1943,104336,Crédito,Pago
+1944,103523,PIX,Pago
+1945,102306,Debito,Pago
+1946,104140,Debito,Pago
+1947,105288,Debito,Pago
+1948,101811,,Cancelado
+1949,105311,Crédito,Pago
+1950,100664,,Pago
+1951,105682,PIX,Cancelado
+1952,105945,,Pago
+1953,103055,PIX,Pago
+1954,104850,PIX,Pago
+1955,104201,PIX,Pago
+1956,105023, pix ,Pendente
+1957,103493,Debito,Pago
+1958,105995,PIX,Pago
+1959,105469,PIX,Pago
+1960,100954,Debito,Pendente
+1961,101674, pix ,Pago
+1962,101343,Crédito,Pendente
+1963,103492,Crédito,Pago
+1964,102743,PIX,Pago
+1965,102105,PIX,Pago
+1966,100240,Debito,Pendente
+1967,102625,PIX,Pago
+1968,103050,PIX,Pago
+1969,102110,Crédito,Pago
+1970,104248,PIX,Pago
+1971,104226, pix ,Pago
+1972,101464,Debito,Pago
+1973,105332,PIX,Pago
+1974,100400,Crédito,Pago
+1975,102722, pix ,Pendente
+1976,105837,PIX,Pendente
+1977,101938,Debito,Pago
+1978,104637,Crédito,Pago
+1979,100182,PIX,Pago
+1980,101075,PIX,Pago
+1981,105867,,Pendente
+1982,102574,Crédito,Pago
+1983,102398,Crédito,Cancelado
+1984,101082,Crédito,Pago
+1985,100419,Debito,Pago
+1986,101161,Crédito,Pago
+1987,100640,,Pago
+1988,102085,Crédito,Pendente
+1989,104590,PIX,Cancelado
+1990,100359,Debito,Pago
+1991,101804,PIX,Pago
+1992,105205,,Pago
+1993,100539,PIX,Pago
+1994,104440,Debito,Pago
+1995,102219,Crédito,Pago
+1996,101714, pix ,Pago
+1997,100866,,Cancelado
+1998,102068,Crédito,Pago
+1999,102351,PIX,Pago
+2000,100776,Debito,Pago
+2001,105093,PIX,Pendente
+2002,103269,,Pendente
+2003,104672,Crédito,Pendente
+2004,103628,PIX,Pago
+2005,101036,Debito,Pendente
+2006,100361,PIX,Pago
+2007,102820,Debito,Pago
+2008,100296,PIX, cancelado 
+2009,101427,Debito,Cancelado
+2010,103510,Debito,Pago
+2011,102817,PIX,Pago
+2012,105495,Crédito,Pago
+2013,105867,Debito,Pendente
+2014,102866,PIX,Pendente
+2015,100693,Crédito,Pago
+2016,104596,PIX,Pendente
+2017,101068,PIX,Pago
+2018,101133,Crédito, cancelado 
+2019,101122,PIX,Cancelado
+2020,105859,PIX,Pago
+2021,101242,Debito,Pago
+2022,100947,Crédito,Pago
+2023,103148,,Pago
+2024,101616,Debito,Cancelado
+2025,104660,Crédito,Pago
+2026,100063,PIX,Pago
+2027,105716,PIX,Cancelado
+2028,100394,PIX,Pago
+2029,101527,,Pago
+2030,101502,Crédito,Pago
+2031,100520,PIX,Pendente
+2032,100389,,Pendente
+2033,100588,PIX,Pago
+2034,103498,PIX,Pendente
+2035,103062,Debito,Cancelado
+2036,105710,Debito,Cancelado
+2037,104732,PIX,Pago
+2038,102572,,Pago
+2039,100280,Crédito,Pago
+2040,103117,Debito,Pendente
+2041,103473,,Pago
+2042,101985,Crédito,Pago
+2043,102282,PIX,Pago
+2044,104282,Debito,Pendente
+2045,100805,Debito,Pago
+2046,100075,Crédito,Pendente
+2047,102986,Crédito,Pago
+2048,100710,Debito,Pago
+2049,103663,Debito,Pago
+2050,105288,Debito,Pago
+2051,104631,Crédito,Pago
+2052,101431,Debito, cancelado 
+2053,105350,,Pago
+2054,104992,Debito,Pago
+2055,105068,Debito,Pago
+2056,100647,Crédito,Pago
+2057,102039,Debito,Pago
+2058,104134,PIX,Pendente
+2059,105352,Debito,Pago
+2060,103939,PIX,Pago
+2061,102216,PIX,Pago
+2062,103357,Crédito,Pago
+2063,100103,Debito,Pago
+2064,100145,PIX,Pago
+2065,100755,PIX,Cancelado
+2066,104058,PIX,Pago
+2067,104462,Debito,Cancelado
+2068,101831,Crédito,Pago
+2069,103710, pix ,Pago
+2070,105824,Debito,Pago
+2071,100083,PIX,Pago
+2072,101312,Debito,Pago
+2073,105991,,Pago
+2074,105609,,Pago
+2075,103340,PIX,Pago
+2076,105753,PIX,Pago
+2077,103695, pix ,Pendente
+2078,103932,Debito,Pago
+2079,103448, pix ,Pago
+2080,103669,Debito,Pago
+2081,101616,Crédito,Pago
+2082,104247,,Pago
+2083,102804,PIX,Pago
+2084,104826,Debito,Pago
+2085,102063,,Cancelado
+2086,104197, pix , cancelado 
+2087,100780,Crédito,Cancelado
+2088,101059,PIX, cancelado 
+2089,102399,PIX,Pendente
+2090,103005,PIX,Pago
+2091,102331,Debito,Pago
+2092,104733,Crédito,Pendente
+2093,101760,Crédito,Pago
+2094,105793,Crédito,Pago
+2095,104621,Crédito,Pago
+2096,104261,Debito,Pago
+2097,100428,PIX,Pago
+2098,105378,Crédito,Pago
+2099,105030,Debito,Pago
+2100,103877,Debito,Pago
+2101,102491,PIX,Cancelado
+2102,102117,Debito,Pago
+2103,102322,Crédito,Pendente
+2104,100560,Debito,Pendente
+2105,104945,PIX,Pago
+2106,105442,Crédito,Pendente
+2107,101386,Crédito,Pago
+2108,102618,PIX,Cancelado
+2109,101955,Debito,Pago
+2110,100590,,Cancelado
+2111,100499, pix ,Cancelado
+2112,102823,Debito,Pago
+2113,101530,PIX,Pendente
+2114,101639,Crédito,Pago
+2115,101133,Crédito,Pago
+2116,105957, pix ,Pendente
+2117,104484,Debito,Cancelado
+2118,100416,Crédito,Pago
+2119,104997,,Cancelado
+2120,101592,Crédito,Pago
+2121,104408,Debito,Pago
+2122,103884,Crédito,Pago
+2123,101608,Debito,Pendente
+2124,103725,Debito,Pago
+2125,101716,PIX,Pendente
+2126,100203,,Cancelado
+2127,103855,Debito,Cancelado
+2128,103960,Crédito,Pago
+2129,100110, pix ,Pago
+2130,104178,PIX,Pago
+2131,105716,PIX,Pago
+2132,100769,Crédito,Cancelado
+2133,100139,Crédito,Pago
+2134,100221,Debito,Pago
+2135,100861,PIX,Cancelado
+2136,103928,Crédito,Pendente
+2137,102388,Crédito,Pago
+2138,102526,Crédito,Pago
+2139,105055,Crédito, cancelado 
+2140,101446,Crédito,Pago
+2141,101610,Debito,Pago
+2142,105444,PIX,Pendente
+2143,105380,PIX,Pago
+2144,100199,PIX,Pago
+2145,102864,Crédito,Pago
+2146,105985,Crédito,Pendente
+2147,101161,Debito,Cancelado
+2148,101370,Debito,Cancelado
+2149,103572,,Pago
+2150,102223,Crédito,Pago
+2151,100489,PIX,Pago
+2152,103541,Debito,Pago
+2153,102868, pix ,Cancelado
+2154,102428,Debito,Pago
+2155,101878, pix ,Pago
+2156,104538,Debito,Pendente
+2157,100865,Debito,Pendente
+2158,105936,,Pago
+2159,102181,Debito,Pendente
+2160,103029,PIX,Pago
+2161,103099,Crédito,Pago
+2162,103329,Crédito, cancelado 
+2163,103635,Debito,Cancelado
+2164,100656,PIX,Pago
+2165,105987,PIX,Pago
+2166,101380,Crédito,Pago
+2167,100236,PIX,Pago
+2168,100989,Crédito,Pendente
+2169,101383,,Pago
+2170,100815,Debito,Pago
+2171,102967,Crédito,Pago
+2172,105391,Crédito, cancelado 
+2173,101690,,Pago
+2174,105630,Debito,Pendente
+2175,103801,Debito,Pago
+2176,102487,PIX,Pago
+2177,101666,,Pendente
+2178,102636,Debito,Pago
+2179,103987,Crédito,Pago
+2180,101824,PIX,Pago
+2181,105591,Debito,Cancelado
+2182,105829,Crédito,Pendente
+2183,105431,PIX,Pendente
+2184,105337,PIX,Pago
+2185,104089,PIX,Pendente
+2186,100611,,Pago
+2187,101336,Debito,Pago
+2188,103869,Debito,Pago
+2189,104326,Crédito,Pendente
+2190,103693, pix ,Pago
+2191,104436,Crédito,Pago
+2192,103567,,Pago
+2193,102212,Debito,Pendente
+2194,102164,Debito,Pago
+2195,100071,Debito,Pendente
+2196,101750,,Cancelado
+2197,104946,,Pendente
+2198,105173,,Pago
+2199,105717,PIX,Cancelado
+2200,100342,Crédito,Pago
+2201,105031,Debito,Pago
+2202,104684,Crédito,Cancelado
+2203,102827,PIX,Pago
+2204,103832,Debito,Pendente
+2205,102380,PIX,Cancelado
+2206,103870,Crédito, cancelado 
+2207,105199,PIX,Pago
+2208,104203,, cancelado 
+2209,103274,PIX,Pago
+2210,102440, pix ,Pago
+2211,104326,Debito,Pendente
+2212,102068,Crédito, cancelado 
+2213,105443,,Pago
+2214,103540,Crédito,Cancelado
+2215,104748,Crédito, cancelado 
+2216,105430,Crédito,Cancelado
+2217,100472,PIX,Pago
+2218,103766,PIX,Pendente
+2219,104170,Crédito,Pago
+2220,100654,,Pago
+2221,105556,, cancelado 
+2222,100462,Crédito,Pago
+2223,101174,PIX,Pago
+2224,101668, pix ,Pago
+2225,103746,Debito,Pago
+2226,105952,Crédito,Pago
+2227,103322,Crédito,Cancelado
+2228,100640, pix , cancelado 
+2229,104370,Debito,Pago
+2230,100482,PIX,Pago
+2231,100082,PIX,Pago
+2232,103304,Debito,Pago
+2233,104127,Crédito,Cancelado
+2234,102794,Crédito,Pago
+2235,101108,Crédito,Pago
+2236,105092,Crédito,Cancelado
+2237,103786,Crédito,Pago
+2238,100251,PIX,Pago
+2239,102435,Crédito,Pendente
+2240,101621,PIX,Pago
+2241,105092,Crédito,Pendente
+2242,101719,Debito,Pago
+2243,100266,PIX,Pendente
+2244,100022,Crédito,Pago
+2245,105527,Debito,Pago
+2246,102124,PIX,Pago
+2247,101511,PIX,Pago
+2248,103853,Crédito,Pago
+2249,104776,PIX,Pago
+2250,102939,Crédito,Pago
+2251,103423,Debito,Pendente
+2252,100240,Crédito,Pago
+2253,100051,PIX,Pago
+2254,103008,PIX,Pago
+2255,100476,PIX,Cancelado
+2256,102005,,Pago
+2257,105722,Debito,Pago
+2258,104990,,Pago
+2259,100157,PIX,Pago
+2260,105120,Debito,Pago
+2261,104762, pix ,Pendente
+2262,102784,PIX,Pendente
+2263,102020,Debito,Pago
+2264,105238,Crédito,Pago
+2265,101687,PIX,Pago
+2266,104171,Crédito,Pago
+2267,105048,Crédito,Pago
+2268,103859,,Pago
+2269,102415,Crédito,Pago
+2270,102804,Debito,Pago
+2271,103250,,Pago
+2272,102156,Debito,Cancelado
+2273,101827,Debito,Pago
+2274,105599,PIX,Pago
+2275,103758,Crédito,Pago
+2276,100093,,Pago
+2277,104277,Crédito,Pago
+2278,100671,PIX,Pago
+2279,102144,Crédito,Pago
+2280,100232,Crédito,Pendente
+2281,105972,Crédito,Pendente
+2282,103990,Crédito,Pago
+2283,101603,PIX,Pago
+2284,102952,PIX,Pendente
+2285,101773,PIX,Cancelado
+2286,102067,Crédito,Pago
+2287,101311,Debito,Pendente
+2288,100159,Crédito,Pago
+2289,103779,Debito,Cancelado
+2290,101587,Debito,Pago
+2291,100378,Debito,Pago
+2292,103296,Debito,Pago
+2293,100714,PIX,Pago
+2294,104188,PIX,Pago
+2295,102224,Debito,Pago
+2296,105230,Crédito,Pago
+2297,104072,Debito,Pago
+2298,102783,,Cancelado
+2299,100738,Crédito,Cancelado
+2300,102501,PIX,Pago
+2301,103147,PIX,Pago
+2302,101864,PIX,Pago
+2303,100492,,Pago
+2304,103005,,Pendente
+2305,103614,Crédito,Pago
+2306,101530,PIX,Pago
+2307,100946,PIX,Pendente
+2308,103641,Debito,Pago
+2309,100702,PIX,Pendente
+2310,105199,,Pago
+2311,103957,Debito,Pago
+2312,102485,,Pago
+2313,102756,PIX,Cancelado
+2314,103269,Debito,Cancelado
+2315,103103,PIX,Pago
+2316,101868,PIX,Pago
+2317,104126,Debito,Pago
+2318,103806,PIX,Pago
+2319,103034,PIX,Cancelado
+2320,104780, pix , cancelado 
+2321,100390,Debito,Pendente
+2322,101244,Crédito,Pago
+2323,103348,PIX,Pago
+2324,100012,Debito,Pago
+2325,101517,Crédito,Pago
+2326,101621,PIX,Pago
+2327,101758,,Pago
+2328,100049,Debito,Pago
+2329,101716, pix ,Pago
+2330,100261,PIX,Pago
+2331,100320,Crédito,Pago
+2332,104282,PIX,Pago
+2333,102277,Debito,Pago
+2334,101928,, cancelado 
+2335,102833,Crédito,Pago
+2336,104117,Crédito,Pago
+2337,100016,Crédito,Pago
+2338,102528,Crédito,Pago
+2339,103867,Debito,Pago
+2340,104102,Crédito,Pago
+2341,102346,Debito,Pendente
+2342,100941,Debito,Pendente
+2343,100259,Crédito,Pago
+2344,101064,PIX,Pago
+2345,100276,Crédito,Pago
+2346,102792,Crédito,Pago
+2347,102567,PIX,Pago
+2348,104923,Crédito,Pago
+2349,101931,Debito,Pago
+2350,103583,Crédito,Pendente
+2351,101332, pix ,Pago
+2352,101557, pix ,Pago
+2353,105045,Crédito,Pago
+2354,100480,PIX,Pendente
+2355,104510,Crédito,Pago
+2356,103047,Crédito,Pago
+2357,103595,Debito,Pago
+2358,101489,PIX, cancelado 
+2359,105529,Crédito,Pendente
+2360,102825,PIX,Pago
+2361,102093,,Pago
+2362,105917,Debito,Pago
+2363,100830,,Pendente
+2364,105391,,Pendente
+2365,104371,PIX,Pago
+2366,101935,Debito,Pago
+2367,105543,PIX,Pendente
+2368,105624,,Pago
+2369,102701,PIX,Pago
+2370,100144,Crédito,Pago
+2371,104931, pix ,Pago
+2372,102805,,Pago
+2373,101887,Debito,Pendente
+2374,102595,PIX,Pendente
+2375,100784,Debito,Pago
+2376,104274,Crédito,Cancelado
+2377,102830,Debito,Pago
+2378,102199,Crédito,Pago
+2379,100611,PIX,Pago
+2380,103519,PIX,Cancelado
+2381,100541,Crédito,Pago
+2382,102198,Crédito,Pendente
+2383,105469,Crédito,Pago
+2384,102310,PIX,Pago
+2385,100413,Crédito,Pago
+2386,105869,Crédito,Pendente
+2387,101784,,Pago
+2388,105378,PIX,Cancelado
+2389,104588,PIX,Pago
+2390,101728,Debito,Pago
+2391,105728,Crédito,Pago
+2392,105216,Crédito,Cancelado
+2393,105097,PIX,Pago
+2394,101428,Debito,Pago
+2395,103511,Debito,Pago
+2396,101638,PIX,Pago
+2397,104577,Debito,Pago
+2398,100180,Crédito, cancelado 
+2399,103397, pix ,Pendente
+2400,104678,Debito,Pago
+2401,105526,,Cancelado
+2402,105589, pix ,Pago
+2403,101643,Crédito,Pago
+2404,101295,,Pago
+2405,101583, pix ,Pago
+2406,103537,,Cancelado
+2407,100364,PIX,Pago
+2408,102117,,Pago
+2409,102356,PIX,Pago
+2410,104519, pix ,Pago
+2411,102562,PIX,Pago
+2412,103117,,Pago
+2413,105980,Debito,Pago
+2414,102543,PIX,Pago
+2415,104021,,Pendente
+2416,100884,Debito,Cancelado
+2417,101173,Crédito,Pago
+2418,101785,Crédito,Pago
+2419,105596,,Pendente
+2420,104675, pix ,Pago
+2421,103969,Debito,Cancelado
+2422,102163,,Pago
+2423,102676,Crédito,Pendente
+2424,104333,Crédito,Pago
+2425,102095,PIX,Pago
+2426,102322,Debito,Cancelado
+2427,100113,Debito, cancelado 
+2428,100792,PIX, cancelado 
+2429,101316,Crédito,Pago
+2430,102364,PIX,Pago
+2431,103234,Debito,Cancelado
+2432,100051,,Pago
+2433,103496,PIX,Pago
+2434,100144,PIX,Cancelado
+2435,103688,Crédito,Pendente
+2436,105802,,Pago
+2437,102576,Crédito,Pago
+2438,105253,Crédito, cancelado 
+2439,105619,Crédito,Pago
+2440,104486,,Pago
+2441,102021, pix ,Pago
+2442,105280,,Cancelado
+2443,103731,PIX,Pago
+2444,100749,Crédito,Pendente
+2445,105807,,Pago
+2446,105704,Debito,Pago
+2447,100875,Debito,Pago
+2448,102945,Crédito,Pago
+2449,104804,Crédito,Pago
+2450,101209,PIX,Cancelado
+2451,103734,Crédito,Pago
+2452,100214,Crédito,Pago
+2453,105214,PIX,Pago
+2454,104109,Crédito,Pago
+2455,101819,Crédito,Pago
+2456,103495,,Pendente
+2457,100486,Debito,Pago
+2458,103016,PIX,Pendente
+2459,103724,Debito,Pago
+2460,103480,Crédito,Cancelado
+2461,104215,PIX,Pago
+2462,104028,Crédito,Cancelado
+2463,105008,Crédito,Pendente
+2464,105217,Crédito,Pago
+2465,104938,Crédito,Pago
+2466,103119,Debito,Cancelado
+2467,100664,Crédito,Pago
+2468,101024,Crédito,Pago
+2469,104883,,Pago
+2470,104443,Crédito,Cancelado
+2471,100237,Crédito, cancelado 
+2472,103285,PIX,Pago
+2473,103344, pix ,Pago
+2474,102126,Crédito,Pendente
+2475,105673,Crédito, cancelado 
+2476,103218,Debito,Pago
+2477,101956,Debito,Pago
+2478,100229,Crédito,Pago
+2479,104939,Crédito,Pago
+2480,105061,Crédito, cancelado 
+2481,103413,Crédito,Pendente
+2482,102887,Crédito,Pago
+2483,104260,PIX,Cancelado
+2484,105800,Crédito,Cancelado
+2485,104478,Debito,Pago
+2486,104678,Debito,Pago
+2487,105542,Crédito,Pago
+2488,102820,PIX,Pago
+2489,102990,,Pago
+2490,101087,Crédito,Pago
+2491,101994,Crédito,Cancelado
+2492,104342,PIX,Cancelado
+2493,103046,Crédito,Pago
+2494,103306,,Pago
+2495,101993,Crédito,Pago
+2496,103600,PIX,Cancelado
+2497,103588,Crédito,Pendente
+2498,101306,Debito,Pago
+2499,105468,Crédito,Pendente
+2500,104460,PIX,Pago
+2501,105088,PIX,Pago
+2502,100920,,Pago
+2503,100042,Debito,Pago
+2504,101283,PIX,Pago
+2505,105311,Debito,Pago
+2506,103566,PIX,Pago
+2507,102121,Crédito,Pago
+2508,103146,PIX,Pago
+2509,102683, pix ,Pago
+2510,105702, pix ,Pago
+2511,104497,Debito,Pago
+2512,103151,Crédito,Pago
+2513,105368, pix ,Pago
+2514,105307,,Cancelado
+2515,103725,Debito,Pago
+2516,101834,,Pago
+2517,105879,,Cancelado
+2518,102518,Debito,Pago
+2519,103837,PIX,Pago
+2520,105010,PIX,Pago
+2521,103863,PIX,Pago
+2522,100129,Crédito,Pago
+2523,104475,Debito,Pago
+2524,103187,Crédito,Pago
+2525,101346,PIX, cancelado 
+2526,102437,,Pendente
+2527,102834,PIX,Pago
+2528,104560,Crédito,Pago
+2529,105749,,Pago
+2530,104643,Crédito,Pago
+2531,104505, pix ,Pago
+2532,104714,PIX,Pendente
+2533,104857,PIX,Pago
+2534,103224,PIX,Pendente
+2535,103477,Crédito,Pago
+2536,105098,Debito,Pendente
+2537,102539,Crédito,Pago
+2538,102855,PIX,Pago
+2539,105282,Debito,Pago
+2540,101436,PIX,Pago
+2541,100256,,Pendente
+2542,105723,Debito,Pago
+2543,102418,PIX,Cancelado
+2544,101754, pix ,Pendente
+2545,104747,Crédito,Pago
+2546,105809,PIX, cancelado 
+2547,105411,Crédito,Pago
+2548,103412,PIX,Pago
+2549,100076,,Cancelado
+2550,103612,, cancelado 
+2551,100505,Debito,Pago
+2552,103393,Crédito,Pendente
+2553,101993,,Pago
+2554,104758, pix ,Pendente
+2555,105112,PIX,Pago
+2556,103379,Crédito,Pago
+2557,102395,PIX,Pago
+2558,101417,Crédito,Pago
+2559,105319,,Pendente
+2560,102230,Debito,Pago
+2561,100240,PIX,Pago
+2562,101778,Crédito,Pago
+2563,105765,Debito,Pago
+2564,104261,PIX,Pago
+2565,105050,Debito,Pago
+2566,104159, pix ,Pago
+2567,102403,PIX,Pago
+2568,104147,Crédito,Pago
+2569,102632,PIX,Pago
+2570,103907,PIX,Pendente
+2571,103011,Debito,Pago
+2572,105441,Debito,Pago
+2573,103390,Crédito,Pago
+2574,104077,Debito,Pendente
+2575,101215,Debito,Pago
+2576,100670,,Pago
+2577,103562,PIX,Pendente
+2578,105542,Debito,Pago
+2579,100616,PIX,Pago
+2580,104659,PIX,Pago
+2581,101131,Debito,Pendente
+2582,105631,Crédito,Pago
+2583,105356,PIX,Pago
+2584,101522,Crédito,Pago
+2585,104452, pix ,Pago
+2586,102665,Debito,Pendente
+2587,104863,PIX,Cancelado
+2588,100304,PIX,Pago
+2589,103980,Crédito,Pago
+2590,101895,Debito,Cancelado
+2591,101516,PIX,Pago
+2592,100584, pix ,Pago
+2593,100367,PIX,Pago
+2594,105762, pix ,Pago
+2595,102047,Crédito,Pago
+2596,100459,Crédito,Pago
+2597,100120,PIX,Pago
+2598,103285,Debito,Pago
+2599,103255,Debito,Pago
+2600,105766,PIX,Pendente
+2601,105598,,Pendente
+2602,103566,Crédito,Pago
+2603,103303,Crédito,Pago
+2604,104460, pix ,Pendente
+2605,105566,Crédito,Cancelado
+2606,101969,Debito,Pago
+2607,102532,PIX,Pago
+2608,100852,Crédito,Pago
+2609,105046,Crédito,Pago
+2610,101930,Debito,Pago
+2611,101944,Crédito,Pago
+2612,100764,PIX,Pendente
+2613,103297,Crédito,Pago
+2614,105277,Crédito,Pago
+2615,102679,PIX,Cancelado
+2616,105726,,Pago
+2617,103812,,Pago
+2618,100902, pix ,Pendente
+2619,101519,PIX,Pago
+2620,105966,Crédito,Pago
+2621,103257,PIX,Pago
+2622,105507,Debito,Pago
+2623,103987,PIX,Pago
+2624,100742,Crédito,Pago
+2625,103554,PIX,Pago
+2626,101694,Debito,Cancelado
+2627,102130,Crédito,Cancelado
+2628,104012,PIX,Pago
+2629,103253,PIX,Pago
+2630,101366,Crédito,Pago
+2631,100196,,Pago
+2632,100151,Debito,Pendente
+2633,105181,,Pendente
+2634,105767,PIX,Pago
+2635,104524,PIX,Pago
+2636,100331,,Pago
+2637,103111, pix ,Pendente
+2638,103325,Crédito,Pago
+2639,100890,Crédito,Pago
+2640,100955,Debito,Cancelado
+2641,103690,Debito,Cancelado
+2642,104450,PIX,Pago
+2643,102949,PIX,Pago
+2644,103242,Debito,Pago
+2645,102396,PIX,Pago
+2646,102045,PIX,Pago
+2647,105646,Debito,Pago
+2648,103600,PIX,Pago
+2649,105011,Debito,Pago
+2650,103991,PIX,Pendente
+2651,105646,,Pago
+2652,104015,Debito,Pago
+2653,102056,PIX,Pendente
+2654,102671,Debito, cancelado 
+2655,101576,Debito,Pago
+2656,105020,,Pago
+2657,105755,PIX,Pago
+2658,101853,,Pago
+2659,102214,,Pendente
+2660,101227,Crédito,Pago
+2661,101664,,Pago
+2662,100364,Crédito,Pendente
+2663,101948,Crédito, cancelado 
+2664,105545,PIX,Pago
+2665,104754,Debito,Pendente
+2666,103633,,Pago
+2667,105589,PIX,Pago
+2668,103482,Debito,Pendente
+2669,101275,Crédito,Pago
+2670,101446,Debito,Pago
+2671,104828,Crédito,Pago
+2672,102958,Crédito,Pendente
+2673,103457,PIX,Cancelado
+2674,105980,,Pago
+2675,105348,Debito,Pago
+2676,102166,Crédito,Pago
+2677,101010,Crédito,Pago
+2678,105387,Crédito,Pago
+2679,105288,Crédito,Pago
+2680,102820,Debito,Pago
+2681,101729,PIX,Pago
+2682,100696,Crédito,Pago
+2683,104618,Crédito,Pago
+2684,102385,,Cancelado
+2685,105447,PIX,Pago
+2686,101383,Crédito,Pago
+2687,102496,PIX,Pendente
+2688,103606,PIX,Pago
+2689,101848,PIX,Pago
+2690,101729, pix ,Pago
+2691,105217,Debito,Pago
+2692,100653,PIX,Pago
+2693,100759,PIX,Pago
+2694,101280,PIX, cancelado 
+2695,100442,,Pago
+2696,104505,Debito,Pago
+2697,104906,PIX,Pago
+2698,103489,,Pago
+2699,103574,PIX,Pago
+2700,104793,Crédito,Pago
+2701,104194,PIX,Pago
+2702,105950, pix ,Pago
+2703,103971,Debito,Cancelado
+2704,104638,Crédito,Pago
+2705,101527,,Pago
+2706,100191,PIX,Pago
+2707,101874,Debito,Pendente
+2708,103016,,Cancelado
+2709,100258,Debito, cancelado 
+2710,100155, pix , cancelado 
+2711,102992,PIX, cancelado 
+2712,105607,,Pendente
+2713,104094,Debito,Pago
+2714,103903,,Pago
+2715,102276,PIX,Pendente
+2716,103583,Debito,Pendente
+2717,104170,Debito,Pendente
+2718,102413,PIX,Pago
+2719,100024,PIX,Cancelado
+2720,101742, pix ,Pendente
+2721,105778,PIX,Pago
+2722,103161, pix ,Pago
+2723,103606,PIX,Pendente
+2724,103372,Crédito,Pago
+2725,102092,Crédito,Pago
+2726,101061,Crédito,Pago
+2727,105594,Crédito,Pago
+2728,103352,Debito,Cancelado
+2729,100461,PIX,Pago
+2730,105289,PIX,Pago
+2731,102118,PIX,Pago
+2732,101607,Debito,Cancelado
+2733,105010,Crédito,Pendente
+2734,105839,Crédito,Pago
+2735,100072,PIX,Pendente
+2736,104924,Crédito,Pago
+2737,104273,Debito,Pago
+2738,100707,Crédito,Pago
+2739,101929,PIX,Pendente
+2740,104980,PIX,Pago
+2741,102799,Debito, cancelado 
+2742,101178,Crédito,Pago
+2743,100154,Crédito,Pago
+2744,100030,Debito,Pago
+2745,105147,,Pendente
+2746,105072,Crédito,Pago
+2747,103312,Crédito,Pago
+2748,103827,Crédito,Pendente
+2749,104787,PIX,Pago
+2750,101875,,Pendente
+2751,100237,Crédito,Pago
+2752,102186,PIX,Pago
+2753,104726,Debito,Pago
+2754,100618, pix ,Pago
+2755,101572,Debito,Pago
+2756,105736,Crédito,Pago
+2757,102438,PIX,Pago
+2758,104456,PIX,Pago
+2759,100582,,Pago
+2760,102255,PIX,Pendente
+2761,105853,Crédito,Pago
+2762,100601,Debito,Pago
+2763,100979,PIX,Pago
+2764,100515,Debito,Pago
+2765,100810,PIX,Pago
+2766,102486,Crédito,Pago
+2767,101447,Crédito,Pago
+2768,100469,PIX,Pago
+2769,100630,Crédito,Pago
+2770,103383,Debito,Pago
+2771,100114,PIX,Pendente
+2772,101226,Crédito,Pago
+2773,105484, pix ,Pago
+2774,104343,Crédito,Pago
+2775,101617,PIX,Pago
+2776,103318,Crédito,Cancelado
+2777,104641,Crédito, cancelado 
+2778,105734, pix ,Pendente
+2779,105397,PIX,Pago
+2780,102671,Crédito,Cancelado
+2781,105619,Crédito,Pago
+2782,104814,,Pago
+2783,104874,Debito,Pago
+2784,103069,Debito,Pago
+2785,102538,Crédito,Pago
+2786,103175, pix ,Pago
+2787,102638,Crédito,Pago
+2788,102223,Debito,Pago
+2789,100052,Debito,Pago
+2790,102345,PIX,Pendente
+2791,102223,Debito,Pago
+2792,105065,PIX,Pendente
+2793,105831,Debito,Pendente
+2794,104696,Debito,Pago
+2795,104267,,Pago
+2796,103109,PIX,Pago
+2797,101659,Crédito,Pago
+2798,105184,PIX,Pendente
+2799,103558,PIX,Pago
+2800,104551,PIX,Pendente
+2801,104823,Debito,Pago
+2802,105529,Crédito,Cancelado
+2803,100887,Crédito,Pago
+2804,103054,Crédito,Pendente
+2805,102803,Debito,Pendente
+2806,102198,,Pago
+2807,105622,PIX,Pago
+2808,104011,Crédito,Pago
+2809,100636,PIX,Pendente
+2810,103015,PIX,Pago
+2811,105668,Debito,Pago
+2812,103886,Debito,Pago
+2813,102083,PIX,Pago
+2814,100175,Debito,Pago
+2815,101057,Crédito,Pago
+2816,101749,Debito,Pago
+2817,102763,PIX,Pago
+2818,103469,PIX,Pago
+2819,102302,PIX,Pago
+2820,100568, pix ,Pago
+2821,104419,Crédito,Pago
+2822,101784,Debito,Pendente
+2823,102144,PIX,Pago
+2824,104439,PIX,Pago
+2825,102241,,Pago
+2826,102559,PIX,Pago
+2827,101475,PIX,Pago
+2828,105245,PIX, cancelado 
+2829,104103,Crédito,Pago
+2830,100330,PIX,Pago
+2831,104179,Crédito,Pendente
+2832,105656,Debito,Pago
+2833,102674,Crédito,Pago
+2834,104623, pix ,Pago
+2835,105233,,Pago
+2836,100890,Crédito,Pendente
+2837,100762,PIX,Pago
+2838,101024,,Pago
+2839,101681,PIX,Pago
+2840,105952,PIX,Pago
+2841,103257,Crédito,Pendente
+2842,101062,Crédito,Pago
+2843,100904,Debito,Cancelado
+2844,100134,,Pago
+2845,101126,PIX,Pendente
+2846,101965, pix ,Pago
+2847,105269,Debito,Pago
+2848,102040,PIX,Cancelado
+2849,104189,PIX,Pago
+2850,102850,PIX,Pendente
+2851,103212, pix ,Pago
+2852,103367,Crédito,Pago
+2853,102912,Crédito,Pendente
+2854,104870,Debito,Pendente
+2855,102592,Crédito,Pendente
+2856,104284,Crédito,Cancelado
+2857,102184,Debito,Pago
+2858,104262,Crédito,Pago
+2859,103549,PIX,Pendente
+2860,100245,PIX,Pago
+2861,105303,Debito, cancelado 
+2862,105129,Crédito,Pago
+2863,105556,PIX,Pago
+2864,101180,Debito,Pago
+2865,104926,Crédito,Pago
+2866,101779,PIX,Pago
+2867,102536,Debito,Pago
+2868,100437,Crédito,Cancelado
+2869,102271,Crédito,Pago
+2870,105907,Debito,Pago
+2871,101825, pix ,Cancelado
+2872,100794,Debito,Cancelado
+2873,104269, pix ,Pago
+2874,101281,Debito,Pendente
+2875,101739, pix ,Pago
+2876,100450,,Cancelado
+2877,101955,Crédito,Pendente
+2878,100615,Crédito,Pago
+2879,104322,Crédito,Pendente
+2880,100739,Crédito, cancelado 
+2881,101632,Debito,Pago
+2882,105037,PIX,Pago
+2883,104172,,Pago
+2884,103666,Debito,Pago
+2885,100069,PIX,Pendente
+2886,101875,PIX,Pago
+2887,100870,Debito,Pago
+2888,101394,PIX,Pendente
+2889,103471,PIX,Cancelado
+2890,105934,PIX,Cancelado
+2891,103192,Crédito,Pago
+2892,103120,Debito,Pago
+2893,102116,PIX,Pago
+2894,103966,Crédito,Pago
+2895,100377,PIX,Pago
+2896,105505,Crédito,Pendente
+2897,102324,Debito,Pago
+2898,102816,Crédito,Pago
+2899,101942,Crédito,Pago
+2900,100205,Crédito,Pendente
+2901,100745,,Pago
+2902,103137,Crédito,Pago
+2903,105949,Crédito,Pago
+2904,101550,PIX,Pago
+2905,104421,Debito,Pendente
+2906,102426,Crédito,Pago
+2907,102865,Debito,Pago
+2908,103974,Crédito,Pendente
+2909,104777,Debito,Pago
+2910,100671,PIX,Pago
+2911,103418,Crédito,Pago
+2912,103066,,Pago
+2913,101728,Crédito,Pendente
+2914,105977,PIX,Pago
+2915,104027,PIX,Pago
+2916,102933,Crédito,Pago
+2917,103815,Crédito,Cancelado
+2918,101704, pix ,Cancelado
+2919,103087,PIX, cancelado 
+2920,103265,Crédito,Pago
+2921,105353,Crédito,Pendente
+2922,104542,,Pago
+2923,100054,Debito,Pago
+2924,100692,Crédito,Pendente
+2925,104100,,Pendente
+2926,100257,Debito,Pendente
+2927,103433,Debito,Cancelado
+2928,100834,PIX,Cancelado
+2929,102530,PIX,Pago
+2930,105795,Crédito,Pago
+2931,102897, pix ,Pago
+2932,101162,,Pago
+2933,103523,Crédito,Cancelado
+2934,105444,Debito, cancelado 
+2935,100473, pix ,Pago
+2936,105861,Debito,Pendente
+2937,102027,Debito,Pago
+2938,101638,PIX,Cancelado
+2939,103549,PIX,Cancelado
+2940,102241,PIX,Pago
+2941,102355,PIX,Pago
+2942,104855,Debito,Pago
+2943,100906,PIX,Pendente
+2944,101184,Crédito,Pago
+2945,102220,Debito,Pago
+2946,105183,Crédito,Pago
+2947,103645,PIX,Pago
+2948,101089,Crédito, cancelado 
+2949,101193,Debito,Pendente
+2950,102129,PIX,Pago
+2951,105388,Debito,Pago
+2952,103452,Crédito,Pago
+2953,103842,Crédito,Pago
+2954,100332,,Pago
+2955,101212,PIX,Pago
+2956,101049,Crédito,Pago
+2957,104089,,Pago
+2958,102276,Crédito,Pago
+2959,105238,PIX,Pago
+2960,105228,PIX,Pago
+2961,101635,Crédito,Pendente
+2962,103606,Crédito,Pago
+2963,100503,PIX,Pendente
+2964,103570,Debito, cancelado 
+2965,101080,Debito,Pago
+2966,101335,PIX,Pago
+2967,104648,Crédito,Pago
+2968,104019, pix ,Pago
+2969,105020,Crédito,Pago
+2970,104217,Crédito,Pago
+2971,105892,PIX,Pendente
+2972,102074,,Pago
+2973,104055,PIX,Pago
+2974,105232,Crédito,Pendente
+2975,100023,, cancelado 
+2976,101850,Debito,Pago
+2977,102164,Debito,Pago
+2978,100480, pix ,Pago
+2979,102355,Crédito,Pago
+2980,102749,PIX,Cancelado
+2981,102540,,Pago
+2982,104865,Crédito,Pago
+2983,101144,PIX,Pago
+2984,102334,Crédito,Pago
+2985,105084, pix ,Pago
+2986,105478,PIX,Pendente
+2987,105272,Crédito,Pago
+2988,102646,Debito,Pago
+2989,105445,Debito,Pago
+2990,100839,PIX,Pendente
+2991,101850,Debito,Cancelado
+2992,105014,Crédito,Pendente
+2993,103387,PIX,Pendente
+2994,105036,Crédito,Cancelado
+2995,102853,PIX,Pago
+2996,102210,Debito,Pago
+2997,101393,PIX,Pago
+2998,103257,Debito,Pago
+2999,105049,PIX, cancelado 
+3000,101960, pix ,Pago
+3001,100276,PIX,Pago
+3002,104625,PIX,Pago
+3003,101460,PIX,Pago
+3004,103332,Debito,Pago
+3005,100959,Crédito,Pago
+3006,101842,PIX,Pago
+3007,104060,PIX,Cancelado
+3008,104146,Debito,Pago
+3009,105355,Crédito,Pago
+3010,105949,Debito,Pendente
+3011,105676,Crédito,Pago
+3012,103378, pix ,Pendente
+3013,102525,PIX,Pendente
+3014,100488,Debito, cancelado 
+3015,102128,Crédito,Pendente
+3016,105406,Crédito,Pago
+3017,105598,Crédito,Pago
+3018,101941,Crédito,Pago
+3019,102454, pix ,Pago
+3020,104015,Debito,Pago
+3021,103798,Debito,Pago
+3022,104351,Crédito,Pendente
+3023,100960, pix ,Pago
+3024,105793,PIX,Pago
+3025,102564,Debito,Pago
+3026,100464,Crédito,Pendente
+3027,101937,,Cancelado
+3028,104132,Debito,Pago
+3029,100016,PIX,Pendente
+3030,104071,Debito,Pago
+3031,100919,PIX,Pago
+3032,101614,Debito,Pago
+3033,100823,,Pago
+3034,102121,PIX,Cancelado
+3035,103392,Crédito,Pago
+3036,101967,Debito,Pago
+3037,101882,Crédito,Pendente
+3038,100740,,Pendente
+3039,104854,Crédito,Pago
+3040,105002,Crédito,Pago
+3041,103067,Debito,Pago
+3042,103844,PIX,Pago
+3043,100798,Crédito,Pendente
+3044,103211,PIX,Pago
+3045,101587, pix ,Pendente
+3046,103731,PIX,Pago
+3047,101778,Debito,Pago
+3048,105517,Crédito,Pendente
+3049,102532,Crédito,Pago
+3050,102435,Debito,Pago
+3051,105488,Debito,Cancelado
+3052,103918,PIX,Pago
+3053,104554,Debito,Pago
+3054,102470,Debito,Pago
+3055,102280,PIX,Pago
+3056,101368,Crédito, cancelado 
+3057,102768, pix ,Cancelado
+3058,101398,Crédito,Pago
+3059,105557,Debito,Cancelado
+3060,100155,Crédito,Pago
+3061,103187,PIX,Pendente
+3062,101116,Debito,Pendente
+3063,105466,Debito,Pago
+3064,103666,Debito,Cancelado
+3065,103597,Debito,Pago
+3066,101115, pix ,Pago
+3067,100700,Crédito,Pago
+3068,104201,PIX,Cancelado
+3069,100596,PIX,Pendente
+3070,101014,Debito,Pago
+3071,100540,,Pago
+3072,100012,Crédito,Pago
+3073,101944,Debito,Pago
+3074,104460,Debito,Pago
+3075,100662,PIX,Pago
+3076,105438,,Pago
+3077,104634,PIX,Pago
+3078,104410, pix ,Pago
+3079,105575,,Pago
+3080,101423,Debito,Pendente
+3081,105872,Debito,Pago
+3082,101246,Crédito,Pago
+3083,100580,PIX,Pago
+3084,100262,Crédito,Pago
+3085,100496,PIX,Cancelado
+3086,104226, pix ,Pago
+3087,105279,PIX,Pago
+3088,104888,PIX,Cancelado
+3089,105935, pix ,Pendente
+3090,105663,PIX,Pendente
+3091,102137,PIX,Pago
+3092,105064,PIX,Pago
+3093,105452,Crédito,Pago
+3094,100630,Debito,Pago
+3095,100506,PIX,Pago
+3096,100207,Debito,Pendente
+3097,103432,PIX,Pago
+3098,103131,Crédito,Pendente
+3099,101855,PIX,Cancelado
+3100,105366,PIX, cancelado 
+3101,105579,,Pago
+3102,105265,Debito,Pago
+3103,101661,Crédito,Pendente
+3104,102582,PIX,Pago
+3105,104980,PIX,Pago
+3106,105047,PIX,Pago
+3107,100285,,Pendente
+3108,100719,Crédito,Pago
+3109,103989,Debito,Pago
+3110,100502,Crédito,Cancelado
+3111,100258, pix ,Pendente
+3112,104906,Crédito,Pago
+3113,102598,Crédito,Pago
+3114,101923,Crédito,Pago
+3115,101240,PIX,Pago
+3116,103295,PIX,Pendente
+3117,103014,Debito,Cancelado
+3118,105225,Crédito,Pendente
+3119,104618,Debito,Pago
+3120,105065,PIX,Pendente
+3121,105874,Debito,Pendente
+3122,105097,Debito,Pendente
+3123,100888,PIX, cancelado 
+3124,103455,,Pendente
+3125,100745,Crédito,Pago
+3126,103437,Debito,Pendente
+3127,105164,Debito,Pago
+3128,101705,Debito,Pago
+3129,100211,PIX,Pendente
+3130,104065,Debito,Pago
+3131,105227, pix ,Pago
+3132,101957,PIX,Pendente
+3133,102527,Debito,Cancelado
+3134,101703,PIX,Cancelado
+3135,104215,Debito,Pendente
+3136,100486,Debito,Cancelado
+3137,102157,,Pendente
+3138,102502,PIX,Pago
+3139,103311, pix ,Pago
+3140,105128,PIX,Pago
+3141,104608,Debito,Pago
+3142,101067,,Pendente
+3143,105929,Crédito,Pago
+3144,104228, pix ,Pendente
+3145,101816,,Pago
+3146,102799,PIX,Pago
+3147,103630,Crédito,Pago
+3148,104057, pix ,Pendente
+3149,100198,PIX,Pago
+3150,103372,PIX,Pago
+3151,104316,PIX, cancelado 
+3152,104964,Debito,Pago
+3153,101316,Crédito,Pago
+3154,102573,PIX,Pago
+3155,104863,Crédito,Pago
+3156,105542,PIX,Pendente
+3157,101182,Debito,Pago
+3158,103342,Debito,Cancelado
+3159,100257,Crédito,Pago
+3160,102749,Crédito,Pendente
+3161,102563,PIX,Pago
+3162,101668,PIX,Pago
+3163,102649,Debito,Pago
+3164,105735,PIX,Pago
+3165,100637,PIX,Pendente
+3166,102823, pix ,Pago
+3167,100008,Crédito,Pago
+3168,101580,Crédito,Pago
+3169,100135,Crédito,Pendente
+3170,103832,Crédito,Pendente
+3171,104926,,Pendente
+3172,104121,,Pago
+3173,102513,PIX,Pago
+3174,104470,Debito,Pago
+3175,102244,Debito,Pendente
+3176,102170,PIX,Pendente
+3177,104868,Debito,Pago
+3178,104655,,Pago
+3179,103958,Crédito,Pago
+3180,101233,Debito,Pendente
+3181,103373,,Pendente
+3182,105721,,Pago
+3183,100954, pix ,Pendente
+3184,101539,Debito,Pendente
+3185,100908, pix ,Pago
+3186,101681,Crédito,Pago
+3187,101910,Crédito,Pago
+3188,105654,PIX,Pago
+3189,105159, pix ,Pago
+3190,105927,Crédito,Pago
+3191,104090,PIX,Pago
+3192,100619,PIX,Pago
+3193,105904,PIX,Pago
+3194,102789,Crédito,Pago
+3195,101910,Crédito,Pago
+3196,102845, pix ,Pago
+3197,104302,PIX,Pago
+3198,104679,PIX,Pago
+3199,105801,Debito,Pago
+3200,100697,Crédito, cancelado 
+3201,103405,Crédito,Pago
+3202,104304,Crédito,Pago
+3203,100405,Crédito,Cancelado
+3204,102436,Crédito,Pago
+3205,101511,PIX,Pago
+3206,104963,PIX,Pago
+3207,102319, pix ,Pago
+3208,104089,,Pago
+3209,102485,PIX,Pago
+3210,100858,Crédito,Pendente
+3211,103730,Debito,Pago
+3212,102393,Crédito,Pendente
+3213,104069,PIX,Cancelado
+3214,104283,Crédito,Cancelado
+3215,100020,Crédito,Pago
+3216,105458,Crédito,Pago
+3217,102421,, cancelado 
+3218,103027,PIX,Pago
+3219,100067,Debito,Pago
+3220,105559,Debito,Pago
+3221,103134,Crédito,Pago
+3222,103558,Crédito,Pago
+3223,100786,Debito,Pago
+3224,102133,Debito,Pago
+3225,101430,PIX,Pago
+3226,101419,Debito,Cancelado
+3227,103691,,Pago
+3228,101548,Debito,Pago
+3229,104272,,Pago
+3230,100359,PIX,Pendente
+3231,101563, pix ,Pago
+3232,104387,PIX,Pago
+3233,102178,PIX,Pago
+3234,103811,Debito,Pago
+3235,100479,Crédito,Pago
+3236,100648,Crédito,Pendente
+3237,100264,Crédito,Pago
+3238,103743,Debito,Pago
+3239,102957,Crédito,Pago
+3240,101562,Debito,Pago
+3241,105201, pix ,Pendente
+3242,101437, pix ,Pendente
+3243,102006,PIX,Pago
+3244,103141,Crédito,Cancelado
+3245,100908,Crédito,Pago
+3246,100130,Crédito,Pago
+3247,100938,Debito,Pago
+3248,103719,,Pago
+3249,100815,Crédito,Pago
+3250,103963,Debito,Pendente
+3251,105850,PIX,Pago
+3252,103382,Crédito,Pago
+3253,105607,,Pendente
+3254,100015,Debito,Pago
+3255,105616,,Cancelado
+3256,102038,PIX,Pago
+3257,105306,Crédito,Pago
+3258,103489,Debito,Pendente
+3259,105103,Crédito,Cancelado
+3260,100707,Debito,Pago
+3261,100703,,Pago
+3262,104842,PIX,Pago
+3263,104132,PIX,Pago
+3264,104843,PIX,Pendente
+3265,105500,Debito,Pago
+3266,102556,Crédito,Pago
+3267,104742,Crédito,Pendente
+3268,102987,Crédito, cancelado 
+3269,103940,Debito,Pago
+3270,104952,Debito,Pago
+3271,103339,Crédito,Pago
+3272,100517,,Pendente
+3273,100798,Crédito,Pago
+3274,100485,Crédito,Pago
+3275,103675,PIX,Pago
+3276,102712,PIX,Pago
+3277,100443,,Pago
+3278,101654,PIX,Pago
+3279,101014,Crédito,Pago
+3280,100963,,Pago
+3281,100573,,Cancelado
+3282,104454,,Pago
+3283,104717, pix ,Pago
+3284,106000,Crédito,Pago
+3285,101831, pix ,Pago
+3286,103843,,Pago
+3287,104902,PIX,Pago
+3288,105162,PIX,Pago
+3289,100816,PIX,Pago
+3290,105721,Crédito,Pago
+3291,103672,PIX,Pendente
+3292,102537, pix ,Pago
+3293,101211,Debito,Pago
+3294,103135,PIX,Pendente
+3295,105456,PIX,Pendente
+3296,100555,Crédito,Pago
+3297,102793,PIX,Pago
+3298,105866,Debito,Pago
+3299,104921,Crédito,Pago
+3300,105269, pix ,Pago
+3301,104063,,Pago
+3302,103766,Crédito,Pago
+3303,104303,PIX,Pago
+3304,101265,Debito,Pendente
+3305,100894,PIX,Pago
+3306,102173,Debito,Pago
+3307,102305,Debito,Cancelado
+3308,103164,Debito,Pago
+3309,104833,Crédito,Cancelado
+3310,103959,Debito,Pendente
+3311,105537,PIX,Pago
+3312,104384,Crédito,Pago
+3313,101239,Debito,Pago
+3314,101818,Crédito,Cancelado
+3315,100767,Debito, cancelado 
+3316,102560,Crédito,Pago
+3317,100573,Debito,Pago
+3318,104464, pix ,Pago
+3319,105521,PIX,Pago
+3320,105321,PIX, cancelado 
+3321,102333,Debito, cancelado 
+3322,102111,,Pago
+3323,104742,PIX,Pago
+3324,100751,Crédito,Pago
+3325,102812,,Pago
+3326,104457,Crédito,Cancelado
+3327,103555,,Pendente
+3328,102419,Debito,Pago
+3329,105141,Crédito,Pago
+3330,105037, pix , cancelado 
+3331,102989,Crédito,Pago
+3332,100855,Crédito,Pago
+3333,102851,Debito,Pago
+3334,103380,PIX,Pago
+3335,100194,Crédito,Pago
+3336,105177,PIX,Pago
+3337,101578,PIX,Pago
+3338,101481,Crédito,Pago
+3339,104429,PIX,Pendente
+3340,100747,,Pago
+3341,104962,,Pago
+3342,103088,Crédito,Pago
+3343,104741,PIX,Pago
+3344,105633, pix ,Cancelado
+3345,100150, pix ,Pago
+3346,105754,Debito,Pago
+3347,103866,Crédito,Pago
+3348,104898,Crédito,Pendente
+3349,104978,Debito,Pago
+3350,105333,Crédito,Cancelado
+3351,102329,PIX,Pendente
+3352,101676,Crédito,Cancelado
+3353,105791,PIX,Cancelado
+3354,102587,Crédito,Pago
+3355,102390,Debito,Pago
+3356,100674,Debito,Pago
+3357,103702,PIX,Pago
+3358,101361,Debito,Pago
+3359,103067,PIX,Cancelado
+3360,103147,Crédito,Cancelado
+3361,103618,Crédito,Pago
+3362,103068,Debito,Pago
+3363,102163,Crédito,Pendente
+3364,101445,Crédito,Pendente
+3365,104026,Crédito,Pago
+3366,102161,PIX,Pago
+3367,105488,PIX,Pago
+3368,105180,Crédito,Pago
+3369,103354,Crédito,Pago
+3370,105920,Debito,Pendente
+3371,105861,Debito,Pago
+3372,104820,PIX,Cancelado
+3373,105703,,Cancelado
+3374,101771,Debito,Pago
+3375,105911,PIX,Pago
+3376,104545,PIX,Pago
+3377,101703,Debito,Pago
+3378,100195,Crédito,Pago
+3379,105805,Debito,Pago
+3380,105315,Debito, cancelado 
+3381,100575,PIX,Pago
+3382,102630,Crédito,Pago
+3383,105855,PIX,Pago
+3384,105915,PIX,Pendente
+3385,105981,Debito,Pago
+3386,104687,Crédito,Pendente
+3387,104644,PIX,Pago
+3388,100389,,Pendente
+3389,105555,PIX,Pago
+3390,101753,Crédito,Pago
+3391,100661,Debito,Pendente
+3392,105616,,Pendente
+3393,102833,PIX,Pendente
+3394,105786,Crédito,Pago
+3395,104630,PIX,Pago
+3396,100297,Debito,Pago
+3397,105614,Debito,Pendente
+3398,100331,Debito,Pago
+3399,103850,PIX,Pendente
+3400,104951,Crédito,Pago
+3401,101285,Debito,Pago
+3402,101079,PIX,Pago
+3403,105402,PIX,Pago
+3404,100875,Crédito,Pago
+3405,103867,Debito,Cancelado
+3406,104838,Crédito,Pago
+3407,102686,PIX,Pago
+3408,102490,Crédito,Cancelado
+3409,101586,Crédito,Pago
+3410,103808,Debito,Pago
+3411,102941,,Pendente
+3412,105914,,Cancelado
+3413,104487,Debito,Pendente
+3414,104469,Debito,Cancelado
+3415,105517,Crédito,Pago
+3416,105027,Crédito,Pago
+3417,101503,PIX,Pendente
+3418,100746,PIX,Pendente
+3419,102613, pix ,Pago
+3420,101509,,Pendente
+3421,101771,,Pendente
+3422,103780,Crédito,Pago
+3423,101962,,Cancelado
+3424,101596,Debito,Pago
+3425,104781, pix ,Pago
+3426,102534,Debito,Pago
+3427,103659,Debito,Pendente
+3428,100466,Crédito,Pago
+3429,102070,Crédito,Pendente
+3430,102444,PIX,Pendente
+3431,101233,,Pago
+3432,105683,Crédito,Cancelado
+3433,100145,Crédito,Pendente
+3434,102353,Crédito,Pago
+3435,101808,Crédito,Pago
+3436,103049,Crédito,Pago
+3437,104043,Crédito,Pago
+3438,104140,Crédito,Pendente
+3439,104203,,Pendente
+3440,104246, pix ,Pago
+3441,101288,Debito,Pendente
+3442,100110,,Pago
+3443,105138,Crédito,Pago
+3444,104846,PIX,Cancelado
+3445,104820,PIX,Pago
+3446,102791,Crédito,Pago
+3447,104424,Debito,Pendente
+3448,100862,,Pago
+3449,105414,Crédito,Cancelado
+3450,105533,Crédito,Pago
+3451,100461,,Pago
+3452,101105,Crédito,Pago
+3453,105375,Debito,Pago
+3454,100744,,Pendente
+3455,102411,,Pago
+3456,103793,,Pago
+3457,105577,Debito,Pendente
+3458,104994,Crédito,Pago
+3459,100443,PIX,Pendente
+3460,101834,PIX, cancelado 
+3461,100886,PIX,Pago
+3462,103605, pix ,Pendente
+3463,105358,,Pendente
+3464,104357,PIX,Cancelado
+3465,105393,Crédito,Pago
+3466,104376,Crédito,Cancelado
+3467,103222,Debito,Pago
+3468,105947,Crédito,Pago
+3469,100152,Crédito,Pago
+3470,101597,PIX,Pago
+3471,101672,PIX,Pendente
+3472,101535,PIX,Pago
+3473,101566,Crédito,Pendente
+3474,100951,Debito,Pago
+3475,102915,Crédito,Pago
+3476,102493,PIX, cancelado 
+3477,101342,PIX,Pago
+3478,100732,Debito,Pago
+3479,104334,Crédito,Pago
+3480,100539,Crédito,Pago
+3481,100769, pix ,Pago
+3482,102857,Crédito,Pendente
+3483,103726,PIX,Pago
+3484,102122,Crédito,Pendente
+3485,105554,Crédito,Pago
+3486,101735,Crédito,Pago
+3487,104392, pix ,Cancelado
+3488,100014,Crédito,Pago
+3489,104708,, cancelado 
+3490,103675,PIX,Pendente
+3491,104491,PIX,Pago
+3492,100191,Debito,Pago
+3493,105994,,Pago
+3494,102865,PIX,Pago
+3495,104103,Debito,Pago
+3496,101105,PIX,Cancelado
+3497,102813,Crédito,Pago
+3498,100652,Crédito,Pago
+3499,101381,,Pendente
+3500,105431,PIX,Pago
+3501,100802,Debito,Pago
+3502,104545,Debito,Pago
+3503,102122,PIX,Pago
+3504,101985,PIX,Pago
+3505,104141,Debito,Pago
+3506,101553,Debito,Pendente
+3507,102793,Crédito,Pago
+3508,102724,Crédito,Pendente
+3509,105577,,Pago
+3510,102023,,Pago
+3511,104671,Debito,Pago
+3512,101431,Debito,Pago
+3513,104189, pix ,Pago
+3514,102514,PIX,Pago
+3515,100604,Crédito,Pago
+3516,100327,Debito,Pendente
+3517,103839,Crédito, cancelado 
+3518,105963,,Pago
+3519,102776,PIX,Cancelado
+3520,105943,Crédito,Pago
+3521,103640,,Pago
+3522,100591,,Pago
+3523,101439,Debito,Pago
+3524,103571,PIX,Pago
+3525,100851,PIX,Cancelado
+3526,100440,PIX,Pago
+3527,102996,PIX,Pago
+3528,104424,PIX,Pago
+3529,105377,,Pago
+3530,101666,Debito,Cancelado
+3531,102909,Crédito,Pago
+3532,105674,Crédito,Pago
+3533,105194,Crédito,Cancelado
+3534,101258,Debito,Pago
+3535,101545,Crédito,Pago
+3536,101906, pix ,Pendente
+3537,105663, pix ,Pago
+3538,103680, pix ,Pendente
+3539,101816, pix ,Pago
+3540,102277,Crédito,Pago
+3541,103317,Debito,Pago
+3542,101451,Debito,Cancelado
+3543,102048,Crédito,Pago
+3544,104840,, cancelado 
+3545,103545,PIX,Pago
+3546,104907,Crédito,Pendente
+3547,103635,Crédito,Pendente
+3548,105849,Debito,Pago
+3549,100174,Crédito,Pago
+3550,101099,Crédito,Pendente
+3551,101123,PIX,Pago
+3552,102561,,Pago
+3553,102043,,Pago
+3554,103779,PIX,Pago
+3555,105353,Debito,Pago
+3556,102177,,Pago
+3557,102422,PIX,Pago
+3558,104332,PIX,Pago
+3559,105964, pix ,Cancelado
+3560,104838,Debito,Pago
+3561,103773,Crédito,Pago
+3562,101693,,Pago
+3563,100291,PIX,Pago
+3564,103932,PIX,Cancelado
+3565,101419,Debito,Pago
+3566,105594,Crédito,Cancelado
+3567,105311,Crédito,Pago
+3568,101989,Crédito,Pago
+3569,100568,Crédito,Pendente
+3570,105639,Crédito,Pago
+3571,105171,PIX,Pago
+3572,103039,,Pago
+3573,102346, pix ,Pago
+3574,103144,Crédito,Pago
+3575,102304, pix ,Pago
+3576,100309,PIX,Pago
+3577,102139,PIX,Pendente
+3578,102197,Crédito,Pendente
+3579,100462,Debito,Cancelado
+3580,104731, pix ,Pago
+3581,103821,Debito,Pago
+3582,104733,Crédito,Pago
+3583,100646,Debito,Pendente
+3584,104614,Crédito,Pago
+3585,101397,PIX,Pago
+3586,103269,,Pago
+3587,104286,PIX,Pago
+3588,103875, pix ,Pendente
+3589,104175,PIX,Pendente
+3590,101571,Crédito, cancelado 
+3591,100816,Crédito,Pago
+3592,101906,Debito,Pago
+3593,104168,Crédito,Pago
+3594,102091,PIX,Pago
+3595,104899,Crédito,Cancelado
+3596,103205,Debito,Pago
+3597,103871,Debito,Pendente
+3598,101130,PIX, cancelado 
+3599,105791,PIX,Pago
+3600,102056,,Pago
+3601,101798,Crédito,Pago
+3602,103415,PIX,Pago
+3603,102485,Crédito,Pago
+3604,100689,Crédito,Pago
+3605,103464,Crédito,Pago
+3606,100576,Debito,Pago
+3607,104996,PIX,Pendente
+3608,105233,Crédito,Pago
+3609,103011,Debito,Pago
+3610,103903,Crédito,Pago
+3611,104816,PIX,Pago
+3612,104322,PIX,Cancelado
+3613,105453,PIX, cancelado 
+3614,105537,PIX,Pago
+3615,103871,PIX,Pago
+3616,102840,Crédito,Pago
+3617,103075,Crédito,Pago
+3618,104641,PIX,Pendente
+3619,102526,PIX,Pendente
+3620,103482,,Cancelado
+3621,102018,,Pendente
+3622,103379, pix ,Pago
+3623,103286,,Pago
+3624,103102,PIX,Pago
+3625,104515,Crédito,Pago
+3626,103609,Crédito,Pago
+3627,101052,PIX,Pago
+3628,104705,Crédito,Pago
+3629,100087,Crédito,Pago
+3630,103098,Debito,Pago
+3631,104809,Debito,Cancelado
+3632,102440,PIX,Pendente
+3633,101278,PIX,Pago
+3634,100520,PIX,Pago
+3635,100387,PIX,Pendente
+3636,100014,Debito,Pago
+3637,104187,Crédito,Pago
+3638,103476,,Pago
+3639,103577,Debito,Pendente
+3640,100004,Debito,Pendente
+3641,103070,PIX,Cancelado
+3642,103291,Debito,Pago
+3643,103660,Debito,Pago
+3644,104892,Crédito,Pago
+3645,103939,Crédito,Pago
+3646,104312,Crédito,Pago
+3647,105279,,Pago
+3648,101603,PIX,Pago
+3649,105854,Crédito,Cancelado
+3650,104800,PIX,Pago
+3651,104827,Crédito,Pendente
+3652,103974,Debito,Pago
+3653,102543,PIX,Pago
+3654,101643, pix ,Pago
+3655,101490,PIX,Pendente
+3656,105859,,Pago
+3657,104059,,Pago
+3658,105201,PIX,Pago
+3659,103234,,Pago
+3660,101696,PIX,Pago
+3661,101387,Crédito,Pago
+3662,104793, pix ,Pago
+3663,101198,Crédito,Pendente
+3664,102286,Debito,Pago
+3665,100988,Debito,Pago
+3666,105110,PIX,Pago
+3667,103990,Crédito, cancelado 
+3668,102960,Debito,Pendente
+3669,101262,Debito,Pago
+3670,105738,PIX,Pago
+3671,104726,Debito,Pago
+3672,101256,PIX,Pendente
+3673,100588,,Pendente
+3674,101541,Crédito,Pendente
+3675,100794, pix ,Pago
+3676,103917,Debito,Pago
+3677,105356,Debito,Pago
+3678,105664,PIX,Pago
+3679,102021,,Pago
+3680,100119,Crédito,Pago
+3681,101214,PIX,Pago
+3682,100614,Crédito,Pendente
+3683,104582,PIX,Pendente
+3684,105199,PIX,Pago
+3685,104418,Crédito,Pendente
+3686,104235,PIX,Pago
+3687,103474,Debito,Pago
+3688,103298,PIX,Pago
+3689,101290,PIX,Cancelado
+3690,102381,PIX,Pago
+3691,100224,Crédito,Pago
+3692,104668,Crédito,Pago
+3693,102824, pix ,Pago
+3694,103015,,Cancelado
+3695,105680,PIX, cancelado 
+3696,102641,PIX,Pendente
+3697,104905,PIX,Cancelado
+3698,100987,Debito,Pago
+3699,101024,Debito,Pago
+3700,101544,PIX,Cancelado
+3701,101273,Crédito,Pago
+3702,101780, pix ,Pago
+3703,101701,Debito,Pendente
+3704,103931,Debito,Pago
+3705,102235,PIX,Pago
+3706,104345,Crédito,Pago
+3707,103199,PIX,Cancelado
+3708,103160,PIX,Pendente
+3709,103984,Crédito,Pago
+3710,105914,PIX, cancelado 
+3711,101024,Debito,Pago
+3712,103840,PIX,Pago
+3713,100826,Crédito,Pago
+3714,102737,PIX,Pago
+3715,103407,Crédito,Pago
+3716,102775,PIX,Pago
+3717,104633,PIX,Pago
+3718,100492,PIX,Pago
+3719,101860,PIX,Pago
+3720,102340,Debito,Pago
+3721,100592,,Pago
+3722,102735,Crédito,Pago
+3723,101493,Debito,Pago
+3724,100948,Crédito,Pago
+3725,101576,PIX,Pago
+3726,100683,PIX,Pago
+3727,100629, pix ,Pago
+3728,105816,Crédito,Pendente
+3729,104689,Crédito,Pago
+3730,104483,PIX,Pago
+3731,105703,,Pago
+3732,104748,Crédito,Cancelado
+3733,102241,, cancelado 
+3734,103755,PIX,Pago
+3735,100101,PIX,Pago
+3736,101094,Debito,Pago
+3737,105294,PIX,Pago
+3738,102492,,Pago
+3739,103773,Crédito, cancelado 
+3740,100433,Debito,Cancelado
+3741,105335, pix ,Pago
+3742,100537,Crédito,Pago
+3743,100601,Debito,Pago
+3744,101667,Crédito,Pago
+3745,102756,PIX,Pendente
+3746,100319,Crédito,Pago
+3747,104942,Debito,Pago
+3748,101863,Debito,Pago
+3749,103733,Crédito,Pago
+3750,101528,PIX,Pago
+3751,100071,Crédito,Pendente
+3752,105249, pix ,Pago
+3753,100444,Debito,Pago
+3754,104695,PIX,Cancelado
+3755,100387,PIX,Pendente
+3756,105675,Crédito,Pago
+3757,105196,PIX,Pago
+3758,101870,,Pago
+3759,104649,Debito,Pago
+3760,102012,Debito,Pago
+3761,102922,PIX,Cancelado
+3762,105485,PIX,Pago
+3763,103352,PIX,Pago
+3764,100280,,Pago
+3765,100771,PIX,Pago
+3766,105563,Crédito,Cancelado
+3767,100954,Crédito,Pago
+3768,104425,Debito,Pago
+3769,101560,PIX,Pago
+3770,102498,Crédito,Pago
+3771,103447,Crédito,Pago
+3772,103368,,Pago
+3773,103548,Debito,Pago
+3774,102441,Debito,Pago
+3775,100109,Crédito,Pago
+3776,104455,Debito,Pago
+3777,100956,Debito,Pendente
+3778,103361,,Pago
+3779,103490, pix ,Pago
+3780,100318,Crédito,Pago
+3781,100341,PIX,Pago
+3782,105437,PIX,Pago
+3783,104445,Crédito,Cancelado
+3784,102075,Debito,Pago
+3785,100638,, cancelado 
+3786,104497,PIX,Pendente
+3787,105679,Debito,Pendente
+3788,104464,PIX,Pago
+3789,102391,PIX,Pago
+3790,105485,Debito,Pago
+3791,103989,Debito,Pago
+3792,105000,Debito,Cancelado
+3793,105193,Crédito,Pago
+3794,103194,,Pago
+3795,103937,Crédito,Cancelado
+3796,104282,PIX,Pago
+3797,102367,,Cancelado
+3798,103003,Debito,Pago
+3799,104690,Crédito,Pago
+3800,101566,,Pendente
+3801,100793,PIX,Pago
+3802,103705,PIX,Pago
+3803,102401,PIX,Pago
+3804,100355,Debito,Pago
+3805,104202,PIX,Pago
+3806,103896,PIX,Pago
+3807,104514,Crédito,Pago
+3808,104018,Crédito,Pago
+3809,104738,Debito, cancelado 
+3810,102253,Debito,Pago
+3811,100565,,Pago
+3812,103454,PIX,Pago
+3813,101303,Debito,Pendente
+3814,101751,PIX,Pago
+3815,102591,Debito,Pendente
+3816,100258,,Pago
+3817,101596,PIX,Pendente
+3818,101047,PIX,Pendente
+3819,102233,Crédito,Pendente
+3820,102595,Crédito,Pago
+3821,104078,Debito,Pago
+3822,103585,Debito,Pago
+3823,101641,PIX,Pago
+3824,101712,Crédito,Pago
+3825,100049,PIX,Pago
+3826,100168,PIX,Pago
+3827,101854,Debito,Pago
+3828,103855,Crédito,Pago
+3829,103742, pix ,Pago
+3830,102069,Crédito,Pago
+3831,100392,Debito,Pago
+3832,102951,PIX,Pago
+3833,105225,PIX,Pendente
+3834,105753,PIX,Pendente
+3835,105824,PIX,Pago
+3836,101450, pix ,Pago
+3837,100229,Debito,Pendente
+3838,103253,Debito,Cancelado
+3839,100352,PIX,Pago
+3840,102273,PIX,Pago
+3841,104038,PIX,Pago
+3842,100234,Debito,Pago
+3843,100266,PIX,Pendente
+3844,100858,Debito,Pago
+3845,100499, pix ,Pendente
+3846,100877,Crédito,Pago
+3847,102259, pix ,Pago
+3848,104195,PIX,Pago
+3849,101645,PIX,Pago
+3850,105508,Debito,Pago
+3851,102393,Crédito,Pago
+3852,103325, pix ,Pago
+3853,102952,Crédito,Pago
+3854,104620,Crédito,Pago
+3855,102648,Crédito,Pendente
+3856,104952,Crédito,Pago
+3857,102257,Debito,Pago
+3858,101433,Crédito,Pago
+3859,100481,PIX,Pago
+3860,102971,PIX,Cancelado
+3861,101666, pix ,Pago
+3862,100329,Crédito,Pago
+3863,103255,Debito,Pago
+3864,100417,Crédito,Pago
+3865,102302,PIX,Pago
+3866,100945,Debito,Pendente
+3867,102053,PIX,Pago
+3868,102351,Debito,Pago
+3869,100980,Crédito,Pago
+3870,101657,Crédito,Pago
+3871,102655, pix ,Pendente
+3872,101452,Crédito,Cancelado
+3873,103012,,Pago
+3874,102784,,Pago
+3875,105347,Debito,Pago
+3876,105774,,Pendente
+3877,104004,Crédito,Pago
+3878,101587,Crédito,Pago
+3879,100390,Crédito,Cancelado
+3880,103729,Crédito,Pendente
+3881,100850,Crédito,Pago
+3882,100819,Debito,Pendente
+3883,103636,Crédito,Pago
+3884,104108,PIX,Pago
+3885,102655,Debito,Cancelado
+3886,103955,Crédito,Pago
+3887,104107,PIX,Pendente
+3888,100490,PIX,Pendente
+3889,102320,PIX,Cancelado
+3890,102929,, cancelado 
+3891,103164,PIX,Pago
+3892,102935,PIX,Pago
+3893,101147,Crédito,Pago
+3894,102824,Debito,Cancelado
+3895,102506,PIX,Pago
+3896,100812,PIX,Pendente
+3897,100056,PIX,Pendente
+3898,100708,PIX,Pago
+3899,101010,PIX,Pago
+3900,104119,Crédito,Pago
+3901,103849,Debito,Pago
+3902,103317,PIX,Pendente
+3903,104868,Debito,Pago
+3904,103490,Crédito,Cancelado
+3905,104327,,Pago
+3906,104306,,Pago
+3907,105282,PIX,Pago
+3908,101401,Crédito,Cancelado
+3909,101194,Debito,Pago
+3910,104995,Debito,Pendente
+3911,101498,PIX,Pago
+3912,101251,Crédito,Pago
+3913,100873,Debito,Pago
+3914,102411,PIX,Pago
+3915,103551,,Pago
+3916,101579,PIX,Pago
+3917,100475,,Pago
+3918,104291,,Pago
+3919,105132,Debito,Pago
+3920,103567,PIX,Pago
+3921,104049,Crédito,Pendente
+3922,104625,Debito,Pago
+3923,100271,Crédito,Pago
+3924,105677,Crédito,Pendente
+3925,103552, pix ,Pago
+3926,105918, pix ,Pago
+3927,104586,Debito,Pago
+3928,104458,Debito,Pendente
+3929,103884,Debito,Pago
+3930,102620,PIX,Pago
+3931,100995,Crédito,Pago
+3932,100769,PIX,Pago
+3933,105139,Debito,Cancelado
+3934,100545,Crédito,Pendente
+3935,105075,PIX,Pago
+3936,100932, pix ,Pago
+3937,100091,,Pago
+3938,104334,PIX,Cancelado
+3939,105347,Crédito,Pago
+3940,100851,PIX,Pendente
+3941,102969,,Pago
+3942,104873,Debito,Pendente
+3943,103078,,Pago
+3944,102660,Crédito,Pago
+3945,100634,PIX,Pago
+3946,103229,Crédito, cancelado 
+3947,101225,PIX,Pago
+3948,101249,Crédito,Pago
+3949,100983,Debito,Pendente
+3950,102511,PIX,Cancelado
+3951,103851,Debito,Cancelado
+3952,104759, pix ,Pago
+3953,103994,Debito,Cancelado
+3954,100990,,Pago
+3955,101617,Crédito,Pendente
+3956,100425,PIX,Cancelado
+3957,101431,,Pago
+3958,101636,PIX,Pago
+3959,104201,,Pago
+3960,105219,PIX,Pendente
+3961,100178,Debito,Pago
+3962,105385,Debito,Pago
+3963,105252, pix ,Pendente
+3964,105319,,Pago
+3965,103777,PIX,Cancelado
+3966,100720,Debito,Pago
+3967,103129,Crédito,Pago
+3968,104505,Debito, cancelado 
+3969,103002,Crédito,Pago
+3970,102790,Debito,Pago
+3971,100654, pix ,Cancelado
+3972,102623,Debito,Pago
+3973,103557,PIX,Pago
+3974,103393,Crédito,Pago
+3975,104404,PIX, cancelado 
+3976,100490,Debito,Pago
+3977,101345,Debito,Pago
+3978,100608,PIX,Pendente
+3979,103592,Crédito,Pago
+3980,105646,Debito,Pago
+3981,104120,PIX,Pago
+3982,105312,Crédito, cancelado 
+3983,100753,,Pago
+3984,103049,PIX,Pago
+3985,104445,PIX,Cancelado
+3986,104121,Debito,Pago
+3987,103462,PIX,Pago
+3988,101015,PIX,Pago
+3989,104695,PIX,Pendente
+3990,101769,Debito,Pago
+3991,104897,PIX,Pago
+3992,100959,,Pago
+3993,101592,Crédito,Pago
+3994,103262,, cancelado 
+3995,105148,Debito,Pago
+3996,102589,Crédito,Pago
+3997,102539,Debito,Pago
+3998,100791,Crédito,Pago
+3999,104268,Debito,Pago
+4000,104017,Crédito,Pago
+4001,104395,Crédito, cancelado 
+4002,103099,Crédito,Pago
+4003,100648,Crédito,Pendente
+4004,104844,Crédito,Pago
+4005,105877,,Pago
+4006,101476,,Pago
+4007,105589, pix ,Pago
+4008,105205,Crédito,Cancelado
+4009,105022,Crédito,Pendente
+4010,102061,Crédito,Cancelado
+4011,105076,Debito,Pago
+4012,101124,,Pago
+4013,100616, pix ,Pago
+4014,101285,Crédito,Pendente
+4015,102326,Debito,Pago
+4016,105050, pix ,Cancelado
+4017,103138,PIX,Pago
+4018,103673,Crédito,Pendente
+4019,102856,Crédito,Pago
+4020,101624,PIX,Pendente
+4021,103450,Crédito,Pago
+4022,105637, pix ,Pago
+4023,102704,Crédito,Pago
+4024,101141,Crédito,Pago
+4025,102831,Crédito,Cancelado
+4026,100499,Crédito,Pago
+4027,104683,PIX,Cancelado
+4028,101104,Crédito,Pago
+4029,103090,Crédito,Pago
+4030,101753,PIX,Pago
+4031,104015,Crédito,Pago
+4032,100614,Crédito,Pago
+4033,103048,Crédito,Pago
+4034,100644,Crédito,Pago
+4035,102869,PIX,Pago
+4036,104154,Crédito,Pago
+4037,101136,PIX,Pago
+4038,104693,Debito,Pendente
+4039,105946,PIX,Pago
+4040,103700,,Pago
+4041,102363,Crédito,Pendente
+4042,100162,PIX,Pago
+4043,101822, pix ,Pendente
+4044,104420,,Pago
+4045,102766,PIX,Pendente
+4046,103403,Crédito,Pago
+4047,102628,Crédito,Pago
+4048,103994,Crédito,Cancelado
+4049,104995,,Pago
+4050,104856,PIX,Pago
+4051,104598,PIX,Pago
+4052,100057,PIX,Cancelado
+4053,105285,Debito,Pago
+4054,103238,Crédito,Pendente
+4055,102345,,Pendente
+4056,105124,PIX,Pago
+4057,104903,Debito,Pago
+4058,105997,Debito,Pago
+4059,105226,Debito,Pago
+4060,100620,Crédito,Pago
+4061,104875,Crédito,Pago
+4062,104875,Crédito,Pago
+4063,102614,Debito,Pago
+4064,104262,Crédito,Pago
+4065,105374,Crédito,Cancelado
+4066,102836,PIX,Pendente
+4067,100666, pix ,Pago
+4068,100128,Crédito,Cancelado
+4069,103558,Crédito,Cancelado
+4070,104172,PIX,Pago
+4071,104983,PIX,Pago
+4072,105341,Debito,Pendente
+4073,100635,PIX,Cancelado
+4074,103609,Crédito,Pendente
+4075,103690, pix ,Pago
+4076,105738, pix ,Pago
+4077,104711,PIX,Pago
+4078,100986,,Pago
+4079,102574,Crédito,Pago
+4080,101157,Crédito,Pago
+4081,104537,Debito,Pago
+4082,105654,Crédito,Pago
+4083,103869,PIX,Cancelado
+4084,100244,PIX,Pago
+4085,100768,PIX,Pago
+4086,103218,Crédito,Pago
+4087,100415,PIX,Pago
+4088,103284,Crédito,Pendente
+4089,104345,Crédito,Cancelado
+4090,103107,PIX,Pago
+4091,102887,Crédito,Pendente
+4092,100862,,Pago
+4093,105892,Debito,Pago
+4094,104915,Debito,Pago
+4095,104958,PIX,Cancelado
+4096,103358,Debito,Pago
+4097,103934,Debito,Pago
+4098,103765,Debito,Pago
+4099,100210,Debito,Pago
+4100,102158,Debito,Pago
+4101,102378,,Pago
+4102,102190,,Pago
+4103,100676,PIX,Pendente
+4104,101356,Debito,Pago
+4105,100026,PIX,Cancelado
+4106,102694,PIX,Pago
+4107,101651, pix ,Pago
+4108,102959,PIX,Pago
+4109,104458,,Cancelado
+4110,105991, pix ,Pago
+4111,101683, pix ,Cancelado
+4112,104456,Debito,Pago
+4113,101967,Debito,Pendente
+4114,103287,PIX,Cancelado
+4115,100996,Crédito,Pago
+4116,100077,Debito,Pago
+4117,102143,,Pago
+4118,100957,Debito,Pendente
+4119,103045,Crédito,Pago
+4120,100218,Debito,Pendente
+4121,103947,Crédito,Pendente
+4122,102416,PIX,Pago
+4123,103346, pix ,Pago
+4124,101468,PIX,Pendente
+4125,104783,Crédito,Pago
+4126,102873,Debito, cancelado 
+4127,100033,Crédito,Pago
+4128,102920,Crédito,Pendente
+4129,103488,PIX,Pago
+4130,100425,Debito,Pendente
+4131,104883,Crédito,Pago
+4132,103079,Debito,Pago
+4133,104835,Crédito,Pago
+4134,104863, pix , cancelado 
+4135,101818,Crédito,Pago
+4136,105868,Debito,Cancelado
+4137,103927,Crédito,Pago
+4138,105474,Debito,Pago
+4139,104019,Debito,Pago
+4140,104295,PIX,Pago
+4141,100715,PIX,Pendente
+4142,103208,Crédito,Pago
+4143,103981,Crédito, cancelado 
+4144,104384,,Pago
+4145,102025,PIX,Pago
+4146,103874,Debito,Pago
+4147,103730,Crédito,Pago
+4148,102615,Crédito,Pago
+4149,100811,PIX,Pago
+4150,102456,,Cancelado
+4151,102031,PIX,Pago
+4152,105013,Crédito,Pendente
+4153,101786,PIX,Pago
+4154,101973,,Pago
+4155,100717,Debito,Pago
+4156,100825,,Cancelado
+4157,101728,PIX,Pago
+4158,105122,Crédito,Pago
+4159,102233,Crédito,Pago
+4160,105681,Crédito,Pago
+4161,100763,PIX,Cancelado
+4162,100022,PIX,Cancelado
+4163,102260,Debito,Pago
+4164,104562,Crédito,Pago
+4165,103306,,Pendente
+4166,104268,Crédito,Pago
+4167,104893,Crédito,Pendente
+4168,101542,Crédito,Pago
+4169,104340,Crédito,Pago
+4170,100421,,Pago
+4171,103545,Crédito,Cancelado
+4172,104437,Crédito,Pago
+4173,101984,PIX,Pago
+4174,100123,PIX,Pago
+4175,104968,Crédito,Pago
+4176,100434,Crédito,Pago
+4177,105134,Crédito,Pago
+4178,104166, pix ,Cancelado
+4179,104747,PIX,Pago
+4180,103483,,Pago
+4181,102885,Crédito,Cancelado
+4182,102639,Debito,Pendente
+4183,103878,PIX,Pago
+4184,101616,Crédito,Pago
+4185,103809,PIX,Pendente
+4186,100227,Debito,Pago
+4187,105502,Debito,Pago
+4188,100536,PIX,Pago
+4189,101123,Debito,Pago
+4190,104366, pix ,Pago
+4191,105214,,Pendente
+4192,105912,PIX,Cancelado
+4193,103535,Debito,Pago
+4194,100659,PIX,Pago
+4195,103108,Crédito,Pago
+4196,105926,Crédito,Pendente
+4197,102322,Debito,Pago
+4198,101167,PIX,Pago
+4199,104992, pix ,Pago
+4200,105603,,Pago
+4201,101972, pix ,Pago
+4202,100017,,Pago
+4203,101904,Debito,Pendente
+4204,101613,Debito,Pago
+4205,105398,Debito,Pago
+4206,103707,PIX, cancelado 
+4207,100436,Debito,Pendente
+4208,104072,PIX,Pago
+4209,103456, pix ,Pago
+4210,102005,Crédito,Pago
+4211,104954,Crédito,Pago
+4212,102734,Debito,Pendente
+4213,105252,,Pago
+4214,100263,Crédito,Pendente
+4215,102442,,Cancelado
+4216,100808,,Pago
+4217,102513,Crédito,Pago
+4218,100358, pix ,Pendente
+4219,102402,Crédito,Pendente
+4220,101275,Debito,Pago
+4221,104472,Debito,Pago
+4222,100989,,Pendente
+4223,100018,Debito,Pago
+4224,101739,Debito,Pago
+4225,102764,PIX,Pago
+4226,105122,Debito, cancelado 
+4227,102998,PIX,Pago
+4228,100914,,Pago
+4229,100566,Crédito,Pago
+4230,102913,Debito, cancelado 
+4231,101353,Crédito,Pago
+4232,101472, pix ,Pendente
+4233,103164,Crédito,Pago
+4234,105372,Crédito,Pendente
+4235,100612, pix ,Pendente
+4236,101063,Debito,Pago
+4237,100436,PIX,Pago
+4238,100648, pix ,Pago
+4239,102410,Debito,Pago
+4240,104018,Crédito,Pendente
+4241,102610,Crédito,Pago
+4242,100083,PIX,Pago
+4243,101790,Crédito,Pago
+4244,105828,PIX,Pago
+4245,101051,Debito,Pago
+4246,105709,Debito,Pago
+4247,103839,Crédito,Pago
+4248,104117,Debito,Pago
+4249,105338,Crédito,Pago
+4250,105165,Debito,Pendente
+4251,105050,PIX,Cancelado
+4252,105527,Crédito,Pendente
+4253,102742,, cancelado 
+4254,100798,Debito,Cancelado
+4255,102527,Crédito,Pago
+4256,104752,,Pago
+4257,100763,Debito,Pago
+4258,100618,PIX,Pago
+4259,103881,Crédito, cancelado 
+4260,104807,Debito,Pago
+4261,104433,PIX,Pendente
+4262,103864,Crédito,Pago
+4263,103687,PIX,Cancelado
+4264,105531,PIX,Pendente
+4265,100768,Crédito,Pago
+4266,105602, pix ,Pago
+4267,105723,Crédito,Pendente
+4268,103186,Crédito,Cancelado
+4269,101021,,Pendente
+4270,103494,Crédito,Pendente
+4271,101078, pix ,Pago
+4272,103260,PIX,Pago
+4273,103611,PIX,Cancelado
+4274,101776,PIX,Pago
+4275,105310,Crédito,Pago
+4276,102879,PIX,Pago
+4277,101891,,Pago
+4278,101627,Crédito,Pago
+4279,103619,Debito,Pago
+4280,104285,Debito,Pago
+4281,105885,Crédito,Pago
+4282,101572,PIX,Pendente
+4283,104966,PIX, cancelado 
+4284,103676,Crédito,Pago
+4285,101592,PIX,Pago
+4286,102627,Debito,Pendente
+4287,105433,Crédito,Pago
+4288,101193, pix ,Pago
+4289,104774,Crédito,Pago
+4290,105045,Debito,Pago
+4291,105684,Debito,Pago
+4292,104248,PIX, cancelado 
+4293,105018,Crédito,Pago
+4294,101129, pix ,Pago
+4295,103439,,Pago
+4296,101116,PIX,Pendente
+4297,104809,Crédito,Cancelado
+4298,104901, pix ,Pago
+4299,101909,,Pago
+4300,104528,PIX,Pago
+4301,105699,Debito,Pago
+4302,103753,Crédito,Pago
+4303,101329,Crédito,Pendente
+4304,104124,Crédito,Pago
+4305,101312,Crédito,Cancelado
+4306,104451,,Pendente
+4307,104039,PIX,Pago
+4308,101863,Crédito,Pago
+4309,102005,Debito,Pago
+4310,103616,Crédito,Pago
+4311,102726,PIX,Pago
+4312,102184,Debito,Pago
+4313,100154,Crédito,Pago
+4314,105583,Crédito,Pago
+4315,100816,PIX,Pendente
+4316,101120,Debito,Pendente
+4317,103269,Debito,Cancelado
+4318,102156, pix , cancelado 
+4319,105166,PIX,Pago
+4320,101210,Debito,Pago
+4321,100454,,Pendente
+4322,101107,Crédito,Cancelado
+4323,105447,Crédito,Pago
+4324,102797,,Pago
+4325,104545, pix ,Pago
+4326,104417,Crédito,Pendente
+4327,105265,,Pendente
+4328,104374,Crédito,Pendente
+4329,102660, pix ,Pago
+4330,101038,Crédito,Pago
+4331,103334,Crédito,Pago
+4332,100414,Debito,Pago
+4333,102542, pix , cancelado 
+4334,104143,PIX,Pago
+4335,101940,,Pago
+4336,100656,PIX,Pendente
+4337,104045,Debito,Pago
+4338,102480,Crédito,Cancelado
+4339,105640,Crédito,Pago
+4340,103862,Debito,Pendente
+4341,101348,PIX,Pendente
+4342,105922, pix ,Pago
+4343,101317,Crédito,Pago
+4344,103607,PIX,Pago
+4345,105204, pix ,Pago
+4346,103839,Debito,Pago
+4347,105493,PIX,Cancelado
+4348,104059,Debito,Pago
+4349,105005,,Pago
+4350,100316,Crédito,Pago
+4351,100221,Debito,Pendente
+4352,102262,Crédito,Cancelado
+4353,100845, pix ,Pago
+4354,101515,Crédito,Pago
+4355,101109,PIX,Pago
+4356,105124,PIX,Pago
+4357,101731,Debito,Pago
+4358,103186,Debito,Pago
+4359,101239,Crédito,Cancelado
+4360,105456,Crédito,Pago
+4361,102925,,Cancelado
+4362,101191,PIX,Pago
+4363,104383, pix ,Cancelado
+4364,103567,Debito,Cancelado
+4365,102432,Crédito, cancelado 
+4366,102895,Crédito,Pendente
+4367,101457,Crédito,Pago
+4368,101110,PIX,Pago
+4369,105718,PIX,Pendente
+4370,101931,Debito,Cancelado
+4371,103117, pix ,Pago
+4372,100623,Debito,Cancelado
+4373,102338,,Pago
+4374,101931,Crédito,Pago
+4375,102745,,Pago
+4376,101259,PIX,Pago
+4377,104502,Debito,Pago
+4378,105625,PIX,Pendente
+4379,105832, pix ,Pago
+4380,101969,Debito,Pago
+4381,103296,Crédito,Pendente
+4382,102024,,Cancelado
+4383,100877,Debito,Pago
+4384,102245,PIX,Pago
+4385,102527,Crédito,Cancelado
+4386,103590,Crédito,Pago
+4387,104404,PIX,Pago
+4388,100345,Debito,Cancelado
+4389,103673,,Pago
+4390,103069,PIX,Pago
+4391,101914,,Pago
+4392,102446,Crédito,Pago
+4393,100785,Crédito,Pendente
+4394,101488,Debito,Pago
+4395,104892,Crédito,Pago
+4396,103849,PIX,Pendente
+4397,105235,PIX,Pago
+4398,100450,Debito,Pago
+4399,101428,Crédito,Pago
+4400,102596,Crédito,Pago
+4401,102277,Crédito,Pago
+4402,105766,PIX,Pago
+4403,100244,Crédito,Pago
+4404,102113,,Pago
+4405,103309,PIX,Cancelado
+4406,100946, pix ,Pago
+4407,101027,Debito,Pago
+4408,101524,,Pago
+4409,103109,PIX,Pago
+4410,103693,Debito,Pago
+4411,103050,Crédito,Pago
+4412,103322, pix ,Pendente
+4413,103307,Debito,Pago
+4414,104239,Crédito,Pago
+4415,105880,Crédito,Cancelado
+4416,105176,Crédito,Pago
+4417,100061,Debito,Cancelado
+4418,104175,PIX,Pago
+4419,103399,Debito,Pago
+4420,102415,PIX,Pago
+4421,105054,Debito,Pago
+4422,103779,Crédito,Pago
+4423,103607,Crédito,Pago
+4424,100390,PIX,Pago
+4425,104617,Crédito,Pago
+4426,101676,PIX,Pago
+4427,101778,Crédito,Pago
+4428,100253,PIX,Pago
+4429,103167,PIX,Pago
+4430,101715,Crédito,Pago
+4431,102051,PIX,Pago
+4432,100696,Debito,Pago
+4433,102094,PIX,Pago
+4434,105924, pix ,Pago
+4435,104749,Crédito,Cancelado
+4436,102573,PIX,Pago
+4437,101506,Crédito,Cancelado
+4438,103669,Debito,Pago
+4439,104514,Crédito,Pago
+4440,105098,Debito,Pago
+4441,102744,Crédito,Pago
+4442,104655,PIX,Pago
+4443,105027,Debito, cancelado 
+4444,103278,PIX,Pago
+4445,101299,PIX,Pago
+4446,104691,PIX,Pago
+4447,105217,Crédito,Pago
+4448,103251,Crédito,Pendente
+4449,102915,,Pago
+4450,103869,Debito,Pago
+4451,105192,Debito,Pago
+4452,102265,Crédito,Pago
+4453,103793,Crédito,Pago
+4454,102881,,Pago
+4455,102854,PIX,Pendente
+4456,103708,Debito,Pago
+4457,102829,,Pago
+4458,100216,PIX,Pago
+4459,104566,PIX,Pago
+4460,100180,Debito,Pago
+4461,102687,Debito,Pago
+4462,105580,Crédito,Pendente
+4463,100377,PIX,Pago
+4464,102729,Crédito, cancelado 
+4465,101828,PIX, cancelado 
+4466,105853,Crédito,Pago
+4467,103227,Crédito,Pendente
+4468,102328,,Pago
+4469,101503,Debito,Pago
+4470,105319,Crédito,Pago
+4471,104945,,Pendente
+4472,100753,Debito,Pendente
+4473,103170,Crédito,Cancelado
+4474,100250,Debito,Cancelado
+4475,102821,PIX,Pago
+4476,104737,Debito,Pendente
+4477,100890,,Pago
+4478,105602,Crédito,Cancelado
+4479,104867,Crédito,Pago
+4480,105924,Crédito,Pendente
+4481,104003,Crédito,Pago
+4482,103724,Debito,Pago
+4483,103087, pix ,Pago
+4484,102744,Debito, cancelado 
+4485,104577,Crédito,Pago
+4486,101757, pix ,Pago
+4487,102623,Debito,Pago
+4488,101777,Debito,Pago
+4489,104581,Crédito,Cancelado
+4490,103405,Crédito,Pago
+4491,102075,Crédito, cancelado 
+4492,103097,Crédito,Pago
+4493,101086,Debito, cancelado 
+4494,103730,Crédito,Pago
+4495,104329,Crédito,Pago
+4496,101488,Debito,Pago
+4497,100349,PIX,Pago
+4498,100414,PIX,Pago
+4499,105807,Crédito,Pago
+4500,102454,Crédito,Pago
+4501,103453,PIX, cancelado 
+4502,105410,PIX,Pendente
+4503,102564,PIX,Cancelado
+4504,101010,Crédito,Pendente
+4505,104383,Crédito,Pago
+4506,100782,PIX,Pago
+4507,103080, pix ,Pago
+4508,104453,Debito,Pendente
+4509,102629,,Pendente
+4510,103976,Debito,Pago
+4511,102187, pix ,Pago
+4512,105631,Debito,Pago
+4513,103320,PIX,Pago
+4514,105661,PIX,Pago
+4515,101207,Crédito,Pago
+4516,103797,Crédito,Pendente
+4517,104519,Debito,Pendente
+4518,104493,Crédito,Pago
+4519,100305,PIX,Cancelado
+4520,105139,Debito,Pendente
+4521,103455,Crédito,Pendente
+4522,102274,PIX,Pago
+4523,105350,Crédito,Pago
+4524,100851,Crédito,Pago
+4525,105728,PIX,Pago
+4526,100495,PIX,Pago
+4527,103556,Crédito,Pago
+4528,102675,Crédito,Cancelado
+4529,103431,PIX,Pago
+4530,103150,Crédito,Pago
+4531,103348,,Pago
+4532,103950, pix ,Pago
+4533,105302,Crédito,Pago
+4534,100505, pix ,Pago
+4535,104703,Debito,Pago
+4536,105509,Debito,Pago
+4537,102655,Crédito,Pago
+4538,103407,Crédito,Pago
+4539,103518, pix ,Pago
+4540,102705,PIX,Pago
+4541,103765,Debito,Pendente
+4542,105413,Crédito,Pago
+4543,105258,,Pago
+4544,101580,Debito,Pago
+4545,101762,Debito,Pago
+4546,105465,Crédito,Pendente
+4547,104133, pix ,Pago
+4548,100314,Debito, cancelado 
+4549,104316,Crédito,Pago
+4550,102688,Debito,Pago
+4551,105524,PIX,Pendente
+4552,101719,Debito, cancelado 
+4553,104500,PIX,Pago
+4554,103627,Debito,Pago
+4555,104575,PIX,Pago
+4556,100824,PIX,Pago
+4557,104316,PIX,Cancelado
+4558,102415,PIX,Pago
+4559,105316,Crédito,Pago
+4560,105080, pix ,Pago
+4561,104780,PIX,Pago
+4562,103821,Debito,Pago
+4563,105807,Crédito,Pago
+4564,101970,PIX,Pago
+4565,103104,Debito, cancelado 
+4566,103067,Crédito,Pago
+4567,101760,,Cancelado
+4568,103126,Crédito,Pago
+4569,104053,PIX,Pendente
+4570,105100,PIX,Pago
+4571,102282,, cancelado 
+4572,104925,Crédito,Pago
+4573,104839,PIX,Pago
+4574,105230,Debito,Pago
+4575,103035,Crédito,Cancelado
+4576,101124,,Pago
+4577,105832,PIX,Pago
+4578,101235,PIX,Pendente
+4579,105957, pix ,Pago
+4580,100675,PIX,Pendente
+4581,105514,Debito,Pago
+4582,102703,Debito,Pago
+4583,102306,PIX,Pago
+4584,101269,PIX,Pago
+4585,105098,PIX,Cancelado
+4586,103222,PIX,Pago
+4587,104720,PIX,Pendente
+4588,104195,,Pago
+4589,105223,PIX,Pago
+4590,103795,Crédito,Pendente
+4591,104079,Debito,Pago
+4592,102060,PIX,Pago
+4593,101250,Crédito,Pago
+4594,104030,,Pago
+4595,102861,Crédito,Pago
+4596,103514,PIX,Pago
+4597,103220,,Pago
+4598,100179,PIX,Pago
+4599,102200,PIX,Pago
+4600,104931,,Pago
+4601,104678,PIX,Pendente
+4602,105473,,Cancelado
+4603,105537,PIX,Pago
+4604,105725,PIX,Pago
+4605,105690,PIX,Pago
+4606,104292,Crédito,Pago
+4607,102530,PIX,Pago
+4608,102256,,Pago
+4609,100936,PIX,Pago
+4610,105419,Crédito,Pago
+4611,100957,Crédito,Pago
+4612,102474,Crédito,Pago
+4613,101086,Debito,Pago
+4614,104663,Debito,Pago
+4615,103435,,Pendente
+4616,102666,,Pago
+4617,102993,Debito,Pago
+4618,101102,PIX,Pago
+4619,104983,PIX,Pago
+4620,102977,Crédito,Pago
+4621,100284,,Pago
+4622,105177,Crédito,Pago
+4623,104472, pix ,Cancelado
+4624,103791,PIX, cancelado 
+4625,102820,PIX, cancelado 
+4626,100788, pix ,Pago
+4627,104469,Debito,Pago
+4628,100857, pix ,Pago
+4629,101699,PIX,Pago
+4630,102681,,Pago
+4631,102134,PIX,Pago
+4632,104195,Debito,Pago
+4633,102422,PIX,Pago
+4634,102806,Debito,Pago
+4635,105615,PIX,Pago
+4636,103932, pix ,Pago
+4637,105328,PIX,Pago
+4638,100625, pix ,Pago
+4639,104179,Debito,Pendente
+4640,101601,Crédito, cancelado 
+4641,100001,PIX,Pago
+4642,104782,PIX,Pago
+4643,104346,Crédito,Pago
+4644,104506,PIX,Cancelado
+4645,101410,PIX,Pago
+4646,103868,Crédito,Pendente
+4647,105204,PIX,Pago
+4648,104586,Crédito,Pendente
+4649,102971,Debito,Cancelado
+4650,102588,PIX,Pago
+4651,100799,Crédito,Pago
+4652,100943,Debito,Pendente
+4653,103463,PIX,Pendente
+4654,105600,,Pago
+4655,101328,PIX,Pendente
+4656,100695,Crédito,Pendente
+4657,103417,,Cancelado
+4658,104231,Debito,Pago
+4659,105588,Debito,Pago
+4660,100186,Crédito,Pago
+4661,100478,,Pago
+4662,104097,PIX,Pago
+4663,102898,,Pendente
+4664,103016,Crédito,Pago
+4665,103816,PIX,Pago
+4666,101686,Crédito,Pago
+4667,100992,PIX,Pago
+4668,102750, pix ,Pago
+4669,104366,Crédito,Pago
+4670,102946,Crédito,Pendente
+4671,103399,PIX,Pago
+4672,100195,Crédito,Pago
+4673,102303,Debito,Pago
+4674,100079,Debito,Pago
+4675,103947, pix ,Pendente
+4676,101122,Crédito,Pago
+4677,103222, pix ,Pago
+4678,100786,PIX,Pago
+4679,102862,Crédito,Pendente
+4680,100447,Crédito,Pago
+4681,104219,,Pendente
+4682,105730,PIX,Pago
+4683,102724,Debito,Pago
+4684,101582,Crédito,Pago
+4685,100359,Crédito,Cancelado
+4686,102287,PIX,Pendente
+4687,101766,Debito,Pago
+4688,100805,PIX,Pago
+4689,105876, pix ,Pago
+4690,105650,Debito,Pago
+4691,102731,Crédito,Pago
+4692,105992,PIX,Pago
+4693,104765,PIX,Pago
+4694,104063,,Pago
+4695,100143,PIX,Pendente
+4696,102235,Debito,Cancelado
+4697,103560,Debito,Pago
+4698,102170,Crédito,Pago
+4699,103422,Debito,Pago
+4700,101124,PIX,Pago
+4701,100284,PIX,Pago
+4702,100384,Debito,Pago
+4703,101579, pix ,Pendente
+4704,103873,Crédito,Pago
+4705,102946,Crédito,Pago
+4706,104283,Debito,Pago
+4707,100624,PIX,Pago
+4708,100545,PIX,Pago
+4709,100914,Debito,Pago
+4710,102138,PIX,Pago
+4711,102544,Crédito,Cancelado
+4712,103733,Crédito,Pago
+4713,105056,PIX,Pago
+4714,103996,Crédito,Pendente
+4715,101748,Crédito,Pago
+4716,102164,Crédito,Pago
+4717,101044,Debito,Pago
+4718,102180, pix ,Pago
+4719,101316, pix ,Pago
+4720,101378, pix ,Pago
+4721,103309,Crédito,Pago
+4722,105709,,Pago
+4723,100223,Debito,Cancelado
+4724,104532, pix ,Cancelado
+4725,105758,,Pago
+4726,104423,Debito,Pago
+4727,105329,Crédito,Pago
+4728,102154,PIX,Pago
+4729,102700,Debito,Pago
+4730,103321,Crédito,Pago
+4731,100567,Crédito,Pago
+4732,102043,PIX,Pago
+4733,100630,Crédito,Pendente
+4734,102736, pix ,Pago
+4735,105474,Crédito,Pago
+4736,102518,PIX,Pago
+4737,100725,Crédito,Pago
+4738,104361, pix ,Cancelado
+4739,104049,PIX,Pago
+4740,105584,Crédito,Pago
+4741,102899,PIX,Pago
+4742,101465,Crédito,Pago
+4743,101308,PIX,Pago
+4744,101955,Debito,Cancelado
+4745,104795,Crédito,Pago
+4746,105839,PIX,Pago
+4747,105615,Crédito,Pago
+4748,100154,PIX,Pago
+4749,105420,PIX,Cancelado
+4750,103512,PIX,Pago
+4751,104067, pix ,Cancelado
+4752,100811,PIX,Pago
+4753,100151,Debito,Pago
+4754,102223, pix ,Pago
+4755,101079, pix ,Pago
+4756,100779,PIX,Pago
+4757,105431,,Pago
+4758,104250,,Pago
+4759,103969,Crédito,Pago
+4760,104597,Crédito,Pago
+4761,102554,Debito,Pago
+4762,104245,,Pendente
+4763,104104,Crédito,Pendente
+4764,105780,PIX,Cancelado
+4765,105805, pix ,Pago
+4766,104689,,Pago
+4767,104565,PIX,Pago
+4768,104547,Debito,Pendente
+4769,103679,Crédito,Pago
+4770,105944,,Pago
+4771,104224,,Pendente
+4772,103706,PIX,Pendente
+4773,103359,,Pago
+4774,100853,Crédito,Pago
+4775,104183,PIX,Pago
+4776,103966,Crédito,Cancelado
+4777,105201,PIX,Pago
+4778,104630,Crédito,Cancelado
+4779,103324,Crédito, cancelado 
+4780,104920, pix ,Pendente
+4781,105604,PIX,Pendente
+4782,104475,,Cancelado
+4783,100456,PIX,Pago
+4784,105999,Debito,Pago
+4785,104414,PIX,Pendente
+4786,100230,,Pago
+4787,104604,PIX,Pago
+4788,104886, pix ,Pago
+4789,105647,Crédito,Pago
+4790,105595,Debito,Pago
+4791,105020,,Pago
+4792,103478,Crédito,Pago
+4793,103359,Debito,Pago
+4794,100760,Debito,Cancelado
+4795,101791,PIX,Pago
+4796,104542,Crédito,Pago
+4797,101367,PIX,Pago
+4798,100325,, cancelado 
+4799,100877,Crédito,Pago
+4800,100167,Debito,Pago
+4801,103665,Crédito,Pago
+4802,100581,Debito,Pago
+4803,104935,Debito,Pago
+4804,105696,PIX,Pendente
+4805,101800,Crédito,Pago
+4806,105959,Debito,Pago
+4807,101110,PIX,Pago
+4808,103628,,Pago
+4809,102854,Crédito,Pago
+4810,101173,PIX,Pago
+4811,100772,PIX,Pendente
+4812,100928,Crédito,Pago
+4813,102909,PIX,Pendente
+4814,105052,PIX,Pago
+4815,100606,PIX,Pago
+4816,103907,Crédito,Pago
+4817,104101, pix ,Pago
+4818,104095,Crédito,Cancelado
+4819,105599,Crédito,Pago
+4820,101002,PIX,Pago
+4821,103974,Crédito,Cancelado
+4822,100414,Crédito,Pago
+4823,104811,Debito,Pago
+4824,105929,PIX,Pago
+4825,102015,Debito,Pago
+4826,101488,PIX,Pago
+4827,100783, pix ,Pendente
+4828,100527,,Pago
+4829,100001,Crédito,Pago
+4830,100271,PIX,Pago
+4831,102532,Crédito,Pago
+4832,101072, pix ,Cancelado
+4833,100694, pix ,Pago
+4834,102888,Debito, cancelado 
+4835,103579,PIX,Pago
+4836,101996, pix ,Pago
+4837,103578,Debito,Pago
+4838,101710,PIX,Cancelado
+4839,102100,PIX,Pago
+4840,100470, pix ,Cancelado
+4841,102291,Debito,Pago
+4842,100337,,Pago
+4843,100756,PIX,Pago
+4844,102602,Crédito,Pago
+4845,101720,PIX,Pago
+4846,102100,Crédito,Pago
+4847,100413,Debito,Pago
+4848,103613,PIX,Pago
+4849,103281,,Pago
+4850,104104, pix ,Pago
+4851,102994,Debito,Pago
+4852,103463,Debito,Pago
+4853,100247,,Pago
+4854,103779,,Pago
+4855,100412,,Pago
+4856,105660,Debito,Pago
+4857,105465,PIX,Pago
+4858,103368, pix ,Pendente
+4859,104331,Crédito,Cancelado
+4860,102690,Crédito, cancelado 
+4861,100588, pix ,Pago
+4862,101469,Debito,Pago
+4863,100233,Crédito,Pendente
+4864,101887,Crédito,Pago
+4865,100310,Debito,Pago
+4866,100944,Crédito,Pago
+4867,100908,Crédito,Pago
+4868,102749,Crédito,Cancelado
+4869,102526, pix ,Pendente
+4870,101601,Crédito,Pago
+4871,102100,Debito,Pago
+4872,100546,Debito,Pago
+4873,102349,PIX,Pago
+4874,103824,Crédito,Pago
+4875,102689,Debito,Cancelado
+4876,103315,Crédito,Pendente
+4877,104452,,Pago
+4878,104931,PIX,Pendente
+4879,105730,Crédito,Pago
+4880,105562, pix ,Pendente
+4881,104973,Crédito,Pago
+4882,101842,Debito,Pendente
+4883,101637,PIX,Pago
+4884,105239,Debito,Pendente
+4885,101676,PIX,Pendente
+4886,105491,Crédito,Pago
+4887,104833,PIX,Pago
+4888,101791,Debito,Cancelado
+4889,103145,Crédito,Pago
+4890,103521,PIX,Pago
+4891,101842,,Pago
+4892,105591,Debito,Pago
+4893,100156,PIX,Pendente
+4894,100934,PIX,Pendente
+4895,100576, pix ,Pago
+4896,101334,Crédito, cancelado 
+4897,103108,PIX,Pago
+4898,104344,PIX, cancelado 
+4899,101452,Crédito,Cancelado
+4900,105164,Debito,Pago
+4901,104549,Debito,Pago
+4902,105239, pix ,Pago
+4903,105005,PIX,Pago
+4904,100940,Crédito,Pendente
+4905,103460,Crédito,Pago
+4906,101094,PIX,Pago
+4907,103942,PIX,Pago
+4908,102502,Crédito,Pago
+4909,104363,Debito,Pago
+4910,101462, pix ,Pago
+4911,102414,Crédito,Pago
+4912,103774,Debito,Pendente
+4913,101211,PIX,Pendente
+4914,103299,PIX,Pago
+4915,100061,PIX,Pago
+4916,102216,Debito,Pago
+4917,104251,,Pago
+4918,102832,Crédito,Pago
+4919,104818,Debito,Pendente
+4920,104103,Debito,Pago
+4921,104619,Crédito,Pago
+4922,105832,PIX,Pago
+4923,100251,Crédito,Pago
+4924,101600,Debito,Pago
+4925,105760,Debito,Pago
+4926,102168,PIX,Pago
+4927,103141,,Pago
+4928,101286,Crédito,Pago
+4929,101788,,Pago
+4930,101469,,Pago
+4931,104034,Crédito,Pendente
+4932,101503,,Pendente
+4933,101255,PIX,Pago
+4934,104320, pix ,Pago
+4935,104815,,Cancelado
+4936,102901, pix ,Pago
+4937,103438,Debito,Pago
+4938,105045,PIX,Pago
+4939,100028,Debito,Pago
+4940,100901,Debito,Pago
+4941,100849,Crédito,Pago
+4942,100101,Debito,Pago
+4943,102106,PIX,Pago
+4944,104511, pix ,Pago
+4945,103241,,Cancelado
+4946,103318,Crédito,Pago
+4947,105956,PIX,Pendente
+4948,101489,PIX,Pago
+4949,101454,Crédito,Pendente
+4950,101802,Debito,Pendente
+4951,104517,Debito,Pago
+4952,104117,,Pago
+4953,104732,,Pago
+4954,103441, pix ,Pago
+4955,104560,Debito,Cancelado
+4956,101516,Crédito,Pago
+4957,103922,,Pago
+4958,103167,Crédito,Pago
+4959,100024,PIX,Pago
+4960,100396,Crédito,Pago
+4961,101428,,Pago
+4962,105966,Crédito,Pendente
+4963,103205,Crédito,Pendente
+4964,101014,PIX,Pago
+4965,104518,Crédito,Pendente
+4966,104227,,Pago
+4967,100420,Debito,Pago
+4968,103350,,Pago
+4969,103966,PIX,Pendente
+4970,104871,PIX,Pago
+4971,105188,,Pago
+4972,105694,Debito,Pago
+4973,101427,Debito,Pago
+4974,104271,Crédito,Pago
+4975,105400,Crédito,Pago
+4976,100464,PIX,Pago
+4977,100390,Crédito,Pago
+4978,100136,Debito,Pago
+4979,102457,Debito,Pago
+4980,102272,PIX,Pago
+4981,100601,Crédito,Pago
+4982,100619, pix ,Pago
+4983,101577,Crédito,Pendente
+4984,103770,PIX,Pago
+4985,102926, pix ,Pago
+4986,105507,Crédito,Pago
+4987,100009,PIX,Pendente
+4988,101204,PIX,Pendente
+4989,101722, pix ,Pago
+4990,100594,Debito,Pago
+4991,103761,Crédito,Cancelado
+4992,100606,,Pago
+4993,101470,PIX,Cancelado
+4994,101696,Crédito,Pago
+4995,101307,,Pago
+4996,105333,,Pago
+4997,101688,Debito,Pago
+4998,105798,Crédito,Cancelado
+4999,103984,PIX,Pago
