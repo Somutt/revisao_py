@@ -1,0 +1,361 @@
+ano,equipe,patrocinador,categoria_patrocinio,valor_estimado_m USD
+2014, MERCEDES ,Petronas,logística,27.2
+2014,Mercedes,Ineos,master,12.1
+2014,Mercedes,TeamViewer,combustível,52.69
+2014,Red Bull,Oracle,tecnologia,22.06
+2014,Red Bull,Mobil 1,logística,23.23
+2014, red bull ,Bybit,financeiro,6.44
+2014,Ferrari,Shell,logística,36.23
+2014,Ferrari,Santander,combustível,46.41
+2014,Ferrari,HP,combustível,14.8
+2014,McLaren,Google,financeiro,27.6
+2014,McLaren,Dell,financeiro,42.12
+2014,McLaren,OKX,master,32.7
+2014,Williams, DURACELL ,master,36.34
+2014,Williams,Gulf,logística,13.38
+2014,williams,Komatsu,tecnologia,16.31
+2014,Force India,Kingfisher,combustível,10.81
+2014,Force India,Claro,tecnologia,61.84
+2014,Force India,Sahara,master,53.54
+2014, TORO ROSSO ,Red Bull,combustível,63.47
+2014,Toro Rosso,Casio,tecnologia,44.1
+2014,Toro Rosso,Honda,master,57.28
+2014,Lotus,Microsoft,logística,30.74
+2014,Lotus,PDVSA,financeiro,30.86
+2014,lotus,EMC,tecnologia,37.08
+2014,sauber,Stake,master,64.61
+2014,Sauber,Alfa Romeo,combustível,7.42
+2014,Sauber,Claro,logística,47.35
+2014,Marussia, QNET ,combustível,59.18
+2014,Marussia,Pirelli,tecnologia,7.71
+2014,Marussia, DELL ,tecnologia,55.25
+2015,Mercedes,petronas,logística,12.05
+2015,Mercedes,Ineos,tecnologia,55.08
+2015,Mercedes,TeamViewer,master,14.35
+2015,Red Bull,Oracle,financeiro,59.94
+2015,Red Bull,Mobil 1,combustível,39.05
+2015,Red Bull,Bybit,financeiro,31.7
+2015,Ferrari,Shell,tecnologia,8.79
+2015,Ferrari,Santander,master,23.64
+2015,Ferrari,HP,logística,16.36
+2015,McLaren,google,combustível,62.86
+2015,McLaren,Dell,tecnologia,10.66
+2015,McLaren,OKX,financeiro,47.47
+2015,Williams,Duracell,logística,54.8
+2015,Williams,Gulf,master,55.53
+2015,Williams,Komatsu,logística,61.6
+2015,Force India,Kingfisher,financeiro,52.75
+2015,Force India,Claro,master,37.74
+2015,Force India,Sahara,tecnologia,58.94
+2015,toro rosso,Red Bull,combustível,63.31
+2015,Toro Rosso,Casio,combustível,33.98
+2015,Toro Rosso,honda,financeiro,32.38
+2015,Lotus,Microsoft,logística,26.7
+2015,lotus,PDVSA,tecnologia,28.49
+2015,Lotus,EMC,master,9.65
+2015, SAUBER ,Stake,master,51.79
+2015,Sauber,Alfa Romeo,financeiro,60.84
+2015,Sauber,Claro,combustível,41.73
+2015,Manor,Pertamina,master,14.45
+2015,Manor,Pirelli,master,17.35
+2015,Manor,Dell,tecnologia,18.12
+2016, MERCEDES ,Petronas,logística,35.95
+2016,Mercedes,Ineos,financeiro,63.63
+2016,Mercedes,TeamViewer,logística,19.18
+2016,Red Bull, ORACLE ,combustível,14.22
+2016,red bull,Mobil 1,master,8.8
+2016,Red Bull,Bybit,master,39.11
+2016,Ferrari,Shell,master,59.75
+2016,Ferrari,Santander,tecnologia,42.56
+2016,Ferrari,HP,combustível,17.11
+2016,McLaren, GOOGLE ,combustível,42.07
+2016,McLaren, DELL ,logística,56.85
+2016,McLaren,OKX,financeiro,25.87
+2016,Williams,Duracell,logística,10.43
+2016,Williams,Gulf,combustível,31.27
+2016,williams,Komatsu,tecnologia,61.74
+2016,Force India,Kingfisher,logística,51.25
+2016,Force India,Claro,tecnologia,37.43
+2016,Force India,Sahara,combustível,24.24
+2016,Toro Rosso,Red Bull,master,44.19
+2016,toro rosso, ,master,31.09
+2016,Toro Rosso,honda,financeiro,18.72
+2016,Renault, ,financeiro,15.13
+2016,Renault,Castrol,financeiro,61.2
+2016,Renault,Mapfre,financeiro,11.44
+2016,Sauber,stake,master,34.86
+2016,Sauber,Alfa Romeo,combustível,35.49
+2016,Sauber,Claro,combustível,31.2
+2016,Haas,MoneyGram,tecnologia,34.18
+2016,Haas,Alpinestars,logística,33.68
+2016,Haas,Pirelli,logística,9.01
+2017,Mercedes,Petronas,combustível,40.58
+2017,Mercedes,Ineos,tecnologia,43.26
+2017,mercedes,TeamViewer,tecnologia,8.05
+2017,Red Bull,Oracle,combustível,33.14
+2017,Red Bull,Mobil 1,logística,58.81
+2017,Red Bull,Bybit,tecnologia,8.62
+2017,Ferrari,Shell,combustível,54.33
+2017,Ferrari, SANTANDER ,financeiro,51.91
+2017,Ferrari, HP ,financeiro,30.69
+2017,McLaren,Google,combustível,56.37
+2017,McLaren,Dell,financeiro,42.86
+2017,McLaren,OKX,tecnologia,44.75
+2017,Williams,Duracell,tecnologia,45.31
+2017,Williams,Gulf,logística,27.25
+2017,williams,Komatsu,logística,30.5
+2017,Force India,Kingfisher,financeiro,35.35
+2017,Force India,Claro,logística,49.19
+2017,Force India,Sahara,combustível,17.93
+2017,toro rosso,Red Bull,combustível,49.71
+2017,Toro Rosso,Casio,tecnologia,16.92
+2017,Toro Rosso,Honda,master,42.61
+2017,Renault,BP,master,58.68
+2017,Renault, CASTROL ,financeiro,21.36
+2017,Renault,Mapfre,combustível,62.36
+2017,Sauber,Stake,master,14.27
+2017,Sauber,Alfa Romeo,tecnologia,22.48
+2017,Sauber,Claro,master,36.76
+2017,Haas, MONEYGRAM ,master,50.63
+2017,Haas,Alpinestars,logística,47.49
+2017,Haas,Pirelli,logística,26.46
+2018,Mercedes, ,master,33.7
+2018,Mercedes,Ineos,logística,21.41
+2018,Mercedes,TeamViewer,master,23.5
+2018,Red Bull,Oracle,tecnologia,38.01
+2018,Red Bull,Mobil 1,master,47.3
+2018,Red Bull,Bybit,master,33.87
+2018, ferrari , SHELL ,master,51.93
+2018,Ferrari,Santander,combustível,53.9
+2018,Ferrari,HP,financeiro,31.89
+2018,McLaren,Google,combustível,19.45
+2018,McLaren,Dell,logística,26.65
+2018,McLaren, ,master,33.05
+2018,Williams,Duracell,master,28.52
+2018,Williams,Gulf,financeiro,50.11
+2018,Williams,Komatsu,tecnologia,23.83
+2018, FORCE INDIA ,Kingfisher,master,12.85
+2018,Force India,Claro,tecnologia,31.33
+2018,Force India,Sahara,financeiro,27.16
+2018,Toro Rosso,Red Bull,tecnologia,19.16
+2018, TORO ROSSO ,Casio,combustível,60.8
+2018,Toro Rosso,Honda,financeiro,34.88
+2018,Renault,BP,financeiro,57.03
+2018,Renault,Castrol,financeiro,64.93
+2018,Renault,Mapfre,combustível,58.39
+2018,Sauber,Stake,financeiro,59.52
+2018,Sauber,Alfa Romeo,combustível,32.66
+2018, sauber ,Claro,financeiro,9.87
+2018,Haas,MoneyGram,financeiro,33.63
+2018, HAAS ,alpinestars,master,34.66
+2018,Haas,Pirelli,combustível,39.09
+2019, MERCEDES ,Petronas,combustível,38.13
+2019, MERCEDES ,Ineos,financeiro,11.52
+2019,Mercedes,teamviewer,logística,18.51
+2019,Red Bull,Oracle,master,55.87
+2019,Red Bull,Mobil 1,financeiro,64.69
+2019,Red Bull,Bybit,financeiro,58.39
+2019,Ferrari,Shell,logística,23.86
+2019,Ferrari, SANTANDER ,master,21.09
+2019,Ferrari,HP,combustível,41.38
+2019,McLaren,Google,financeiro,25.68
+2019,McLaren,Dell,logística,38.42
+2019,McLaren,OKX,financeiro,15.19
+2019,Williams,Duracell,tecnologia,16.71
+2019,Williams,Gulf,financeiro,61.96
+2019,Williams,Komatsu,master,29.17
+2019,Racing Point,BWT,master,45.88
+2019,Racing Point,SportPesa,logística,16.52
+2019,Racing Point,JCB,financeiro,53.72
+2019,Toro Rosso, RED BULL ,master,20.88
+2019, TORO ROSSO , CASIO ,logística,13.4
+2019,Toro Rosso,Honda,logística,45.66
+2019,Renault,BP,logística,19.12
+2019,Renault,Castrol,logística,21.57
+2019,Renault,Mapfre,tecnologia,20.88
+2019,alfa romeo,Orlen,logística,30.8
+2019,Alfa Romeo,Sauber,logística,20.18
+2019,Alfa Romeo,Singha,combustível,51.55
+2019,Haas,MoneyGram,financeiro,27.7
+2019,Haas,Alpinestars,financeiro,55.11
+2019,Haas,Pirelli,logística,5.26
+2020,Mercedes,Petronas,tecnologia,39.27
+2020,Mercedes,Ineos,tecnologia,7.32
+2020,Mercedes,TeamViewer,logística,17.48
+2020, RED BULL ,Oracle,logística,53.6
+2020,Red Bull,Mobil 1,combustível,10.34
+2020,Red Bull,Bybit,master,49.82
+2020,Ferrari,shell,tecnologia,27.29
+2020,ferrari,Santander,tecnologia,16.73
+2020, FERRARI ,HP,master,29.6
+2020,McLaren,Google,combustível,56.71
+2020,mclaren,Dell,combustível,43.54
+2020, MCLAREN ,OKX,financeiro,63.98
+2020,Williams, DURACELL ,financeiro,29.71
+2020,Williams,Gulf,financeiro,60.4
+2020,Williams,Komatsu,combustível,19.75
+2020,Racing Point,bwt,logística,50.27
+2020,Racing Point, SPORTPESA ,financeiro,10.87
+2020,Racing Point,JCB,combustível,17.03
+2020,AlphaTauri,Honda,combustível,16.12
+2020,AlphaTauri,Red Bull,combustível,22.37
+2020,alphatauri,Pirelli,combustível,52.76
+2020,Renault, BP ,tecnologia,53.16
+2020,Renault, ,logística,20.96
+2020,Renault,Mapfre,financeiro,20.28
+2020,Alfa Romeo,Orlen,tecnologia,13.1
+2020,Alfa Romeo,Sauber,master,29.12
+2020,Alfa Romeo,Singha,logística,18.48
+2020,Haas,MoneyGram,combustível,28.95
+2020,Haas,Alpinestars,logística,7.11
+2020,Haas, PIRELLI ,master,43.36
+2021,Mercedes,Petronas,master,51.97
+2021,Mercedes,Ineos,master,60.04
+2021,mercedes,TeamViewer,tecnologia,56.06
+2021,Red Bull,Oracle,tecnologia,18.66
+2021,Red Bull,Mobil 1,logística,8.03
+2021,Red Bull,Bybit,logística,23.35
+2021,Ferrari,Shell,logística,42.13
+2021, FERRARI ,Santander,combustível,12.7
+2021,Ferrari,HP,financeiro,51.85
+2021, MCLAREN ,Google,master,48.7
+2021,McLaren,Dell,logística,31.47
+2021, MCLAREN ,OKX,master,36.65
+2021,Williams,Duracell,logística,49.69
+2021,Williams,Gulf,master,49.96
+2021,Williams,Komatsu,logística,22.27
+2021,aston martin,Aramco,combustível,19.3
+2021,Aston Martin,Cognizant,master,35.17
+2021,aston martin,JCB,financeiro,39.96
+2021,AlphaTauri,Honda,combustível,28.71
+2021,AlphaTauri,Red Bull,logística,59.79
+2021,AlphaTauri,Pirelli,financeiro,19.8
+2021,Alpine, BWT ,financeiro,45.68
+2021,Alpine,Castrol,financeiro,36.39
+2021,Alpine,Microsoft,financeiro,52.71
+2021,Alfa Romeo,orlen,master,62.64
+2021,alfa romeo,Sauber,master,60.07
+2021,Alfa Romeo,Singha,financeiro,64.05
+2021,Haas, MONEYGRAM ,tecnologia,43.29
+2021, HAAS ,Alpinestars,tecnologia,33.44
+2021, HAAS ,Pirelli,master,10.63
+2022, MERCEDES ,Petronas,logística,29.74
+2022,mercedes,Ineos,financeiro,22.04
+2022,Mercedes,TeamViewer,logística,52.27
+2022,Red Bull,Oracle,financeiro,63.8
+2022,Red Bull, MOBIL 1 ,tecnologia,58.01
+2022,Red Bull,Bybit,financeiro,51.21
+2022,Ferrari,Shell,tecnologia,25.21
+2022,Ferrari,Santander,tecnologia,44.51
+2022,Ferrari,HP,financeiro,54.78
+2022,McLaren,Google,logística,18.21
+2022,McLaren,Dell,master,47.72
+2022,McLaren,OKX,tecnologia,34.74
+2022,Williams,Duracell,combustível,8.31
+2022,Williams,Gulf,combustível,56.91
+2022,Williams,Komatsu,tecnologia,6.85
+2022, ASTON MARTIN ,Aramco,logística,61.71
+2022,Aston Martin,Cognizant,tecnologia,8.05
+2022,Aston Martin,JCB,tecnologia,20.46
+2022,AlphaTauri,Honda,financeiro,57.0
+2022,AlphaTauri,Red Bull,tecnologia,58.14
+2022,AlphaTauri,Pirelli,financeiro,17.96
+2022,Alpine,BWT,combustível,51.76
+2022,alpine,Castrol,combustível,19.74
+2022,alpine,Microsoft,financeiro,6.63
+2022,Alfa Romeo,Orlen,tecnologia,62.51
+2022,Alfa Romeo,Sauber,combustível,43.13
+2022,Alfa Romeo,Singha,financeiro,49.64
+2022,Haas,MoneyGram,logística,33.57
+2022,Haas,Alpinestars,combustível,31.97
+2022,Haas,Pirelli,master,17.09
+2023,Mercedes,petronas,financeiro,58.28
+2023, MERCEDES ,Ineos,logística,25.97
+2023,Mercedes,teamviewer,logística,39.72
+2023,Red Bull,Oracle,master,63.34
+2023,Red Bull,Mobil 1,master,59.17
+2023,Red Bull,Bybit,financeiro,24.93
+2023,Ferrari,Shell,logística,15.15
+2023,Ferrari,Santander,tecnologia,10.4
+2023,Ferrari,HP,tecnologia,12.21
+2023,McLaren,Google,tecnologia,64.39
+2023, MCLAREN ,Dell,master,9.44
+2023,McLaren,OKX,master,54.64
+2023,Williams,Duracell,master,39.81
+2023,Williams,Gulf,master,42.85
+2023,Williams,Komatsu,financeiro,57.93
+2023,Aston Martin,Aramco,tecnologia,36.33
+2023,Aston Martin,Cognizant,financeiro,47.76
+2023,Aston Martin,JCB,combustível,25.76
+2023,AlphaTauri,Honda,combustível,33.06
+2023,AlphaTauri,Red Bull,master,52.79
+2023,AlphaTauri,Pirelli,master,20.64
+2023,Alpine,BWT,combustível,19.78
+2023,Alpine,Castrol,master,55.52
+2023,Alpine,Microsoft,financeiro,46.16
+2023,Alfa Romeo,Orlen,tecnologia,56.38
+2023,Alfa Romeo,Sauber,logística,50.9
+2023,alfa romeo,Singha,master,23.46
+2023,Haas,MoneyGram,financeiro,46.33
+2023,Haas,Alpinestars,tecnologia,59.59
+2023,Haas,Pirelli,master,39.13
+2024,Mercedes,Petronas,tecnologia,22.39
+2024,Mercedes,Ineos,tecnologia,42.31
+2024,Mercedes,TeamViewer,combustível,41.62
+2024,Red Bull,Oracle,master,13.1
+2024,Red Bull,Mobil 1,financeiro,46.61
+2024,Red Bull,Bybit,financeiro,45.96
+2024, FERRARI ,shell,financeiro,9.44
+2024,Ferrari,santander,financeiro,29.54
+2024,ferrari,hp,combustível,10.2
+2024,McLaren,Google,logística,31.46
+2024,McLaren,Dell,tecnologia,49.57
+2024,McLaren,OKX,financeiro,54.78
+2024,Williams,Duracell,tecnologia,37.75
+2024,Williams,Gulf,master,33.35
+2024,Williams,Komatsu,financeiro,34.95
+2024,Aston Martin,Aramco,master,60.68
+2024,Aston Martin, ,financeiro,34.51
+2024,Aston Martin, JCB ,logística,41.12
+2024,RB,Visa,combustível,49.25
+2024,RB,Cash App,master,35.94
+2024,RB,Red Bull,master,33.9
+2024,Alpine,BWT,combustível,34.61
+2024,Alpine,Castrol,logística,33.1
+2024,Alpine,Microsoft,logística,32.03
+2024,sauber,Stake,logística,15.85
+2024,Sauber,Alfa Romeo,combustível,10.71
+2024,Sauber,Claro,tecnologia,5.03
+2024,Haas, MONEYGRAM ,financeiro,51.15
+2024,Haas,Alpinestars,combustível,49.01
+2024,Haas,Pirelli,financeiro,39.2
+2025,Mercedes,Petronas,master,14.26
+2025,Mercedes,Ineos,master,15.04
+2025,Mercedes,TeamViewer,logística,42.6
+2025,Red Bull,Oracle,master,43.49
+2025,Red Bull,Mobil 1,tecnologia,29.74
+2025,Red Bull, BYBIT ,tecnologia,18.84
+2025,Ferrari, shell ,financeiro,59.35
+2025,Ferrari,Santander,logística,50.37
+2025,Ferrari,hp,combustível,55.98
+2025,McLaren,Google,tecnologia,18.44
+2025,McLaren,Dell,logística,22.21
+2025,McLaren,OKX,tecnologia,20.77
+2025,williams,Duracell,tecnologia,39.95
+2025,Williams,Gulf,financeiro,64.42
+2025,Williams,Komatsu,logística,36.61
+2025, ASTON MARTIN ,Aramco,tecnologia,56.6
+2025,Aston Martin,Cognizant,financeiro,60.98
+2025,Aston Martin,JCB,tecnologia,36.71
+2025,RB,Visa,tecnologia,54.97
+2025,RB,Cash App,tecnologia,31.39
+2025, RB , red bull ,tecnologia,64.14
+2025,Alpine,BWT,combustível,59.37
+2025,Alpine,Castrol,logística,52.91
+2025, ALPINE ,Microsoft,logística,24.25
+2025,Sauber,Stake,tecnologia,37.84
+2025,Sauber,Alfa Romeo,master,35.33
+2025,Sauber,Claro,combustível,43.2
+2025,Haas,MoneyGram,combustível,49.95
+2025,Haas,Alpinestars,combustível,25.01
+2025,Haas,Pirelli,combustível,12.63

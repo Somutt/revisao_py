@@ -1,0 +1,241 @@
+ano,id_piloto,piloto,equipe,nacionalidade,idade,experiencia_anos
+2014,1,Lewis Hamilton,Mercedes,Itália,37,3
+2014,2,Nico Rosberg,Mercedes,Itália,39,6
+2014,3,Sebastian Vettel,Red Bull,Espanha,30,6
+2014,4,Daniel Ricciardo,red bull,Austrália,26,0
+2014,5, fernando alonso ,Ferrari,Brasil,37,0
+2014,6,Kimi Raikkonen,Ferrari,Alemanha,25,3
+2014,7,Jenson Button,McLaren,México,37,6
+2014,8,Kevin Magnussen,McLaren,Japão,30,1
+2014,9,Felipe Massa, WILLIAMS ,Holanda,21,2
+2014,10,valtteri bottas,Williams,holanda,41,2
+2014,11,Sergio Perez,Force India,Itália,23 anos,4
+2014,12,Nico Hulkenberg, FORCE INDIA ,Brasil,37,4
+2014,13,Jean-Eric Vergne,Toro Rosso,holanda,37,6
+2014,14,Daniil Kvyat,Toro Rosso,Canadá,36,2
+2014,15,Romain Grosjean,Lotus,Austrália,37,0
+2014,16,Pastor Maldonado,Lotus,México,40,0
+2014,17,Adrian Sutil, SAUBER ,México,34,6
+2014,18,Esteban Gutierrez,Sauber,Holanda,30,6
+2014,19,jules bianchi,Marussia,México,31,4
+2014,20, ,Marussia,Holanda,32,5
+2015,1,Lewis Hamilton,Mercedes,Brasil,29,7
+2015,2,Nico Rosberg,Mercedes,Brasil,N/A,2
+2015,4, DANIEL RICCIARDO ,Red Bull,Austrália,25,6
+2015,14,Daniil Kvyat,Red Bull,espanha,32,6
+2015,3,Sebastian Vettel,Ferrari,China,38,3
+2015,6,Kimi Raikkonen,Ferrari,Finlândia,35,4
+2015,5,Fernando Alonso,McLaren,Reino Unido,29,2
+2015,7,Jenson Button,McLaren,China,32,7
+2015,9,Felipe Massa,Williams,Brasil,24,1
+2015,10,Valtteri Bottas,Williams,Espanha,35,4
+2015,11,Sergio Perez,Force India,Austrália,36,6
+2015,12,Nico Hulkenberg,Force India,Itália,32,5
+2015,21,Max Verstappen, TORO ROSSO ,Canadá,27,3
+2015,22,Carlos Sainz,Toro Rosso,Reino Unido,32,1
+2015,15,Romain Grosjean,Lotus,Mônaco,33,7
+2015,16,Pastor Maldonado,Lotus, BRASIL ,38,6
+2015,23,Marcus Ericsson,Sauber,Holanda,33,3
+2015,24,Felipe Nasr,Sauber,China,31,2
+2015,25, will stevens ,Manor, ESPANHA ,31,1
+2015,26,Roberto Merhi,Manor,Austrália,23,1
+2016,1,Lewis Hamilton,Mercedes,Espanha,22,3
+2016,2,Nico Rosberg, MERCEDES ,holanda,32,4
+2016,4,Daniel Ricciardo,Red Bull,Itália,30,6
+2016,21,Max Verstappen,Red Bull,Espanha,39 anos,5
+2016,3, SEBASTIAN VETTEL ,Ferrari, CHINA ,N/A,8
+2016,6,Kimi Raikkonen, FERRARI ,Canadá,41,5
+2016,5,Fernando Alonso,McLaren,Itália,32,3
+2016,7, JENSON BUTTON ,mclaren,China,28,4
+2016,9,Felipe Massa,Williams,Alemanha,25,4
+2016,10,Valtteri Bottas,Williams, CHINA ,39,4
+2016,11,sergio perez,Force India,Itália,32,7
+2016,12,nico hulkenberg,force india,Finlândia,25,6
+2016,22,Carlos Sainz,Toro Rosso,Holanda,34,4
+2016,14,Daniil Kvyat,Toro Rosso,México,38,4
+2016,8,Kevin Magnussen,Renault,Mônaco,27,3
+2016,27,Jolyon Palmer,Renault, CHINA ,28,2
+2016,23,Marcus Ericsson,Sauber,Holanda,26,5
+2016,24,Felipe Nasr,Sauber,Japão,26,6
+2016,15,Romain Grosjean,Haas,Finlândia,37,5
+2016,18,Esteban Gutierrez,Haas, FRANÇA ,39,8
+2017,1,Lewis Hamilton,Mercedes,Finlândia,41,7
+2017,10,Valtteri Bottas,mercedes,Japão,26,7
+2017,4,Daniel Ricciardo,Red Bull,México,39,8
+2017,21,Max Verstappen,Red Bull,Mônaco,30,4
+2017,3,Sebastian Vettel,Ferrari,Espanha,32,3
+2017,6,Kimi Raikkonen,Ferrari,Brasil,29,5
+2017,5,Fernando Alonso, MCLAREN ,Canadá,41,6
+2017,28,Stoffel Vandoorne,McLaren,França,40,3
+2017,9,Felipe Massa, WILLIAMS ,Itália,21,9
+2017,29,Lance Stroll,williams,Reino Unido,36,5
+2017,11,Sergio Perez,Force India,holanda,21,4
+2017,30,Esteban Ocon,Force India,Holanda,33,9
+2017,22,Carlos Sainz,Toro Rosso,México,30,6
+2017,14,Daniil Kvyat,Toro Rosso, ESPANHA ,37 anos,3
+2017,12,Nico Hulkenberg,Renault,Japão,22,3
+2017,27,Jolyon Palmer,Renault,Austrália,34,8
+2017,23,Marcus Ericsson,Sauber,china,22,7
+2017,31,Pascal Wehrlein,Sauber,Mônaco,30,9
+2017,15,Romain Grosjean,Haas, FRANÇA ,27,5
+2017,8,Kevin Magnussen,Haas,Austrália,25,4
+2018,1,Lewis Hamilton,Mercedes,Espanha,21,4
+2018,10,Valtteri Bottas,Mercedes,China,29,5
+2018,4,Daniel Ricciardo,Red Bull,Reino Unido,21,7
+2018,21,Max Verstappen,Red Bull,França,26,4
+2018,3,Sebastian Vettel,Ferrari,Austrália,27,7
+2018,6,Kimi Raikkonen,Ferrari, CANADÁ ,32,7
+2018,5,Fernando Alonso,McLaren,Alemanha,38 anos,5
+2018,28,Stoffel Vandoorne,McLaren,Espanha,25,8
+2018,29,Lance Stroll,Williams,China,26,7
+2018,32,Sergey Sirotkin,Williams,Brasil,39,6
+2018,11,Sergio Perez,Force India,Canadá,25,6
+2018,30,Esteban Ocon,Force India,Itália,26,7
+2018,33, PIERRE GASLY ,Toro Rosso,França,22,7
+2018,34,Brendon Hartley,Toro Rosso,Brasil,39,5
+2018,12,Nico Hulkenberg,Renault,Finlândia,24,4
+2018,22,Carlos Sainz, RENAULT ,Reino Unido,27,4
+2018,23,Marcus Ericsson,Sauber,Reino Unido,40,4
+2018,35,Charles Leclerc,Sauber,Mônaco,40,9
+2018,15, ROMAIN GROSJEAN ,Haas,Mônaco,21,4
+2018,8,Kevin Magnussen,Haas,Finlândia,35,7
+2019,1,lewis hamilton,Mercedes,Reino Unido,26,8
+2019,10,Valtteri Bottas,Mercedes,finlândia,25,9
+2019,21,Max Verstappen,Red Bull,França,38,5
+2019,33,Pierre Gasly,Red Bull,Japão,26,8
+2019,3,Sebastian Vettel,Ferrari, FRANÇA ,34,6
+2019,35,Charles Leclerc,Ferrari,Canadá,39,11
+2019,22, CARLOS SAINZ ,McLaren, ESPANHA ,38,6
+2019,36,lando norris, MCLAREN ,China,26 anos,8
+2019,37,George Russell,williams,itália,30,9
+2019,38,Robert Kubica,Williams,Itália,40,5
+2019,11,Sergio Perez,Racing Point,Canadá,28,10
+2019,29, LANCE STROLL ,nao informado,Espanha,24,8
+2019,14,Daniil Kvyat,Toro Rosso,Reino Unido,37,9
+2019,39,Alexander Albon,Toro Rosso,méxico,27,8
+2019,12,Nico Hulkenberg,Renault,Finlândia,29,7
+2019,4,Daniel Ricciardo,Renault,Reino Unido,38,11
+2019,6,Kimi Raikkonen,Alfa Romeo,Canadá,21,7
+2019,40, ANTONIO GIOVINAZZI ,Alfa Romeo,Holanda,29,9
+2019,15,Romain Grosjean,Haas,Brasil,24,10
+2019,8,Kevin Magnussen,Haas,brasil,38,7
+2020,1,Lewis Hamilton,Mercedes,Japão,36,8
+2020,10,Valtteri Bottas,Mercedes,China,23,7
+2020,21,Max Verstappen, RED BULL ,México,33,6
+2020,39,Alexander Albon,Red Bull,Mônaco,37,10
+2020,3,Sebastian Vettel,ferrari,Holanda,35,7
+2020,35,Charles Leclerc,Ferrari,Alemanha,37,6
+2020,22,Carlos Sainz,McLaren,México,41,6
+2020,36,Lando Norris,McLaren,Holanda,40,9
+2020,37,george russell,Williams,Finlândia,41,10
+2020,41,Nicholas Latifi,Williams,Reino Unido,29,10
+2020,11,Sergio Perez,Racing Point,Reino Unido,39,12
+2020,29,Lance Stroll,Racing Point,Alemanha,29,7
+2020,33,Pierre Gasly,AlphaTauri,Mônaco,34,7
+2020,14,Daniil Kvyat,AlphaTauri,Holanda,36,9
+2020,4,Daniel Ricciardo,Renault,reino unido,33 anos,8
+2020,30,Esteban Ocon,Renault,Brasil,28,12
+2020,6,Kimi Raikkonen,alfa romeo, MÔNACO ,38,6
+2020,40,Antonio Giovinazzi,Alfa Romeo,Finlândia,22,7
+2020,15,Romain Grosjean,Haas,Japão,25,12
+2020,8,Kevin Magnussen,Haas,México,38,10
+2021,1,Lewis Hamilton, mercedes , ,33,10
+2021,10,Valtteri Bottas,Mercedes,Austrália,32,12
+2021,21,Max Verstappen,Red Bull,Alemanha,35,12
+2021,11,Sergio Perez,Red Bull,Alemanha,37,8
+2021,35,Charles Leclerc,Ferrari,Canadá,36,13
+2021,22,Carlos Sainz,Ferrari, AUSTRÁLIA ,24,13
+2021,36,lando norris,McLaren,Itália,31 anos,7
+2021,4,Daniel Ricciardo,McLaren,Japão,21,9
+2021,37,George Russell,Williams,Austrália,31,9
+2021,41,Nicholas Latifi,nao informado,Reino Unido,40,12
+2021,3,Sebastian Vettel,Aston Martin, BRASIL ,39,9
+2021,29,Lance Stroll,Aston Martin,brasil,24,10
+2021,33,Pierre Gasly,AlphaTauri,Austrália,24,13
+2021,42,Yuki Tsunoda,alphatauri,Mônaco,26,11
+2021,5,Fernando Alonso,Alpine,China,25,13
+2021,30,Esteban Ocon,Alpine,China,41,8
+2021,6,Kimi Raikkonen,Alfa Romeo,Espanha,25,10
+2021,40,Antonio Giovinazzi,Alfa Romeo,Canadá,39,11
+2021,43, MICK SCHUMACHER ,Haas,Brasil,39,9
+2021,44,Nikita Mazepin,Haas,Alemanha,29,7
+2022,1,Lewis Hamilton,Mercedes,Brasil,36,13
+2022,37,George Russell,Mercedes,Canadá,32,14
+2022,21,Max Verstappen,red bull,França,32,8
+2022,11,Sergio Perez,Red Bull,China,37,12
+2022,35,Charles Leclerc,Ferrari,China,39,13
+2022,22,Carlos Sainz,Ferrari,Reino Unido,31,8
+2022,36,Lando Norris,McLaren,França,25 anos,13
+2022,4,Daniel Ricciardo,nao informado,Holanda,30,9
+2022,39, ALEXANDER ALBON ,Williams,Itália,41,10
+2022,41,Nicholas Latifi,Williams,Canadá,37,14
+2022,3,Sebastian Vettel,Aston Martin,Finlândia,39,10
+2022,29,Lance Stroll,Aston Martin,Espanha,34,10
+2022,33,Pierre Gasly,AlphaTauri,Alemanha,33,12
+2022,42, yuki tsunoda ,AlphaTauri,Austrália,29 anos,8
+2022,5,Fernando Alonso,Alpine,Finlândia,33,14
+2022,30,Esteban Ocon,Alpine,França,31,8
+2022,10,Valtteri Bottas,Alfa Romeo,Espanha,25,10
+2022,45,Zhou Guanyu,Alfa Romeo,Austrália,28,13
+2022,43,Mick Schumacher,Haas,Espanha,23,9
+2022,8,Kevin Magnussen,nao informado,Brasil,27,8
+2023,1,Lewis Hamilton,Mercedes,Holanda,28,15
+2023,37, GEORGE RUSSELL ,mercedes,México,36,10
+2023,21, MAX VERSTAPPEN ,Red Bull,França,23,14
+2023,11,Sergio Perez,Red Bull,china,N/A,11
+2023,35, CHARLES LECLERC ,Ferrari,França,26,10
+2023,22,Carlos Sainz,Ferrari,Mônaco,41,12
+2023,36,Lando Norris,McLaren,Holanda,31,12
+2023,46,Oscar Piastri,mclaren,México,30,9
+2023,39,Alexander Albon,Williams,Holanda,21,12
+2023,47, LOGAN SARGEANT , WILLIAMS ,Itália,22,10
+2023,5,Fernando Alonso,Aston Martin,Brasil,34,12
+2023,29, ,Aston Martin,Reino Unido,39,10
+2023,42,Yuki Tsunoda,AlphaTauri,Reino Unido,26,11
+2023,48,Nyck de Vries,AlphaTauri,Canadá,27,11
+2023,33,Pierre Gasly,Alpine,Canadá,39,15
+2023,30,Esteban Ocon,Alpine, ITÁLIA ,23,13
+2023,10,Valtteri Bottas,Alfa Romeo,Espanha,41 anos,15
+2023,45,Zhou Guanyu,Alfa Romeo,Reino Unido,33,11
+2023,8,Kevin Magnussen,Haas,Itália,23,11
+2023,12,Nico Hulkenberg,Haas,Alemanha,25,11
+2024,1,Lewis Hamilton,Mercedes, JAPÃO ,23,15
+2024,37,George Russell,Mercedes,Finlândia,36,12
+2024,21,Max Verstappen,Red Bull,Alemanha,32,11
+2024,11, SERGIO PEREZ ,Red Bull,México,22 anos,13
+2024,35,Charles Leclerc,Ferrari,reino unido,24,15
+2024,22,Carlos Sainz,Ferrari,Finlândia,28,13
+2024,36,Lando Norris,McLaren,Canadá,36,12
+2024,46,Oscar Piastri,McLaren,Austrália,38,15
+2024,39,Alexander Albon,Williams,Reino Unido,29,15
+2024,47,Logan Sargeant,Williams,Canadá,21,10
+2024,5,Fernando Alonso,aston martin,Finlândia,25,16
+2024,29,Lance Stroll,Aston Martin,Reino Unido,29,11
+2024,42,Yuki Tsunoda,RB,Canadá,39,10
+2024,4,Daniel Ricciardo,RB,México,29,11
+2024,33,Pierre Gasly, ALPINE , FINLÂNDIA ,38,11
+2024,30,Esteban Ocon,alpine,Austrália,34,10
+2024,10,Valtteri Bottas,Sauber,Mônaco,30,11
+2024,45,Zhou Guanyu,Sauber,Brasil,39,10
+2024,8,Kevin Magnussen,Haas,Finlândia,38,16
+2024,12,Nico Hulkenberg,Haas,Espanha,36,13
+2025,37,George Russell,Mercedes,Canadá,32,12
+2025,49,Kimi Antonelli,Mercedes,México,27,13
+2025,21,Max Verstappen,Red Bull,Holanda,24,17
+2025,11,Sergio Perez,red bull,China,22,11
+2025,35,Charles Leclerc,Ferrari,Espanha,37,14
+2025,1,Lewis Hamilton,Ferrari,França,26,14
+2025,36,Lando Norris,McLaren, AUSTRÁLIA ,32,14
+2025,46,Oscar Piastri,nao informado,França,38,13
+2025,39,Alexander Albon,Williams,Austrália,23,11
+2025,22,Carlos Sainz,Williams,Itália,24,11
+2025,5,Fernando Alonso,Aston Martin,japão,31,17
+2025,29,Lance Stroll,Aston Martin,Mônaco,24,13
+2025,42,Yuki Tsunoda,RB,Itália,32,12
+2025,50, LIAM LAWSON ,RB,México,24,17
+2025,33,pierre gasly,Alpine,Austrália,21,11
+2025,51,Jack Doohan,Alpine,China,24,11
+2025,12,Nico Hulkenberg,Sauber,China,27,15
+2025,52,Gabriel Bortoleto,Sauber, FRANÇA ,22,17
+2025,30,Esteban Ocon,Haas,Alemanha,29,14
+2025,53, OLIVER BEARMAN ,Haas,Mônaco,34,16
